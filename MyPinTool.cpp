@@ -9,43 +9,37 @@
  * warranties, other than those that are expressly stated in the License.
  */
 
-#include <iostream>
-#include <fstream>
+#include <stdio.h>
 #include "pin.H"
-using std::cerr;
-using std::ofstream;
-using std::ios;
-using std::string;
-using std::endl;
 
-ofstream OutFile;
-
-// The running count of instructions is kept here
-// make it static to help the compiler optimize docount
-static UINT64 branchcount = 0;
+FILE * trace;
+static long count = 0;
+static long pre_count = 0;
 
 // This function is called before every instruction is executed
-VOID dobranchcount() { branchcount++; }
-    
+// and prints the IP
+VOID printip(VOID *ip) { fprintf(trace, "%p\n", ip);
+     fprintf(trace, "%ld\n", (count - pre_count));
+     pre_count = count;
+}
+VOID docount() {count++;}
+
 // Pin calls this function every time a new instruction is encountered
 VOID Instruction(INS ins, VOID *v)
 {
-    // Insert a call to docount before every instruction, no arguments are passed
+    INS_InsertCall(ins, IPOINT_BEFORE, (AFUNPTR)docount, IARG_END);
+    
+    // Insert a call to printip before every instruction, and pass it the IP
     if (INS_IsBranch(ins)){
-    INS_InsertCall(ins, IPOINT_BEFORE, (AFUNPTR)dobranchcount, IARG_END);
+    INS_InsertCall(ins, IPOINT_BEFORE, (AFUNPTR)printip, IARG_INST_PTR, IARG_END);
     }
 }
-
-KNOB<string> KnobOutputFile(KNOB_MODE_WRITEONCE, "pintool",
-    "o", "branchcount.out", "specify output file name");
 
 // This function is called when the application exits
 VOID Fini(INT32 code, VOID *v)
 {
-    // Write to a file since cout and cerr maybe closed by the application
-    OutFile.setf(ios::showbase);
-    OutFile << "Count " << branchcount << endl;
-    OutFile.close();
+    fprintf(trace, "#eof\n");
+    fclose(trace);
 }
 
 /* ===================================================================== */
@@ -54,23 +48,21 @@ VOID Fini(INT32 code, VOID *v)
 
 INT32 Usage()
 {
-    cerr << "This tool counts the number of dynamic instructions executed" << endl;
-    cerr << endl << KNOB_BASE::StringKnobSummary() << endl;
+    PIN_ERROR("This Pintool prints the IPs of every instruction executed\n" 
+              + KNOB_BASE::StringKnobSummary() + "\n");
     return -1;
 }
 
 /* ===================================================================== */
 /* Main                                                                  */
 /* ===================================================================== */
-/*   argc, argv are the entire command line: pin -t <toolname> -- ...    */
-/* ===================================================================== */
 
 int main(int argc, char * argv[])
 {
+    trace = fopen("itrace.out", "w");
+    
     // Initialize pin
     if (PIN_Init(argc, argv)) return Usage();
-
-    OutFile.open(KnobOutputFile.Value().c_str());
 
     // Register Instruction to be called to instrument instructions
     INS_AddInstrumentFunction(Instruction, 0);
