@@ -28,6 +28,7 @@ using std::dec;
 using std::endl;
 
 ofstream outFile;
+string funcName = "main"; // TODO Change function name here :D
 
 // Holds instruction count for a single procedure
 typedef struct RtnCount
@@ -62,8 +63,8 @@ const char * StripPath(const char * path)
 // Pin calls this function every time a new rtn is executed
 VOID Routine(RTN rtn, VOID *v)
 {
-    if (PIN_UndecorateSymbolName(RTN_Name(rtn), UNDECORATION_NAME_ONLY) == "main") {
-        std::cout << "WE'RE MAIN!!!!" << endl;
+    if (PIN_UndecorateSymbolName(RTN_Name(rtn), UNDECORATION_NAME_ONLY) == funcName) {
+        std::cout << "We found " << RTN_Name(rtn) << endl;
     } else {
         return;
     }
@@ -141,7 +142,7 @@ int main(int argc, char * argv[])
     // Initialize symbol table code, needed for rtn instrumentation
     PIN_InitSymbols();
 
-    outFile.open("proccount.out");
+    outFile.open("funccount.out");
 
     // Initialize pin
     if (PIN_Init(argc, argv)) return Usage();
