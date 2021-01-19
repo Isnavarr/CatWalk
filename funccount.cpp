@@ -19,6 +19,7 @@
 #include <iostream>
 #include <string.h>
 #include "pin.H"
+#include <set>
 using std::ofstream;
 using std::string;
 using std::hex;
@@ -28,7 +29,9 @@ using std::dec;
 using std::endl;
 
 ofstream outFile;
-string funcName = "main"; // TODO Change function name here :D
+
+// set that contains all of the func names to keep track of
+std::set<string> funcNames;
 
 // Holds instruction count for a single procedure
 typedef struct RtnCount
@@ -63,11 +66,18 @@ const char * StripPath(const char * path)
 // Pin calls this function every time a new rtn is executed
 VOID Routine(RTN rtn, VOID *v)
 {
-    if (PIN_UndecorateSymbolName(RTN_Name(rtn), UNDECORATION_NAME_ONLY) == funcName) {
-        std::cout << "We found " << RTN_Name(rtn) << endl;
-    } else {
+    // take the routine name and undecorate it
+    string decName = RTN_Name(rtn);
+    string rawName = PIN_UndecorateSymbolName(decName, UNDECORATION_NAME_ONLY);
+    
+    // check if the func is one we're looking for
+    if (funcNames.find(rawName) != funcNames.end()) {
+        // std::cout << "We found " << rawName << endl; // uncomment to check
+        // name of functions tracking & seen
+    } else { // otherwise exit
         return;
     }
+
     // Allocate a counter for this routine
     RTN_COUNT * rc = new RTN_COUNT;
     
@@ -139,6 +149,18 @@ INT32 Usage()
 
 int main(int argc, char * argv[])
 {
+    // checking args passed in
+    if (argc <= 7) {
+        std::cout << "need to give at least one function name" << endl;
+        return -1;
+    }
+    
+    // adding those args to the function
+    for (int i = 7; i < argc; i++) {
+        // std::cout << argv[i] << endl; // uncomment to check func names
+        funcNames.insert(argv[i]);
+    }
+
     // Initialize symbol table code, needed for rtn instrumentation
     PIN_InitSymbols();
 
