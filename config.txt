@@ -1,0 +1,35 @@
+general:
+  logger:
+    # Logger settings
+
+testcase:
+  module: load # Test case generator module name
+  module-options: /TestcaseGeneration/Modules/RandomTestcaseGenerator.cs
+    # Test case generator module options
+
+trace:
+  module: pin# Trace module name
+  module-options:
+	- pin/source/tools/PinTracer/obj-intel64/PinTracer.so
+	- # i dont know
+	- pin/source/tools/PinTracer/
+	- cryptossl.so
+    # Trace module options
+  options:
+    # General trace stage options
+
+preprocess:
+  module: pin # Preprocessor module name
+  module-options:
+    # Preprocessor module options
+  options:
+    # General preprocessor stage options
+
+analysis:
+  module: passthrough# List of analysis module settings
+
+    # ...
+  options:
+    # General analysis stage options
+
+# A valid configuration file must specify at least one module for each stage.
