@@ -4,10 +4,18 @@
 int main(void) {
 	unsigned int a = 1;
 	unsigned int b = 2;
-	unsigned int result = 0;
+	unsigned int result1 = add(a,b);
 
-	result = add(a,b);
+	printf("The result is [%u]\n", result1);
+	
+	int c = 5;
+	int d = 3;
+	int result2 = subtract(c,d);
 
-	printf("\n The result is [%u]\n", result);
+	printf("The result is [%d]\n", result2);
+
+	char name[12] = "Jessica";
+	printName(name);
+
 	return 0;
 }

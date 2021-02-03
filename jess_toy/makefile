@@ -3,7 +3,7 @@
 # add this directory also to your LD_LIBRARY_PATH by running after you make
 # export LD_LIBRARY_PATH=$HOME:$LD_LIBRARY_PATH
 
-_OBJS = shared.o
+_OBJS = math.o print.o
 
 CFLAGS += -Wall -Werror -fPIC
 
