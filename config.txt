@@ -1,20 +1,22 @@
-general:
+---
+general:etg 
   logger:
     # Logger settings
 
 testcase:
   module: load # Test case generator module name
-  module-options: /TestcaseGeneration/Modules/RandomTestcaseGenerator.cs
+  module-options: 
+    - input-directory: /TestcaseGeneration/Modules/RandomTestcaseGenerator.cs
     # Test case generator module options
 
 trace:
-  module: pin# Trace module name
+  module: pin # Trace module name
   module-options:
-	- pin/source/tools/PinTracer/obj-intel64/PinTracer.so
-	- # i dont know
-	- pin/source/tools/PinTracer/
-	- cryptossl.so
-    # Trace module options
+    - pin-tool-path: /Desktop/pin/source/tools/PinTracer/obj-intel64/PinTracer.so
+    - wrapper-path: /Desktop/Microwalk-master/PinTracerWrapper/PinTracerWrapper.cpp
+    - output-directory: /Desktop/pin/source/tools/PinTracer/
+    - images:
+      - cryptossl.so # Trace module options
   options:
     # General trace stage options
 
