@@ -1,0 +1,34 @@
+general:
+        logger:
+                log-level: error
+                file: /home/jessicalam/Desktop/OutDir/log.txt
+
+testcase:
+        module: random
+        module-options:
+                length: 2
+                amount: 2
+                output-directory: /home/jessicalam/Desktop/OutDir/testcases/
+
+trace:
+        module: pin
+        module-options:
+                pin-tool-path: /home/jessicalam/Desktop/Microwalk/PinTracer/obj-intel64/PinTracer.so
+                wrapper-path: /home/jessicalam/Desktop/Microwalk/PinTracerWrapper/wrapper
+                output-directory: /home/jessicalam/Desktop/OutDir/trace/
+                images:
+                        - wrapper
+                        - libshared.so
+                pin-path: /home/jessicalam/Desktop/pin-3.17-98314-g0c048d619-gcc-linux/pin
+        options: 
+
+preprocess:
+        module: passthrough
+        module-options: 
+        options: 
+
+analysis:
+        module: passthrough
+        module-options: 
+        options: 
+
