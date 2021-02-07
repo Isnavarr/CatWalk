@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-#ifdef __cpplusplus
+#ifdef __cplusplus
 extern "C" {
 #endif
 	extern unsigned int add(unsigned int a, unsigned int b);
