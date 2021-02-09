@@ -29,6 +29,7 @@ preprocess:
 
 analysis:
         modules:
-                - module: instructions
-                  module-options:
-                          output-directory: /home/jessicalam/Desktop/OutDir/analysis/ins
+                - module: passthrough
+                #- module: 
+                #  module-options:
+                #          output-directory: /home/jessicalam/Desktop/OutDir/analysis/ins
