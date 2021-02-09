@@ -1,4 +1,4 @@
-general:
+General:
         logger:
                 log-level: error
                 file: /home/jessicalam/Desktop/OutDir/log.txt
@@ -28,7 +28,7 @@ preprocess:
                 output-directory: /home/jessicalam/Desktop/OutDir/preprocess/
 
 analysis:
-        module: passthrough
-        module-options: 
-        options: 
+        module: instruction-memory-access-trace-leakage
+        module-options:
+                output-directory: /home/jessicalam/Desktop/OutDir/analysis/
 
