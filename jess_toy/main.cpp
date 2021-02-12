@@ -2,17 +2,19 @@
 #include "shared.h"
 
 int main(void) {
-	unsigned int a = 1;
-	unsigned int b = 2;
-	unsigned int result1 = add(a,b);
 
-	printf("The result is [%u]\n", result1);
+	printf("The result is [%d]\n", add());
 	
 	int c = 5;
 	int d = 3;
 	int result2 = subtract(c,d);
 
 	printf("The result is [%d]\n", result2);
+
+	result2 = absVal(d,c);
+	printf("absval is [%d]\n", result2);
+
+	printf("Is -3 positive? [%d]\n", isPos(-3));
 
 	char name[12] = "Jessica";
 	printName(name);

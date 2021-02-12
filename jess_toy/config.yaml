@@ -22,14 +22,15 @@ trace:
                 pin-path: /home/jessicalam/Desktop/pin-3.17-98314-g0c048d619-gcc-linux/pin
 
 preprocess:
-        module: pin
-        module-options:
-                store-traces: true
-                output-directory: /home/jessicalam/Desktop/OutDir/preprocess/
+        module: passthrough
+        #module: pin
+        #module-options:
+        #        store-traces: true
+        #        output-directory: /home/jessicalam/Desktop/OutDir/preprocess/
 
 analysis:
         modules:
                 - module: passthrough
-                #- module: 
+                #- module: dump
                 #  module-options:
                 #          output-directory: /home/jessicalam/Desktop/OutDir/analysis/ins

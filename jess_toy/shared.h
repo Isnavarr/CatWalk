@@ -6,8 +6,10 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
-	extern unsigned int add(unsigned int a, unsigned int b);
+	extern int add();
 	extern int subtract(int a, int b);
+	extern int absVal(int a, int b);
+	extern int isPos(int a);
 
 	extern void printName(char* name);
 

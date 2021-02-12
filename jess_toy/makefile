@@ -3,6 +3,8 @@
 # add this directory also to your LD_LIBRARY_PATH by running after you make
 # export LD_LIBRARY_PATH=$HOME:$LD_LIBRARY_PATH
 
+CC = g++
+
 _OBJS = math.o print.o
 
 CFLAGS += -Wall -Werror -fPIC
@@ -18,12 +20,12 @@ HOME = /home/jessicalam/Desktop/CatWalk/jess_toy/
 .PHONY: all
 
 all: $(SHARED_LIB)
-	$(CC) -L $(HOME) -Wall main.c -o main -l $(LIB)
+	$(CC) -L $(HOME) -Wall main.cpp -o main -l $(LIB)
 
 $(SHARED_LIB): $(_OBJS)
 	$(CC) -shared -o $(SHARED_LIB) $(_OBJS)
 
-$(_OBJS): %.o: %.c
+$(_OBJS): %.o: %.cpp
 	$(CC) -c $(CFLAGS) $< -o $@
 
 clean:
