@@ -1,11 +1,7 @@
 #include "shared.h"
 #include <iostream>
 
-int add() {
-	int a;
-	int b;
-	std::cin >> a;
-	std::cin >> b;
+int add(int a, int b) {
 	return (a + b);
 }
 

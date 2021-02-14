@@ -1,9 +1,15 @@
 #include <stdio.h>
+#include <iostream>
 #include "shared.h"
 
 int main(void) {
-
-	printf("The result is [%d]\n", add());
+	int a;
+	int b;
+	std::cout << "A val: ";
+	std::cin >> a;
+	std::cout << "B val: ";
+	std::cin >> b;
+	printf("The result is [%d]\n", add(a, b));
 	
 	int c = 5;
 	int d = 3;
