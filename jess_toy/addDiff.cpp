@@ -38,7 +38,6 @@ int addDiff(int num)
 	else if (num % 2 == 1) 
 	{
 		num++; 
-		num = num; 
 	}
 	
 	return num; 

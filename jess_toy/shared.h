@@ -10,5 +10,7 @@ extern int isPos(int a);
 
 extern void printName(char* name);
 
+extern int addDiff(int num); 
+
 
 #endif
