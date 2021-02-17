@@ -11,5 +11,7 @@ extern int isLoop(int n);
 
 extern void printName(char* name);
 
+extern int addDiff(int num); 
+
 
 #endif

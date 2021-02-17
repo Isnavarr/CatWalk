@@ -5,7 +5,7 @@
 
 CC = g++
 
-_OBJS = math.o print.o
+_OBJS = math.o print.o addDiff.o
 
 CFLAGS += -Wall -Werror -fPIC
 
@@ -13,7 +13,7 @@ LIB = shared
 
 SHARED_LIB = lib$(LIB).so
 
-HOME = /home/jessicalam/Desktop/CatWalk/jess_toy/
+HOME = /home/brit/Desktop/CatWalk/jess_toy/
 
 #LD_LIBRARY_PATH += $(HOME)
 

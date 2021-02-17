@@ -24,6 +24,15 @@ int main(void) {
 
 	char name[12] = "Jessica";
 	printName(name);
+	
+	int secret[] = {0, 4, 7, 10, 29, 164}; 
+	int t = 0; 
+	for (int i = 0; i < 6; i++) 
+	{
+		t = addDiff(secret[i]); 
+		std::cout << t + " "; 
+	}
+	std::cout << std::endl; 
 
 	return 0;
 }
