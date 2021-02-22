@@ -1,23 +1,67 @@
-trace_file = open('trace1.txt', 'r') # replace this with a path 
 
-for line in trace_file:
-    trace = line.strip()
-    if trace[0] == 't':
-        break
-        # this is the end of our trace file
+addrs = {} # {addrs: <type, dict{ins count: [input]}, totalCount>}
 
-    if trace[0] == 'a':
-        print(trace[2 : ])
-        # this is an address
+x = 2
+for i in range(1, x + 1):
+    filename = 'trace' + str(i) + '.txt'
+    trace_file = open(filename, 'r') # this opens each file
 
-    elif trace[0] == 'i':
-        print(trace[2 : ])
-        # this is ins count between addresses
+    start = -1   # hold start addr
 
-    else:
+    # For each line in this file
+    while True:
+        # Get next line from file
+        line = trace_file.readline()    # read address
+        if not line:    # break in the event of qan unconventional trace 
+            break
+        trace = line.strip()
+        
+        if trace[0] == 't':
+            break
+            # this is the end of our trace file
+
+        btype = trace[0]    # 'm' = memor access, 'b' = branch, 'r' = branching return
+        if (start == -1):
+            start = int(trace[2:])
+            addr = 0
+        else:
+            addr = int(trace[2:]) - start   # actual address - start to get offset
+
+        inscount = trace_file.readline().strip()[2:]    # read inscount after this address
+        
+        if addr not in addrs:
+            #addrs[addr] = new addrobj(addr, btype)
+            print('create ' + str(addr))
+            addrs[addr] = 0
+        
+        #update(addrs[addr], inscount)
+        print('update ' + str(addr) + ":" + inscount)
+        addrs[addr] += 1
+        print()
+    print('-----')   
+    trace_file.close()
+  
+print(addrs)
+
+# for line in trace_file:
+#     trace = line.strip()
+#     if trace[0] == 't':
+#         break
+#         # this is the end of our trace file
+
+#     if trace[0] == 'a':
+#         print(trace[2 : ])
+#         # this is an address
+#         inscount = 
+#         print(inscount)
+#     # elif trace[0] == 'i':
+#     #     print(trace[2 : ])
+#     #     # this is ins count between addresses
+
+#     # else:
 
         
-trace_file.close()
+# trace_file.close()
 
 # creates traces
 # *IMPORTANT* Note that we have to print the start address so that we can find the address offset 
