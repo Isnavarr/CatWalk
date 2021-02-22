@@ -1,3 +1,4 @@
+from BranchObject import BranchObject
 
 addrs = {} # {addrs: <type, dict{ins count: [input]}, totalCount>}
 
@@ -5,7 +6,7 @@ x = 2
 for i in range(1, x + 1):
     filename = 'trace' + str(i) + '.txt'
     trace_file = open(filename, 'r') # this opens each file
-
+    
     start = -1   # hold start addr
 
     # For each line in this file
@@ -20,28 +21,33 @@ for i in range(1, x + 1):
             break
             # this is the end of our trace file
 
-        btype = trace[0]    # 'm' = memor access, 'b' = branch, 'r' = branching return
+        addrtype = trace[0]    # 'm' = memor access, 'b' = branch, 'r' = branching return
         if (start == -1):
             start = int(trace[2:])
             addr = 0
         else:
             addr = int(trace[2:]) - start   # actual address - start to get offset
 
-        inscount = trace_file.readline().strip()[2:]    # read inscount after this address
+        inscount = int(trace_file.readline().strip()[2:])    # read inscount after this address
         
         if addr not in addrs:
-            #addrs[addr] = new addrobj(addr, btype)
-            print('create ' + str(addr))
-            addrs[addr] = 0
+            addrs[addr] = BranchObject(addr, addrtype)
+            # print('create ' + str(addr))
+            # addrs[addr] = 0
         
         #update(addrs[addr], inscount)
-        print('update ' + str(addr) + ":" + inscount)
-        addrs[addr] += 1
-        print()
-    print('-----')   
+        # print('update ' + str(addr) + ":" + inscount)
+        # addrs[addr] += 1
+        addrs[addr].update(inscount, i)
+
+    #     print()
+    # print('-----')   
     trace_file.close()
   
-print(addrs)
+# print(addrs)
+for addr in addrs:
+    addrs[addr].printProportions()
+    print('---')
 
 # for line in trace_file:
 #     trace = line.strip()
