@@ -2,13 +2,12 @@ from BranchObject import BranchObject
 
 addrs = {} # {addrs: <type, dict{ins count: [input]}, totalCount>}
 
-x = 2
-for i in range(1, x + 1):
-    filename = 'trace' + str(i) + '.txt'
+numFiles = 4
+for testNum in range(1, numFiles + 1):
+    filename = 'trace' + str(testNum) + '.txt'
     trace_file = open(filename, 'r') # this opens each file
-    
-    start = -1   # hold start addr
 
+    start = -1  # this is the start address
     # For each line in this file
     while True:
         # Get next line from file
@@ -21,8 +20,8 @@ for i in range(1, x + 1):
             break
             # this is the end of our trace file
 
-        addrtype = trace[0]    # 'm' = memor access, 'b' = branch, 'r' = branching return
-        if (start == -1):
+        addrtype = trace[0]    # 'm' = memory access, 'b' = branch, 'r' = branching return. 's' = start
+        if (addrtype == 's'):
             start = int(trace[2:])
             addr = 0
         else:
@@ -38,7 +37,7 @@ for i in range(1, x + 1):
         #update(addrs[addr], inscount)
         # print('update ' + str(addr) + ":" + inscount)
         # addrs[addr] += 1
-        addrs[addr].update(inscount, i)
+        addrs[addr].update(inscount, testNum)
 
     #     print()
     # print('-----')   
