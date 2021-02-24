@@ -13,7 +13,7 @@ LIB = shared
 
 SHARED_LIB = lib$(LIB).so
 
-HOME = /home/jessicalam/Desktop/CatWalk/jess_toy/
+HOME = /home/jessicalam/Desktop/CatWalk/Toy2/
 
 #LD_LIBRARY_PATH += $(HOME)
 

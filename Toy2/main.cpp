@@ -22,8 +22,8 @@ int main(void) {
 
 	printf("Is -3 positive? [%d]\n", isPos(-3));
 
-	char name[12] = "Jessica";
-	printName(name);
+	//char name[12] = "Jessica";
+	printNum(a);
 	
 	int secret[] = {0, 4, 7, 10, 29, 164}; 
 	int t = 0; 
