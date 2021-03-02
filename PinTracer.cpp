@@ -268,7 +268,7 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 
 	    if (isTest && isStart) {
 		    isStart = false;
-		    std::cout << "s:" << INS_Address(ins) << std::endl;
+		    std::cout << "s:" << StringFromAddrint(INS_Address(ins)) << std::endl;
 	    }
             // Trace branch instructions (conditional and unconditional)
             if(INS_IsCall(ins) && INS_IsControlFlow(ins))
@@ -297,7 +297,7 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 		if (isTest) {
 			doBCount();
 			writeCount();
-			std::cout << "b:" << INS_Address(ins) << std::endl;
+			std::cout << "b:" << StringFromAddrint(INS_Address(ins)) << std::endl;
 		}
 		continue;
             }
@@ -327,7 +327,7 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 		if (isTest) {
 			doBCount();
 			writeCount();
-			std::cout << "b:" << INS_Address(ins) << std::endl;
+			std::cout << "b:" << StringFromAddrint(INS_Address(ins)) << std::endl;
 		}
 		continue;
             }
@@ -356,7 +356,7 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 		if (isTest) {
 			doBCount();
 			writeCount();
-			std::cout << "r:" << INS_Address(ins) << std::endl;
+			std::cout << "r:" << StringFromAddrint(INS_Address(ins)) << std::endl;
 			// writeR();
 	    	}
 	    }
@@ -392,7 +392,7 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 		if (isTest) {
 			doBCount();
 			writeCount();
-			std::cout << "mr:" << INS_Address(ins) << std::endl;
+			std::cout << "mr:" << StringFromAddrint(INS_Address(ins)) << std::endl;
 		}
             }
 
@@ -421,7 +421,7 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 		if (isTest) {
 			doBCount();
 			writeCount();
-			std::cout << "mr2:" << INS_Address(ins) << std::endl;
+			std::cout << "mr2:" << StringFromAddrint(INS_Address(ins)) << std::endl;
 		}
             }
 
@@ -450,7 +450,7 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 		if (isTest) {
 			doBCount();
 			writeCount();
-			std::cout << "mw:" << INS_Address(ins) << std::endl;
+			std::cout << "mw:" << StringFromAddrint(INS_Address(ins)) << std::endl;
 		}
             }
         }
