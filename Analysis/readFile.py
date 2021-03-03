@@ -22,15 +22,15 @@ for testNum in range(1, numFiles + 1):
 
         addrtype = trace[0]    # 'm' = memory access, 'b' = branch, 'r' = branching return. 's' = start
         if (addrtype == 's'):
-            start = int(trace[2:])
+            start = int(trace[2:],16)
             addr = 0
         else:
-            addr = int(trace[2:]) - start   # actual address - start to get offset
+            addr = int(trace[2:],16) - start   # actual address - start to get offset
 
         inscount = int(trace_file.readline().strip()[2:])    # read inscount after this address
         
         if addr not in addrs:
-            addrs[addr] = BranchObject(addr, addrtype)
+            addrs[hex(addr)] = BranchObject(hex(addr), addrtype)
             # print('create ' + str(addr))
             # addrs[addr] = 0
         
