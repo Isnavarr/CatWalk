@@ -4,273 +4,273 @@ math.o:     file format elf64-x86-64
 
 Disassembly of section .text:
 
-0000000000000000 <_Z3addii>:
-   0:	f3 0f 1e fa          	endbr64 
-   4:	55                   	push   %rbp
-   5:	48 89 e5             	mov    %rsp,%rbp
-   8:	89 7d fc             	mov    %edi,-0x4(%rbp)
-   b:	89 75 f8             	mov    %esi,-0x8(%rbp)
-   e:	8b 55 fc             	mov    -0x4(%rbp),%edx
-  11:	8b 45 f8             	mov    -0x8(%rbp),%eax
-  14:	01 d0                	add    %edx,%eax
-  16:	5d                   	pop    %rbp
-  17:	c3                   	retq   
+00000000000004c0 <_Z3addii>:
+ 4c0:	f3 0f 1e fa          	endbr64 
+ 4c4:	55                   	push   %rbp
+ 4c5:	48 89 e5             	mov    %rsp,%rbp
+ 4c8:	89 7d fc             	mov    %edi,-0x4(%rbp)
+ 4cb:	89 75 f8             	mov    %esi,-0x8(%rbp)
+ 4ce:	8b 55 fc             	mov    -0x4(%rbp),%edx
+ 4d1:	8b 45 f8             	mov    -0x8(%rbp),%eax
+ 4d4:	01 d0                	add    %edx,%eax
+ 4d6:	5d                   	pop    %rbp
+ 4d7:	c3                   	retq   
 
-0000000000000018 <_Z8subtractii>:
-  18:	f3 0f 1e fa          	endbr64 
-  1c:	55                   	push   %rbp
-  1d:	48 89 e5             	mov    %rsp,%rbp
-  20:	89 7d fc             	mov    %edi,-0x4(%rbp)
-  23:	89 75 f8             	mov    %esi,-0x8(%rbp)
-  26:	8b 45 fc             	mov    -0x4(%rbp),%eax
-  29:	2b 45 f8             	sub    -0x8(%rbp),%eax
-  2c:	5d                   	pop    %rbp
-  2d:	c3                   	retq   
+00000000000004d8 <_Z8subtractii>:
+ 4d8:	f3 0f 1e fa          	endbr64 
+ 4dc:	55                   	push   %rbp
+ 4dd:	48 89 e5             	mov    %rsp,%rbp
+ 4e0:	89 7d fc             	mov    %edi,-0x4(%rbp)
+ 4e3:	89 75 f8             	mov    %esi,-0x8(%rbp)
+ 4e6:	8b 45 fc             	mov    -0x4(%rbp),%eax
+ 4e9:	2b 45 f8             	sub    -0x8(%rbp),%eax
+ 4ec:	5d                   	pop    %rbp
+ 4ed:	c3                   	retq   
 
-000000000000002e <_Z7absDiffii>:
-  2e:	f3 0f 1e fa          	endbr64 
-  32:	55                   	push   %rbp
-  33:	48 89 e5             	mov    %rsp,%rbp
-  36:	89 7d ec             	mov    %edi,-0x14(%rbp)
-  39:	89 75 e8             	mov    %esi,-0x18(%rbp)
-  3c:	8b 45 ec             	mov    -0x14(%rbp),%eax
-  3f:	2b 45 e8             	sub    -0x18(%rbp),%eax
-  42:	89 45 f8             	mov    %eax,-0x8(%rbp)
-  45:	83 7d f8 00          	cmpl   $0x0,-0x8(%rbp)
-  49:	78 05                	js     50 <_Z7absDiffii+0x22>
-  4b:	8b 45 f8             	mov    -0x8(%rbp),%eax
-  4e:	eb 1a                	jmp    6a <_Z7absDiffii+0x3c>
-  50:	8b 45 ec             	mov    -0x14(%rbp),%eax
-  53:	0f af 45 e8          	imul   -0x18(%rbp),%eax
-  57:	89 45 fc             	mov    %eax,-0x4(%rbp)
-  5a:	8b 55 fc             	mov    -0x4(%rbp),%edx
-  5d:	8b 45 e8             	mov    -0x18(%rbp),%eax
-  60:	01 d0                	add    %edx,%eax
-  62:	89 45 ec             	mov    %eax,-0x14(%rbp)
-  65:	8b 45 f8             	mov    -0x8(%rbp),%eax
-  68:	f7 d8                	neg    %eax
-  6a:	5d                   	pop    %rbp
-  6b:	c3                   	retq   
+00000000000004ee <_Z7absDiffii>:
+ 4ee:	f3 0f 1e fa          	endbr64 
+ 4f2:	55                   	push   %rbp
+ 4f3:	48 89 e5             	mov    %rsp,%rbp
+ 4f6:	89 7d ec             	mov    %edi,-0x14(%rbp)
+ 4f9:	89 75 e8             	mov    %esi,-0x18(%rbp)
+ 4fc:	8b 45 ec             	mov    -0x14(%rbp),%eax
+ 4ff:	2b 45 e8             	sub    -0x18(%rbp),%eax
+ 502:	89 45 f8             	mov    %eax,-0x8(%rbp)
+ 505:	83 7d f8 00          	cmpl   $0x0,-0x8(%rbp)
+ 509:	78 05                	js     510 <_Z7absDiffii+0x22>
+ 50b:	8b 45 f8             	mov    -0x8(%rbp),%eax
+ 50e:	eb 1a                	jmp    52a <_Z7absDiffii+0x3c>
+ 510:	8b 45 ec             	mov    -0x14(%rbp),%eax
+ 513:	0f af 45 e8          	imul   -0x18(%rbp),%eax
+ 517:	89 45 fc             	mov    %eax,-0x4(%rbp)
+ 51a:	8b 55 fc             	mov    -0x4(%rbp),%edx
+ 51d:	8b 45 e8             	mov    -0x18(%rbp),%eax
+ 520:	01 d0                	add    %edx,%eax
+ 522:	89 45 ec             	mov    %eax,-0x14(%rbp)
+ 525:	8b 45 f8             	mov    -0x8(%rbp),%eax
+ 528:	f7 d8                	neg    %eax
+ 52a:	5d                   	pop    %rbp
+ 52b:	c3                   	retq   
 
-000000000000006c <_Z5isPosi>:
-  6c:	f3 0f 1e fa          	endbr64 
-  70:	55                   	push   %rbp
-  71:	48 89 e5             	mov    %rsp,%rbp
-  74:	89 7d fc             	mov    %edi,-0x4(%rbp)
-  77:	83 7d fc 00          	cmpl   $0x0,-0x4(%rbp)
-  7b:	7e 07                	jle    84 <_Z5isPosi+0x18>
-  7d:	b8 01 00 00 00       	mov    $0x1,%eax
-  82:	eb 05                	jmp    89 <_Z5isPosi+0x1d>
-  84:	b8 00 00 00 00       	mov    $0x0,%eax
-  89:	5d                   	pop    %rbp
-  8a:	c3                   	retq   
+000000000000052c <_Z5isPosi>:
+ 52c:	f3 0f 1e fa          	endbr64 
+ 530:	55                   	push   %rbp
+ 531:	48 89 e5             	mov    %rsp,%rbp
+ 534:	89 7d fc             	mov    %edi,-0x4(%rbp)
+ 537:	83 7d fc 00          	cmpl   $0x0,-0x4(%rbp)
+ 53b:	7e 07                	jle    544 <_Z5isPosi+0x18>
+ 53d:	b8 01 00 00 00       	mov    $0x1,%eax
+ 542:	eb 05                	jmp    549 <_Z5isPosi+0x1d>
+ 544:	b8 00 00 00 00       	mov    $0x0,%eax
+ 549:	5d                   	pop    %rbp
+ 54a:	c3                   	retq   
 
-000000000000008b <_Z6isLoopi>:
-  8b:	f3 0f 1e fa          	endbr64 
-  8f:	55                   	push   %rbp
-  90:	48 89 e5             	mov    %rsp,%rbp
-  93:	89 7d ec             	mov    %edi,-0x14(%rbp)
-  96:	c7 45 f8 00 00 00 00 	movl   $0x0,-0x8(%rbp)
-  9d:	c7 45 fc 00 00 00 00 	movl   $0x0,-0x4(%rbp)
-  a4:	8b 45 fc             	mov    -0x4(%rbp),%eax
-  a7:	3b 45 ec             	cmp    -0x14(%rbp),%eax
-  aa:	7d 0a                	jge    b6 <_Z6isLoopi+0x2b>
-  ac:	83 45 f8 01          	addl   $0x1,-0x8(%rbp)
-  b0:	83 45 fc 01          	addl   $0x1,-0x4(%rbp)
-  b4:	eb ee                	jmp    a4 <_Z6isLoopi+0x19>
-  b6:	8b 45 f8             	mov    -0x8(%rbp),%eax
-  b9:	5d                   	pop    %rbp
-  ba:	c3                   	retq   
+000000000000054b <_Z6isLoopi>:
+ 54b:	f3 0f 1e fa          	endbr64 
+ 54f:	55                   	push   %rbp
+ 550:	48 89 e5             	mov    %rsp,%rbp
+ 553:	89 7d ec             	mov    %edi,-0x14(%rbp)
+ 556:	c7 45 f8 00 00 00 00 	movl   $0x0,-0x8(%rbp)
+ 55d:	c7 45 fc 00 00 00 00 	movl   $0x0,-0x4(%rbp)
+ 564:	8b 45 fc             	mov    -0x4(%rbp),%eax
+ 567:	3b 45 ec             	cmp    -0x14(%rbp),%eax
+ 56a:	7d 0a                	jge    576 <_Z6isLoopi+0x2b>
+ 56c:	83 45 f8 01          	addl   $0x1,-0x8(%rbp)
+ 570:	83 45 fc 01          	addl   $0x1,-0x4(%rbp)
+ 574:	eb ee                	jmp    564 <_Z6isLoopi+0x19>
+ 576:	8b 45 f8             	mov    -0x8(%rbp),%eax
+ 579:	5d                   	pop    %rbp
+ 57a:	c3                   	retq   
 
-00000000000000bb <_Z41__static_initialization_and_destruction_0ii>:
-  bb:	f3 0f 1e fa          	endbr64 
-  bf:	55                   	push   %rbp
-  c0:	48 89 e5             	mov    %rsp,%rbp
-  c3:	48 83 ec 10          	sub    $0x10,%rsp
-  c7:	89 7d fc             	mov    %edi,-0x4(%rbp)
-  ca:	89 75 f8             	mov    %esi,-0x8(%rbp)
-  cd:	83 7d fc 01          	cmpl   $0x1,-0x4(%rbp)
-  d1:	75 32                	jne    105 <_Z41__static_initialization_and_destruction_0ii+0x4a>
-  d3:	81 7d f8 ff ff 00 00 	cmpl   $0xffff,-0x8(%rbp)
-  da:	75 29                	jne    105 <_Z41__static_initialization_and_destruction_0ii+0x4a>
-  dc:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # e3 <_Z41__static_initialization_and_destruction_0ii+0x28>
-  e3:	e8 00 00 00 00       	callq  e8 <_Z41__static_initialization_and_destruction_0ii+0x2d>
-  e8:	48 8d 15 00 00 00 00 	lea    0x0(%rip),%rdx        # ef <_Z41__static_initialization_and_destruction_0ii+0x34>
-  ef:	48 8d 35 00 00 00 00 	lea    0x0(%rip),%rsi        # f6 <_Z41__static_initialization_and_destruction_0ii+0x3b>
-  f6:	48 8b 05 00 00 00 00 	mov    0x0(%rip),%rax        # fd <_Z41__static_initialization_and_destruction_0ii+0x42>
-  fd:	48 89 c7             	mov    %rax,%rdi
- 100:	e8 00 00 00 00       	callq  105 <_Z41__static_initialization_and_destruction_0ii+0x4a>
- 105:	90                   	nop
- 106:	c9                   	leaveq 
- 107:	c3                   	retq   
+000000000000057b <_Z41__static_initialization_and_destruction_0ii>:
+ 57b:	f3 0f 1e fa          	endbr64 
+ 57f:	55                   	push   %rbp
+ 580:	48 89 e5             	mov    %rsp,%rbp
+ 583:	48 83 ec 10          	sub    $0x10,%rsp
+ 587:	89 7d fc             	mov    %edi,-0x4(%rbp)
+ 58a:	89 75 f8             	mov    %esi,-0x8(%rbp)
+ 58d:	83 7d fc 01          	cmpl   $0x1,-0x4(%rbp)
+ 591:	75 32                	jne    5c5 <_Z41__static_initialization_and_destruction_0ii+0x4a>
+ 593:	81 7d f8 ff ff 00 00 	cmpl   $0xffff,-0x8(%rbp)
+ 59a:	75 29                	jne    5c5 <_Z41__static_initialization_and_destruction_0ii+0x4a>
+ 59c:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 5a3 <_Z41__static_initialization_and_destruction_0ii+0x28>
+ 5a3:	e8 00 00 00 00       	callq  5a8 <_Z41__static_initialization_and_destruction_0ii+0x2d>
+ 5a8:	48 8d 15 00 00 00 00 	lea    0x0(%rip),%rdx        # 5af <_Z41__static_initialization_and_destruction_0ii+0x34>
+ 5af:	48 8d 35 00 00 00 00 	lea    0x0(%rip),%rsi        # 5b6 <_Z41__static_initialization_and_destruction_0ii+0x3b>
+ 5b6:	48 8b 05 00 00 00 00 	mov    0x0(%rip),%rax        # 5bd <_Z41__static_initialization_and_destruction_0ii+0x42>
+ 5bd:	48 89 c7             	mov    %rax,%rdi
+ 5c0:	e8 00 00 00 00       	callq  5c5 <_Z41__static_initialization_and_destruction_0ii+0x4a>
+ 5c5:	90                   	nop
+ 5c6:	c9                   	leaveq 
+ 5c7:	c3                   	retq   
 
-0000000000000108 <_GLOBAL__sub_I_math.cpp>:
- 108:	f3 0f 1e fa          	endbr64 
- 10c:	55                   	push   %rbp
- 10d:	48 89 e5             	mov    %rsp,%rbp
- 110:	be ff ff 00 00       	mov    $0xffff,%esi
- 115:	bf 01 00 00 00       	mov    $0x1,%edi
- 11a:	e8 9c ff ff ff       	callq  bb <_Z41__static_initialization_and_destruction_0ii>
- 11f:	5d                   	pop    %rbp
- 120:	c3                   	retq   
+00000000000005c8 <_GLOBAL__sub_I_math.cpp>:
+ 5c8:	f3 0f 1e fa          	endbr64 
+ 5cc:	55                   	push   %rbp
+ 5cd:	48 89 e5             	mov    %rsp,%rbp
+ 5d0:	be ff ff 00 00       	mov    $0xffff,%esi
+ 5d5:	bf 01 00 00 00       	mov    $0x1,%edi
+ 5da:	e8 9c ff ff ff       	callq  57b <_Z41__static_initialization_and_destruction_0ii>
+ 5df:	5d                   	pop    %rbp
+ 5e0:	c3                   	retq   
 
 Disassembly of section .bss:
 
-0000000000000000 <_ZStL8__ioinit>:
+00000000000004c0 <_ZStL8__ioinit>:
 	...
 
 Disassembly of section .rodata:
 
-0000000000000000 <_ZStL19piecewise_construct>:
+00000000000004c0 <_ZStL19piecewise_construct>:
 	...
 
 Disassembly of section .init_array:
 
-0000000000000000 <.init_array>:
+00000000000004c0 <.init_array>:
 	...
 
 Disassembly of section .comment:
 
-0000000000000000 <.comment>:
-   0:	00 47 43             	add    %al,0x43(%rdi)
-   3:	43 3a 20             	rex.XB cmp (%r8),%spl
-   6:	28 55 62             	sub    %dl,0x62(%rbp)
-   9:	75 6e                	jne    79 <_Z5isPosi+0xd>
-   b:	74 75                	je     82 <_Z5isPosi+0x16>
-   d:	20 39                	and    %bh,(%rcx)
-   f:	2e 33 2e             	xor    %cs:(%rsi),%ebp
-  12:	30 2d 31 37 75 62    	xor    %ch,0x62753731(%rip)        # 62753749 <_GLOBAL__sub_I_math.cpp+0x62753641>
-  18:	75 6e                	jne    88 <_Z5isPosi+0x1c>
-  1a:	74 75                	je     91 <_Z6isLoopi+0x6>
-  1c:	31 7e 32             	xor    %edi,0x32(%rsi)
-  1f:	30 2e                	xor    %ch,(%rsi)
-  21:	30 34 29             	xor    %dh,(%rcx,%rbp,1)
-  24:	20 39                	and    %bh,(%rcx)
-  26:	2e 33 2e             	xor    %cs:(%rsi),%ebp
-  29:	30 00                	xor    %al,(%rax)
+00000000000004c0 <.comment>:
+ 4c0:	00 47 43             	add    %al,0x43(%rdi)
+ 4c3:	43 3a 20             	rex.XB cmp (%r8),%spl
+ 4c6:	28 55 62             	sub    %dl,0x62(%rbp)
+ 4c9:	75 6e                	jne    539 <_Z5isPosi+0xd>
+ 4cb:	74 75                	je     542 <_Z5isPosi+0x16>
+ 4cd:	20 39                	and    %bh,(%rcx)
+ 4cf:	2e 33 2e             	xor    %cs:(%rsi),%ebp
+ 4d2:	30 2d 31 37 75 62    	xor    %ch,0x62753731(%rip)        # 62753c09 <_GLOBAL__sub_I_math.cpp+0x62753641>
+ 4d8:	75 6e                	jne    548 <_Z5isPosi+0x1c>
+ 4da:	74 75                	je     551 <_Z6isLoopi+0x6>
+ 4dc:	31 7e 32             	xor    %edi,0x32(%rsi)
+ 4df:	30 2e                	xor    %ch,(%rsi)
+ 4e1:	30 34 29             	xor    %dh,(%rcx,%rbp,1)
+ 4e4:	20 39                	and    %bh,(%rcx)
+ 4e6:	2e 33 2e             	xor    %cs:(%rsi),%ebp
+ 4e9:	30 00                	xor    %al,(%rax)
 
 Disassembly of section .note.gnu.property:
 
-0000000000000000 <.note.gnu.property>:
-   0:	04 00                	add    $0x0,%al
-   2:	00 00                	add    %al,(%rax)
-   4:	10 00                	adc    %al,(%rax)
-   6:	00 00                	add    %al,(%rax)
-   8:	05 00 00 00 47       	add    $0x47000000,%eax
-   d:	4e 55                	rex.WRX push %rbp
-   f:	00 02                	add    %al,(%rdx)
-  11:	00 00                	add    %al,(%rax)
-  13:	c0 04 00 00          	rolb   $0x0,(%rax,%rax,1)
-  17:	00 03                	add    %al,(%rbx)
-  19:	00 00                	add    %al,(%rax)
-  1b:	00 00                	add    %al,(%rax)
-  1d:	00 00                	add    %al,(%rax)
+00000000000004c0 <.note.gnu.property>:
+ 4c0:	04 00                	add    $0x0,%al
+ 4c2:	00 00                	add    %al,(%rax)
+ 4c4:	10 00                	adc    %al,(%rax)
+ 4c6:	00 00                	add    %al,(%rax)
+ 4c8:	05 00 00 00 47       	add    $0x47000000,%eax
+ 4cd:	4e 55                	rex.WRX push %rbp
+ 4cf:	00 02                	add    %al,(%rdx)
+ 4d1:	00 00                	add    %al,(%rax)
+ 4d3:	c0 04 00 00          	rolb   $0x0,(%rax,%rax,1)
+ 4d7:	00 03                	add    %al,(%rbx)
+ 4d9:	00 00                	add    %al,(%rax)
+ 4db:	00 00                	add    %al,(%rax)
+ 4dd:	00 00                	add    %al,(%rax)
 	...
 
 Disassembly of section .eh_frame:
 
-0000000000000000 <.eh_frame>:
-   0:	14 00                	adc    $0x0,%al
-   2:	00 00                	add    %al,(%rax)
-   4:	00 00                	add    %al,(%rax)
-   6:	00 00                	add    %al,(%rax)
-   8:	01 7a 52             	add    %edi,0x52(%rdx)
-   b:	00 01                	add    %al,(%rcx)
-   d:	78 10                	js     1f <.eh_frame+0x1f>
-   f:	01 1b                	add    %ebx,(%rbx)
-  11:	0c 07                	or     $0x7,%al
-  13:	08 90 01 00 00 1c    	or     %dl,0x1c000001(%rax)
-  19:	00 00                	add    %al,(%rax)
-  1b:	00 1c 00             	add    %bl,(%rax,%rax,1)
-  1e:	00 00                	add    %al,(%rax)
-  20:	00 00                	add    %al,(%rax)
-  22:	00 00                	add    %al,(%rax)
-  24:	18 00                	sbb    %al,(%rax)
-  26:	00 00                	add    %al,(%rax)
-  28:	00 45 0e             	add    %al,0xe(%rbp)
-  2b:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
-  31:	4f 0c 07             	rex.WRXB or $0x7,%al
-  34:	08 00                	or     %al,(%rax)
-  36:	00 00                	add    %al,(%rax)
-  38:	1c 00                	sbb    $0x0,%al
-  3a:	00 00                	add    %al,(%rax)
-  3c:	3c 00                	cmp    $0x0,%al
-  3e:	00 00                	add    %al,(%rax)
-  40:	00 00                	add    %al,(%rax)
-  42:	00 00                	add    %al,(%rax)
-  44:	16                   	(bad)  
-  45:	00 00                	add    %al,(%rax)
-  47:	00 00                	add    %al,(%rax)
-  49:	45 0e                	rex.RB (bad) 
-  4b:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
-  51:	4d 0c 07             	rex.WRB or $0x7,%al
-  54:	08 00                	or     %al,(%rax)
-  56:	00 00                	add    %al,(%rax)
-  58:	1c 00                	sbb    $0x0,%al
-  5a:	00 00                	add    %al,(%rax)
-  5c:	5c                   	pop    %rsp
-  5d:	00 00                	add    %al,(%rax)
-  5f:	00 00                	add    %al,(%rax)
-  61:	00 00                	add    %al,(%rax)
-  63:	00 3e                	add    %bh,(%rsi)
-  65:	00 00                	add    %al,(%rax)
-  67:	00 00                	add    %al,(%rax)
-  69:	45 0e                	rex.RB (bad) 
-  6b:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
-  71:	75 0c                	jne    7f <.eh_frame+0x7f>
-  73:	07                   	(bad)  
-  74:	08 00                	or     %al,(%rax)
-  76:	00 00                	add    %al,(%rax)
-  78:	1c 00                	sbb    $0x0,%al
-  7a:	00 00                	add    %al,(%rax)
-  7c:	7c 00                	jl     7e <.eh_frame+0x7e>
-  7e:	00 00                	add    %al,(%rax)
-  80:	00 00                	add    %al,(%rax)
-  82:	00 00                	add    %al,(%rax)
-  84:	1f                   	(bad)  
-  85:	00 00                	add    %al,(%rax)
-  87:	00 00                	add    %al,(%rax)
-  89:	45 0e                	rex.RB (bad) 
-  8b:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
-  91:	56                   	push   %rsi
-  92:	0c 07                	or     $0x7,%al
-  94:	08 00                	or     %al,(%rax)
-  96:	00 00                	add    %al,(%rax)
-  98:	1c 00                	sbb    $0x0,%al
-  9a:	00 00                	add    %al,(%rax)
-  9c:	9c                   	pushfq 
-  9d:	00 00                	add    %al,(%rax)
-  9f:	00 00                	add    %al,(%rax)
-  a1:	00 00                	add    %al,(%rax)
-  a3:	00 30                	add    %dh,(%rax)
-  a5:	00 00                	add    %al,(%rax)
-  a7:	00 00                	add    %al,(%rax)
-  a9:	45 0e                	rex.RB (bad) 
-  ab:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
-  b1:	67 0c 07             	addr32 or $0x7,%al
-  b4:	08 00                	or     %al,(%rax)
-  b6:	00 00                	add    %al,(%rax)
-  b8:	1c 00                	sbb    $0x0,%al
-  ba:	00 00                	add    %al,(%rax)
-  bc:	bc 00 00 00 00       	mov    $0x0,%esp
-  c1:	00 00                	add    %al,(%rax)
-  c3:	00 4d 00             	add    %cl,0x0(%rbp)
-  c6:	00 00                	add    %al,(%rax)
-  c8:	00 45 0e             	add    %al,0xe(%rbp)
-  cb:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
-  d1:	02 44 0c 07          	add    0x7(%rsp,%rcx,1),%al
-  d5:	08 00                	or     %al,(%rax)
-  d7:	00 1c 00             	add    %bl,(%rax,%rax,1)
-  da:	00 00                	add    %al,(%rax)
-  dc:	dc 00                	faddl  (%rax)
-  de:	00 00                	add    %al,(%rax)
-  e0:	00 00                	add    %al,(%rax)
-  e2:	00 00                	add    %al,(%rax)
-  e4:	19 00                	sbb    %eax,(%rax)
-  e6:	00 00                	add    %al,(%rax)
-  e8:	00 45 0e             	add    %al,0xe(%rbp)
-  eb:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
-  f1:	50                   	push   %rax
-  f2:	0c 07                	or     $0x7,%al
-  f4:	08 00                	or     %al,(%rax)
+00000000000004c0 <.eh_frame>:
+ 4c0:	14 00                	adc    $0x0,%al
+ 4c2:	00 00                	add    %al,(%rax)
+ 4c4:	00 00                	add    %al,(%rax)
+ 4c6:	00 00                	add    %al,(%rax)
+ 4c8:	01 7a 52             	add    %edi,0x52(%rdx)
+ 4cb:	00 01                	add    %al,(%rcx)
+ 4cd:	78 10                	js     4df <.eh_frame+0x1f>
+ 4cf:	01 1b                	add    %ebx,(%rbx)
+ 4d1:	0c 07                	or     $0x7,%al
+ 4d3:	08 90 01 00 00 1c    	or     %dl,0x1c000001(%rax)
+ 4d9:	00 00                	add    %al,(%rax)
+ 4db:	00 1c 00             	add    %bl,(%rax,%rax,1)
+ 4de:	00 00                	add    %al,(%rax)
+ 4e0:	00 00                	add    %al,(%rax)
+ 4e2:	00 00                	add    %al,(%rax)
+ 4e4:	18 00                	sbb    %al,(%rax)
+ 4e6:	00 00                	add    %al,(%rax)
+ 4e8:	00 45 0e             	add    %al,0xe(%rbp)
+ 4eb:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
+ 4f1:	4f 0c 07             	rex.WRXB or $0x7,%al
+ 4f4:	08 00                	or     %al,(%rax)
+ 4f6:	00 00                	add    %al,(%rax)
+ 4f8:	1c 00                	sbb    $0x0,%al
+ 4fa:	00 00                	add    %al,(%rax)
+ 4fc:	3c 00                	cmp    $0x0,%al
+ 4fe:	00 00                	add    %al,(%rax)
+ 500:	00 00                	add    %al,(%rax)
+ 502:	00 00                	add    %al,(%rax)
+ 504:	16                   	(bad)  
+ 505:	00 00                	add    %al,(%rax)
+ 507:	00 00                	add    %al,(%rax)
+ 509:	45 0e                	rex.RB (bad) 
+ 50b:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
+ 511:	4d 0c 07             	rex.WRB or $0x7,%al
+ 514:	08 00                	or     %al,(%rax)
+ 516:	00 00                	add    %al,(%rax)
+ 518:	1c 00                	sbb    $0x0,%al
+ 51a:	00 00                	add    %al,(%rax)
+ 51c:	5c                   	pop    %rsp
+ 51d:	00 00                	add    %al,(%rax)
+ 51f:	00 00                	add    %al,(%rax)
+ 521:	00 00                	add    %al,(%rax)
+ 523:	00 3e                	add    %bh,(%rsi)
+ 525:	00 00                	add    %al,(%rax)
+ 527:	00 00                	add    %al,(%rax)
+ 529:	45 0e                	rex.RB (bad) 
+ 52b:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
+ 531:	75 0c                	jne    53f <.eh_frame+0x7f>
+ 533:	07                   	(bad)  
+ 534:	08 00                	or     %al,(%rax)
+ 536:	00 00                	add    %al,(%rax)
+ 538:	1c 00                	sbb    $0x0,%al
+ 53a:	00 00                	add    %al,(%rax)
+ 53c:	7c 00                	jl     53e <.eh_frame+0x7e>
+ 53e:	00 00                	add    %al,(%rax)
+ 540:	00 00                	add    %al,(%rax)
+ 542:	00 00                	add    %al,(%rax)
+ 544:	1f                   	(bad)  
+ 545:	00 00                	add    %al,(%rax)
+ 547:	00 00                	add    %al,(%rax)
+ 549:	45 0e                	rex.RB (bad) 
+ 54b:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
+ 551:	56                   	push   %rsi
+ 552:	0c 07                	or     $0x7,%al
+ 554:	08 00                	or     %al,(%rax)
+ 556:	00 00                	add    %al,(%rax)
+ 558:	1c 00                	sbb    $0x0,%al
+ 55a:	00 00                	add    %al,(%rax)
+ 55c:	9c                   	pushfq 
+ 55d:	00 00                	add    %al,(%rax)
+ 55f:	00 00                	add    %al,(%rax)
+ 561:	00 00                	add    %al,(%rax)
+ 563:	00 30                	add    %dh,(%rax)
+ 565:	00 00                	add    %al,(%rax)
+ 567:	00 00                	add    %al,(%rax)
+ 569:	45 0e                	rex.RB (bad) 
+ 56b:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
+ 571:	67 0c 07             	addr32 or $0x7,%al
+ 574:	08 00                	or     %al,(%rax)
+ 576:	00 00                	add    %al,(%rax)
+ 578:	1c 00                	sbb    $0x0,%al
+ 57a:	00 00                	add    %al,(%rax)
+ 57c:	bc 00 00 00 00       	mov    $0x0,%esp
+ 581:	00 00                	add    %al,(%rax)
+ 583:	00 4d 00             	add    %cl,0x0(%rbp)
+ 586:	00 00                	add    %al,(%rax)
+ 588:	00 45 0e             	add    %al,0xe(%rbp)
+ 58b:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
+ 591:	02 44 0c 07          	add    0x7(%rsp,%rcx,1),%al
+ 595:	08 00                	or     %al,(%rax)
+ 597:	00 1c 00             	add    %bl,(%rax,%rax,1)
+ 59a:	00 00                	add    %al,(%rax)
+ 59c:	dc 00                	faddl  (%rax)
+ 59e:	00 00                	add    %al,(%rax)
+ 5a0:	00 00                	add    %al,(%rax)
+ 5a2:	00 00                	add    %al,(%rax)
+ 5a4:	19 00                	sbb    %eax,(%rax)
+ 5a6:	00 00                	add    %al,(%rax)
+ 5a8:	00 45 0e             	add    %al,0xe(%rbp)
+ 5ab:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
+ 5b1:	50                   	push   %rax
+ 5b2:	0c 07                	or     $0x7,%al
+ 5b4:	08 00                	or     %al,(%rax)
 	...
