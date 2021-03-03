@@ -269,7 +269,9 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 	    if (isTest && isStart) {
 		    isStart = false;
 		    std::cout << "s:" << StringFromAddrint(INS_Address(ins)) << std::endl;
+		    continue;
 	    }
+
             // Trace branch instructions (conditional and unconditional)
             if(INS_IsCall(ins) && INS_IsControlFlow(ins))
             {
@@ -357,16 +359,14 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 			doBCount();
 			writeCount();
 			std::cout << "r:" << StringFromAddrint(INS_Address(ins)) << std::endl;
-			// writeR();
+			continue;
 	    	}
 	    }
 
-	    doCount(); // HERE
 
             // Ignore everything else in uninteresting images
-            if(!interesting)
+	    if(!interesting && !isTest)
 		continue;
-
             // Trace instructions with memory read
             if(INS_IsMemoryRead(ins) && INS_IsStandardMemop(ins))
             {
@@ -393,6 +393,7 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 			doBCount();
 			writeCount();
 			std::cout << "mr:" << StringFromAddrint(INS_Address(ins)) << std::endl;
+			continue;
 		}
             }
 
@@ -422,6 +423,7 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 			doBCount();
 			writeCount();
 			std::cout << "mr2:" << StringFromAddrint(INS_Address(ins)) << std::endl;
+			continue;
 		}
             }
 
@@ -451,8 +453,11 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 			doBCount();
 			writeCount();
 			std::cout << "mw:" << StringFromAddrint(INS_Address(ins)) << std::endl;
+			continue;
 		}
             }
+
+	    doCount(); // HERE
         }
     }
 }
