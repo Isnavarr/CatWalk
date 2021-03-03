@@ -7,7 +7,7 @@ CC = g++
 
 _OBJS = math.o print.o addDiff.o
 
-CFLAGS += -Wall -Werror -fPIC
+CFLAGS = -Wall -Werror -fPIC -fcf-protection=none
 
 LIB = shared
 
