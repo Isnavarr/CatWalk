@@ -30,11 +30,13 @@ _EXPORT _NOINLINE void InitTarget()
 	absDiff(0,0);
 }
 
+/**
 _EXPORT _NOINLINE void RunTarget(int a, int b) {
 	//isLoop(a);
 	absDiff(a, b);
 	//printName(name);
 }
+**/
 
 // Reads the stack pointer base value and transmits it to Pin.
 _EXPORT void ReadAndSendStackPointer()
@@ -94,7 +96,8 @@ extern "C" _EXPORT void TraceFunc()
     std::cout << "------- absDiff: |" << first << " - " << second << "|" << std::endl;
     // First transmit stack pointer information
     PinNotifyTestcaseStart(0);
-    RunTarget(first, second);
+    absDiff(first, second);
+    // RunTarget(first, second);
     PinNotifyTestcaseEnd();
     std::cout << "------- done: " << absDiff(first, second) << std::endl; //absDiff(first,second) << std::endl;
 }
