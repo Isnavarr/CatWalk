@@ -13,8 +13,9 @@ class BranchObject:
             self.insMap[inscount].add(testInput)
         
     def printProportions(self):
-        print('addr: ' + str(self.address) + ' total: ' + str(self.totalTestcases))
+        print(self.addrType + ' addr: ' + str(self.address) + ' total: ' + str(self.totalTestcases))
         for inscount in self.insMap:
+            # print(str(inscount) + ': ' + str(len(self.insMap[inscount])) + " " + str(self.totalTestcases))
             print(str(inscount) + ': ' + str(float(len(self.insMap[inscount])) / (self.totalTestcases)))
 
 # addr offset 4
