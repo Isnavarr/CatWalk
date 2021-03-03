@@ -2,8 +2,9 @@ from BranchObject import BranchObject
 
 addrs = {} # {addrs: <type, dict{ins count: [input]}, totalCount>}
 
-numFiles = 4
-for testNum in range(1, numFiles + 1):
+startFile = 1
+numFiles = 2
+for testNum in range(startFile, startFile + numFiles):
     filename = 'trace' + str(testNum) + '.txt'
     trace_file = open(filename, 'r') # this opens each file
 
@@ -14,39 +15,55 @@ for testNum in range(1, numFiles + 1):
         line = trace_file.readline()    # read address
         if not line:    # break in the event of qan unconventional trace 
             break
-        trace = line.strip()
+        trace = line.strip().split(':')
         
-        if trace[0] == 't':
+        if trace[0][0] == 't':
             break
             # this is the end of our trace file
 
         addrtype = trace[0]    # 'm' = memory access, 'b' = branch, 'r' = branching return. 's' = start
         if (addrtype == 's'):
-            start = int(trace[2:],16)
+            start = int(trace[1],16)
             addr = 0
         else:
-            addr = int(trace[2:],16) - start   # actual address - start to get offset
+            addr = int(trace[1],16) - start   # actual address - start to get offset
 
         inscount = int(trace_file.readline().strip()[2:])    # read inscount after this address
-        
-        if addr not in addrs:
-            addrs[hex(addr)] = BranchObject(hex(addr), addrtype)
-            # print('create ' + str(addr))
-            # addrs[addr] = 0
-        
-        #update(addrs[addr], inscount)
-        # print('update ' + str(addr) + ":" + inscount)
-        # addrs[addr] += 1
-        addrs[addr].update(inscount, testNum)
 
-    #     print()
-    # print('-----')   
+        if hex(addr) not in addrs:
+            addrs[hex(addr)] = BranchObject(hex(addr), addrtype)
+        
+        addrs[hex(addr)].update(inscount, testNum)
+
     trace_file.close()
   
 # print(addrs)
 for addr in addrs:
     addrs[addr].printProportions()
     print('---')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # for line in trace_file:
 #     trace = line.strip()
