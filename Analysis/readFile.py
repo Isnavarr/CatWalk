@@ -2,7 +2,7 @@ from BranchObject import BranchObject
 
 addrs = {} # {addrs: <type, dict{ins count: [input]}, totalCount>}
 
-startFile = 1
+startFile = 3
 numFiles = 2
 for testNum in range(startFile, startFile + numFiles):
     filename = 'trace' + str(testNum) + '.txt'
