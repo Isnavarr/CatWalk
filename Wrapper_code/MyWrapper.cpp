@@ -25,19 +25,6 @@ extern "C" _EXPORT _NOINLINE int PinNotifyStackPointer(uint64_t spMin, uint64_t 
 #pragma optimize("", on)
 
 
-_EXPORT _NOINLINE void InitTarget()
-{
-	absDiff(0,0);
-}
-
-/**
-_EXPORT _NOINLINE void RunTarget(int a, int b) {
-	//isLoop(a);
-	absDiff(a, b);
-	//printName(name);
-}
-**/
-
 // Reads the stack pointer base value and transmits it to Pin.
 _EXPORT void ReadAndSendStackPointer()
 {
@@ -83,21 +70,17 @@ _EXPORT void ReadAndSendStackPointer()
 extern "C" _EXPORT void TraceFunc()
 {
     ReadAndSendStackPointer();
-    InitTarget();
 
     char inputBuffer[512];
     int first;
     int second;
-    // char name[512];
     fgets(inputBuffer, sizeof(inputBuffer), stdin);
-    // sscanf(inputBuffer, "%s", name);
     sscanf(inputBuffer, "%d %d", &first, &second);
 
     std::cout << "------- absDiff: |" << first << " - " << second << "|" << std::endl;
     // First transmit stack pointer information
     PinNotifyTestcaseStart(0);
     absDiff(first, second);
-    // RunTarget(first, second);
     PinNotifyTestcaseEnd();
     std::cout << "------- done: " << absDiff(first, second) << std::endl; //absDiff(first,second) << std::endl;
 }
