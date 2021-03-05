@@ -3,5 +3,5 @@
 # TODO Add linker dependencies and other compile flags
 
 #g++ PinTracerWrapper.cpp -o wrapper -fno-split-stack
-g++ -L /home/jessicalam/Desktop/CatWalk/Toy2/ -Wall MyWrapper.cpp -o wrapper -lshared
+g++ -L /home/jessicalam/Desktop/CatWalk/Toy2/ -Wall MyWrapper.cpp -o wrapper -lshared -fno-split-stack -fcf-protection=none
 
