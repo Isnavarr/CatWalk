@@ -7,7 +7,7 @@ CC = g++
 
 _OBJS = math.o print.o addDiff.o
 
-CFLAGS = -Wall -Werror -fPIC -fcf-protection=none
+CFLAGS = -Wall -Werror -fPIC -fcf-protection=none -fno-split-stack
 
 LIB = shared
 
@@ -20,10 +20,10 @@ HOME = /home/jessicalam/Desktop/CatWalk/Toy2/
 .PHONY: all
 
 all: $(SHARED_LIB)
-	$(CC) -L $(HOME) -Wall main.cpp -o main -l $(LIB)
+	$(CC) -L $(HOME) $(CFLAGS) main.cpp -o main -l $(LIB)
 
 $(SHARED_LIB): $(_OBJS)
-	$(CC) -shared -o $(SHARED_LIB) $(_OBJS)
+	$(CC) -shared $(CFLAGS) -o $(SHARED_LIB) $(_OBJS)
 
 $(_OBJS): %.o: %.cpp
 	$(CC) -c $(CFLAGS) $< -o $@
