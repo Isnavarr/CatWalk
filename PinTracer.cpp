@@ -265,13 +265,19 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
                     IARG_END);
                 continue;
             }
-
+	    
+	    if (isTest && IMG_Name(IMG_FindByAddress(INS_Address(ins))).find("libshared.so") == std::string::npos) {
+			    continue;
+		}
 	    if (isTest && isStart) {
 		    isStart = false;
 		    std::cout << "s:" << StringFromAddrint(INS_Address(ins)) << std::endl;
+//			IMG myImg = IMG_FindByAddress(INS_Address(ins));
+//			std::cout << IMG_Name(myImg) << std::endl;
 		    continue;
 	    }
-
+	    
+	    
             // Trace branch instructions (conditional and unconditional)
             if(INS_IsCall(ins) && INS_IsControlFlow(ins))
             {
@@ -363,9 +369,14 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 	    	}
 	    }
 
+	    //if (isTest) {
+	    //	    std::cout << StringFromAddrint(INS_Address(ins)) << std::endl;	    
+	    //}
+
+	    doCount(); // HERE
 
             // Ignore everything else in uninteresting images
-	    if(!interesting && !isTest)
+	    if(!interesting) // && !isTest)
 		continue;
             // Trace instructions with memory read
             if(INS_IsMemoryRead(ins) && INS_IsStandardMemop(ins))
@@ -457,7 +468,6 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
 		}
             }
 
-	    doCount(); // HERE
         }
     }
 }
