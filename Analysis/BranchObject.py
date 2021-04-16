@@ -1,23 +1,38 @@
 class BranchObject:
     def __init__(self, address, addrType):
-        self.address = address
-        self.addrType = addrType
-        self.insMap = {}
-        self.totalTestcases = 0
+        self.address = address # addr offset 4
+        self.addrType = addrType # addrtype 'm' or 'b' or 'r'
+        self.insMap = {} # map {4: {1}, 6: {2, 3}}  set* key instruction, value set of testcases
+        self.totalTestcases = [] # total testcases
+        self.visitTotal = 0; # how many times this branch is visited in one trace
+        self.testcase = -1
 
-    def update(self, inscount, testInput):
-        self.totalTestcases += 1
-        if inscount not in self.insMap:
-            self.insMap[inscount] = {testInput}
+    def update(self, inscount, testInput): # update(inscount, input):
+        if(testcase != self.testcase)
+            self.totalTestcases += 1 # totalTestcase += 1
+            self.testcase = testInput
+        if inscount not in self.insMap: # does map have this inscount?
+            self.insMap[inscount] = {testInput} # map[inscount] append input map[iscount].add(#)
         else:
-            self.insMap[inscount].add(testInput)
-        
+            self.insMap[inscount].add(testInput) # map[inscount] = {input}
+
+    def updateVisitTotal(self):
+        self.visitTotal[testcase] += 1
+    
+    def updateUniqueVisit(self, ) # oh no how do we know which addresses we'll need to update?? 
+
     def printProportions(self):
         print(self.addrType + ' addr: ' + str(self.address) + ' total: ' + str(self.totalTestcases))
-        for inscount in self.insMap:
+        for inscount in self.insMap: #   for each inscount in map:
             # print(str(inscount) + ': ' + str(len(self.insMap[inscount])) + " " + str(self.totalTestcases))
             print(str(inscount) + ': ' + str(float(len(self.insMap[inscount])) / (self.totalTestcases)))
-
+            
+            
+            
+            
+            
+            
+            
 # addr offset 4
 # addrtype 'm' or 'b' or 'r'
 # map {4: {1}, 6: {2, 3}}  set* key instruction, value set of testcases
