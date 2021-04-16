@@ -1,6 +1,8 @@
 from BranchObject import BranchObject
 
 addrs = {} # {addrs: <type, dict{ins count: [input]}, totalCount>}
+testcaseLoop = {} # {testcase, loops}
+i = 1
 
 startFile = 3
 numFiles = 2
@@ -18,6 +20,15 @@ for testNum in range(startFile, startFile + numFiles):
         trace = line.strip().split(':')
         
         if trace[0][0] == 't':
+            # move the data from the temp dictionary to the final dictionary 
+            # update the temp dictionary so that its empty
+            # testcase<-address<-visitTotal
+            loops = {} # {address, visit count}
+            for addr in addrs:
+                loops[addr] = addrs[addr].visitTotal #assign visits for branches to each address
+                addrs[addr].visitTotal = 0 #reset all visits to 0
+            testcaseLoop[i] = loops #assign loops to each test case
+            i += 1
             break
             # this is the end of our trace file
 
@@ -30,10 +41,13 @@ for testNum in range(startFile, startFile + numFiles):
 
         inscount = int(trace_file.readline().strip()[2:])    # read inscount after this address
 
-        if hex(addr) not in addrs:
-            addrs[hex(addr)] = BranchObject(hex(addr), addrtype)
         
-        addrs[hex(addr)].update(inscount, testNum)
+        if hex(addr) not in addrs: # but now we want to make it so its writing to our temp dictionary 
+            addrs[hex(addr)] = BranchObject(hex(addr), addrtype)
+        else: 
+            addrs[hex(addr)].updateVisitTotal()
+
+        addrs[hex(addr)].update(inscount, testNum) # update our temp but not the final ver yet
 
     trace_file.close()
   
@@ -41,13 +55,6 @@ for testNum in range(startFile, startFile + numFiles):
 for addr in addrs:
     addrs[addr].printProportions()
     print('---')
-
-
-
-
-
-
-
 
 
 
