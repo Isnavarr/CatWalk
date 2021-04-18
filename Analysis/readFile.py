@@ -20,15 +20,6 @@ for testNum in range(startFile, startFile + numFiles):
         trace = line.strip().split(':')
         
         if trace[0][0] == 't':
-            # move the data from the temp dictionary to the final dictionary 
-            # update the temp dictionary so that its empty
-            # testcase<-address<-visitTotal
-            loops = {} # {address, visit count}
-            for addr in addrs:
-                loops[addr] = addrs[addr].visitTotal #assign visits for branches to each address
-                addrs[addr].visitTotal = 0 #reset all visits to 0
-            testcaseLoop[i] = loops #assign loops to each test case
-            i += 1
             break
             # this is the end of our trace file
 
