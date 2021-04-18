@@ -1,0 +1,13 @@
+s:0x00007f28bcbf0170
+i:0
+mw:0x00007f28bcbf0173:782c
+i:3
+b:0x00007f28bcbf0186
+i:0
+mr:0x00007f28bcbf018d:782c
+i:6
+r:0x00007f28bcbf01a8
+i:0
+t	./outt0.trace
+------- absDiff(14, 65)
+------- done: 51
