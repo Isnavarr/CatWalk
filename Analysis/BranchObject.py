@@ -9,7 +9,7 @@ class BranchObject:
         self.testcase = -1
 
     def update(self, inscount, testInput): # update(inscount, input):
-        if(testcase != self.testcase)
+        if testInput != self.testcase:
             self.totalTestcases += 1 # totalTestcase += 1
             self.testcase = testInput
             self.visitTotal[count] = {testcase}
