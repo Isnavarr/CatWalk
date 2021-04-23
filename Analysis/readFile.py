@@ -1,6 +1,8 @@
 from BranchObject import BranchObject
 
 addrs = {} # {addrs: <type, dict{ins count: [input]}, totalCount>}
+testcaseLoop = {} # {testcase, loops}
+i = 1
 
 startFile = 3
 numFiles = 2
@@ -30,10 +32,13 @@ for testNum in range(startFile, startFile + numFiles):
 
         inscount = int(trace_file.readline().strip()[2:])    # read inscount after this address
 
-        if hex(addr) not in addrs:
-            addrs[hex(addr)] = BranchObject(hex(addr), addrtype)
         
-        addrs[hex(addr)].update(inscount, testNum)
+        if hex(addr) not in addrs: # but now we want to make it so its writing to our temp dictionary 
+            addrs[hex(addr)] = BranchObject(hex(addr), addrtype)
+        else: 
+            addrs[hex(addr)].updateVisitTotal()
+
+        addrs[hex(addr)].update(inscount, testNum) # update our temp but not the final ver yet
 
     trace_file.close()
   
@@ -41,13 +46,6 @@ for testNum in range(startFile, startFile + numFiles):
 for addr in addrs:
     addrs[addr].printProportions()
     print('---')
-
-
-
-
-
-
-
 
 
 
