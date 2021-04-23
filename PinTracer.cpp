@@ -80,7 +80,6 @@ void ChangeCpuId(UINT32 inputEax, UINT32 inputEcx, UINT32* outputEax, UINT32* ou
 void doCount(ADDRINT insAddr) {
     if (!isTest)
 	    return;
-    std::cout << StringFromAddrint(insAddr) << std::endl;
     count++;
 }
 
@@ -154,7 +153,6 @@ void InsertMemoryWriteEntry(ADDRINT instructionAddress, ADDRINT memoryAddress)
         memAccessed = true;
     } else {
         //std::cout << StringFromAddrint(instructionAddress) << std::endl;
-        doCount(instructionAddress);
     }
 }
 
@@ -320,8 +318,12 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
             }
 
             // If this is not the interesting img we want, continue
-            if(IMG_Name(IMG_FindByAddress(INS_Address(ins))).find("libshared.so") == std::string::npos)
+            
+            //if(IMG_Name(IMG_FindByAddress(INS_Address(ins))).find("libwolfssl.so") == std::string::npos)
+           if(IMG_Name(IMG_FindByAddress(INS_Address(ins))).find("libshared.so") == std::string::npos)
                 continue;
+            
+            //std::cout << IMG_Name(IMG_FindByAddress(INS_Address(ins))) << std::endl;
             // If we're at the beginning of an interesting img, print start
             if(isStart)
             {
@@ -330,6 +332,7 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
                 continue;
             }
 
+            //std::cout << StringFromAddrint(INS_Address(ins)) << std::endl;
 
             // Trace branch instructions (conditional and unconditional)
             if(INS_IsCall(ins) && INS_IsControlFlow(ins))
@@ -739,6 +742,7 @@ TraceEntry* TestcaseEnd(TraceEntry* nextEntry, THREADID tid)
 {
     // tells us to stop logging
     isTest = false;
+    writeCount();
     // TraceWriter::writeCount();
 
     // Get trace logger object and set the new testcase ID
