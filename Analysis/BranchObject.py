@@ -12,7 +12,7 @@ class BranchObject:
         if testInput != self.testcase:
             self.totalTestcases += 1 # totalTestcase += 1
             self.testcase = testInput
-            self.visitTotal[count] = {testcase}
+            self.visitTotal[self.count] = {self.testcase}
             self.count = 0
         if inscount not in self.insMap: # does map have this inscount?
             self.insMap[inscount] = {testInput} # map[inscount] append input map[iscount].add(#)
@@ -23,20 +23,22 @@ class BranchObject:
         self.count += 1
 
     def printProportions(self):
+        avg = 0
+        total = 0
         print(self.addrType + ' addr: ' + str(self.address) + ' total: ' + str(self.totalTestcases))
         for inscount in self.insMap: #   for each inscount in map:
             # print(str(inscount) + ': ' + str(len(self.insMap[inscount])) + " " + str(self.totalTestcases))
             print(str(inscount) + ': ' + str(float(len(self.insMap[inscount])) / (self.totalTestcases)))
         for count in self.visitTotal:
-            print(self.address + ' ran ' + (self.count) + 'times: ' 
+            print(self.address + ' ran ' + str(self.count) + 'times: ' 
             + str(float(len(self.visitTotal[count])) / (self.totalTestcases)) + ' this percentage of the time')
             
             # add the total # of times the branch was visited overall
-            avg += (count * str(float(len(self.visitTotal[count]))))
-            total += (str(float(len(self.visitTotal[count]))))
+            avg += (count * float(len(self.visitTotal[count])))
+            total += (float(len(self.visitTotal[count])))
 
         avg = (avg / total)
-        print( (self.address) + ' runs an average of ' + avg + ' times when it is run.')
+        print( (self.address) + ' runs an average of ' + str(avg) + ' times when it is run.')
             
             
             
