@@ -9,10 +9,15 @@ class BranchObject:
         self.testcase = -1
 
     def update(self, inscount, testInput): # update(inscount, input):
+        #self.count += 1
         if testInput != self.testcase:
             self.totalTestcases += 1 # totalTestcase += 1
             self.testcase = testInput
-            self.visitTotal[self.count] = {self.testcase}
+            #self.visitTotal[self.count] = {self.testcase}
+            if self.count not in self.visitTotal: # does map have this inscount?
+                self.visitTotal[self.count] = {self.testcase} # map[inscount] append input map[iscount].add(#)
+            else:
+                self.visitTotal[self.count].add(self.testcase) # map[inscount] = {input}
             self.count = 0
         if inscount not in self.insMap: # does map have this inscount?
             self.insMap[inscount] = {testInput} # map[inscount] append input map[iscount].add(#)
@@ -30,7 +35,7 @@ class BranchObject:
             # print(str(inscount) + ': ' + str(len(self.insMap[inscount])) + " " + str(self.totalTestcases))
             print(str(inscount) + ': ' + str(float(len(self.insMap[inscount])) / (self.totalTestcases)))
         for count in self.visitTotal:
-            print(self.address + ' ran ' + str(self.count) + 'times: ' 
+            print(self.address + ' ran ' + str(count) + ' times: ' 
             + str(float(len(self.visitTotal[count])) / (self.totalTestcases)) + ' this percentage of the time')
             
             # add the total # of times the branch was visited overall
