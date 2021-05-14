@@ -52,6 +52,8 @@ print('---', file=a_file)
 print("start address : " + str(hex(start)), file=b_file)
 print('---', file=b_file)
 # print(addrs)
+totalBranches = 0
+nonConstantBranches = 0
 for addr in addrs:
     #addrs[addr].update2() #new 
     if len(addrs[addr].visitTotal) == 1:
@@ -60,6 +62,8 @@ for addr in addrs:
     else:
         addrs[addr].printProportionsImp(b_file, start)
         print('---', file=b_file)
+        nonConstantBranches += 1
+    totalBranches += 1
     
 
 
