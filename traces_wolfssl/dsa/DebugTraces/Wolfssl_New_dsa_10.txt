@@ -1,0 +1,5838 @@
+start address : 0x7f26e9050ec0
+---
+s addr: 0x0 total: 10
+2: 1.0
+0x0 ran 1 times: 1.0 this percentage of the time
+0x0 runs an average of 1.0 times when it is run.
+---
+b addr: 0xb total: 10
+1: 1.0
+0xb ran 1 times: 1.0 this percentage of the time
+0xb runs an average of 1.0 times when it is run.
+---
+b addr: -0xf45c total: 10
+1: 1.0
+-0xf45c ran 1 times: 1.0 this percentage of the time
+-0xf45c runs an average of 1.0 times when it is run.
+---
+b addr: -0x10987 total: 10
+0: 1.0
+-0x10987 ran 1 times: 1.0 this percentage of the time
+-0x10987 runs an average of 1.0 times when it is run.
+---
+b addr: -0x10e9a total: 10
+2: 1.0
+3: 1.0
+0: 1.0
+1: 1.0
+8: 1.0
+-0x10e9a ran 17 times: 1.0 this percentage of the time
+-0x10e9a runs an average of 17.0 times when it is run.
+---
+b addr: -0x599 total: 10
+1: 1.0
+-0x599 ran 1 times: 1.0 this percentage of the time
+-0x599 runs an average of 1.0 times when it is run.
+---
+mw addr: -0x58d total: 10
+2: 1.0
+-0x58d ran 1 times: 1.0 this percentage of the time
+-0x58d runs an average of 1.0 times when it is run.
+---
+r addr: -0x560 total: 10
+2: 1.0
+-0x560 ran 1 times: 1.0 this percentage of the time
+-0x560 runs an average of 1.0 times when it is run.
+---
+b addr: -0x549 total: 10
+7: 1.0
+-0x549 ran 1 times: 1.0 this percentage of the time
+-0x549 runs an average of 1.0 times when it is run.
+---
+b addr: -0x523 total: 10
+1: 1.0
+-0x523 ran 1 times: 1.0 this percentage of the time
+-0x523 runs an average of 1.0 times when it is run.
+---
+b addr: -0x51b total: 10
+1: 1.0
+-0x51b ran 1 times: 1.0 this percentage of the time
+-0x51b runs an average of 1.0 times when it is run.
+---
+b addr: -0x512 total: 10
+0: 1.0
+-0x512 ran 1 times: 1.0 this percentage of the time
+-0x512 runs an average of 1.0 times when it is run.
+---
+mr addr: -0x50c total: 10
+1: 1.0
+-0x50c ran 1 times: 1.0 this percentage of the time
+-0x50c runs an average of 1.0 times when it is run.
+---
+b addr: -0x506 total: 10
+1: 1.0
+-0x506 ran 1 times: 1.0 this percentage of the time
+-0x506 runs an average of 1.0 times when it is run.
+---
+mr addr: -0x4fd total: 10
+0: 1.0
+-0x4fd ran 1 times: 1.0 this percentage of the time
+-0x4fd runs an average of 1.0 times when it is run.
+---
+b addr: -0x4f5 total: 10
+1: 1.0
+-0x4f5 ran 1 times: 1.0 this percentage of the time
+-0x4f5 runs an average of 1.0 times when it is run.
+---
+b addr: -0x4e8 total: 10
+1: 1.0
+-0x4e8 ran 1 times: 1.0 this percentage of the time
+-0x4e8 runs an average of 1.0 times when it is run.
+---
+b addr: -0x4de total: 10
+2: 1.0
+-0x4de ran 1 times: 1.0 this percentage of the time
+-0x4de runs an average of 1.0 times when it is run.
+---
+b addr: -0x2b3 total: 10
+1: 1.0
+-0x2b3 ran 1 times: 1.0 this percentage of the time
+-0x2b3 runs an average of 1.0 times when it is run.
+---
+b addr: -0x461 total: 10
+1: 1.0
+-0x461 ran 1 times: 1.0 this percentage of the time
+-0x461 runs an average of 1.0 times when it is run.
+---
+b addr: -0x37d total: 10
+0: 1.0
+-0x37d ran 1 times: 1.0 this percentage of the time
+-0x37d runs an average of 1.0 times when it is run.
+---
+mr addr: -0x377 total: 10
+1: 1.0
+-0x377 ran 1 times: 1.0 this percentage of the time
+-0x377 runs an average of 1.0 times when it is run.
+---
+mw addr: -0x36b total: 10
+1: 1.0
+-0x36b ran 1 times: 1.0 this percentage of the time
+-0x36b runs an average of 1.0 times when it is run.
+---
+mr addr: -0x364 total: 10
+0: 1.0
+-0x364 ran 1 times: 1.0 this percentage of the time
+-0x364 runs an average of 1.0 times when it is run.
+---
+mw addr: -0x35f total: 10
+4: 1.0
+-0x35f ran 1 times: 1.0 this percentage of the time
+-0x35f runs an average of 1.0 times when it is run.
+---
+b addr: -0x34a total: 10
+0: 1.0
+-0x34a ran 1 times: 1.0 this percentage of the time
+-0x34a runs an average of 1.0 times when it is run.
+---
+mw addr: -0x331 total: 10
+1: 1.0
+-0x331 ran 1 times: 1.0 this percentage of the time
+-0x331 runs an average of 1.0 times when it is run.
+---
+r addr: -0x320 total: 10
+2: 1.0
+-0x320 ran 1 times: 1.0 this percentage of the time
+-0x320 runs an average of 1.0 times when it is run.
+---
+b addr: -0x1e9 total: 10
+3: 1.0
+-0x1e9 ran 1 times: 1.0 this percentage of the time
+-0x1e9 runs an average of 1.0 times when it is run.
+---
+b addr: -0x1d3 total: 10
+0: 1.0
+-0x1d3 ran 1 times: 1.0 this percentage of the time
+-0x1d3 runs an average of 1.0 times when it is run.
+---
+mr addr: -0x1cd total: 10
+3: 1.0
+-0x1cd ran 1 times: 1.0 this percentage of the time
+-0x1cd runs an average of 1.0 times when it is run.
+---
+b addr: -0x1b5 total: 10
+6: 1.0
+-0x1b5 ran 1 times: 1.0 this percentage of the time
+-0x1b5 runs an average of 1.0 times when it is run.
+---
+b addr: -0x19a total: 10
+0: 1.0
+-0x19a ran 1 times: 1.0 this percentage of the time
+-0x19a runs an average of 1.0 times when it is run.
+---
+mw addr: -0x82 total: 10
+4: 1.0
+-0x82 ran 1 times: 1.0 this percentage of the time
+-0x82 runs an average of 1.0 times when it is run.
+---
+b addr: -0x62 total: 10
+5: 1.0
+-0x62 ran 1 times: 1.0 this percentage of the time
+-0x62 runs an average of 1.0 times when it is run.
+---
+mw addr: -0x50 total: 10
+1: 1.0
+-0x50 ran 5 times: 1.0 this percentage of the time
+-0x50 runs an average of 5.0 times when it is run.
+---
+b addr: -0x4a total: 10
+2: 1.0
+0: 1.0
+-0x4a ran 5 times: 1.0 this percentage of the time
+-0x4a runs an average of 5.0 times when it is run.
+---
+b addr: -0x48 total: 10
+1: 1.0
+-0x48 ran 1 times: 1.0 this percentage of the time
+-0x48 runs an average of 1.0 times when it is run.
+---
+mr addr: -0x180 total: 10
+3: 1.0
+-0x180 ran 16 times: 1.0 this percentage of the time
+-0x180 runs an average of 16.0 times when it is run.
+---
+b addr: -0x172 total: 10
+0: 1.0
+-0x172 ran 16 times: 1.0 this percentage of the time
+-0x172 runs an average of 16.0 times when it is run.
+---
+mr addr: -0x170 total: 10
+6: 1.0
+-0x170 ran 1 times: 1.0 this percentage of the time
+-0x170 runs an average of 1.0 times when it is run.
+---
+b addr: -0x14d total: 10
+1: 1.0
+-0x14d ran 1 times: 1.0 this percentage of the time
+-0x14d runs an average of 1.0 times when it is run.
+---
+mr addr: -0x1703 total: 10
+7: 0.9
+1174: 0.1
+-0x1703 ran 1 times: 1.0 this percentage of the time
+-0x1703 runs an average of 1.0 times when it is run.
+---
+mw addr: -0x16e9 total: 9
+1: 1.0
+-0x16e9 ran 1 times: 1.0 this percentage of the time
+-0x16e9 runs an average of 1.0 times when it is run.
+---
+mr addr: -0x16d7 total: 9
+0: 1.0
+-0x16d7 ran 1 times: 1.0 this percentage of the time
+-0x16d7 runs an average of 1.0 times when it is run.
+---
+mw addr: -0x16d3 total: 9
+10: 1.0
+-0x16d3 ran 1 times: 1.0 this percentage of the time
+-0x16d3 runs an average of 1.0 times when it is run.
+---
+mr addr: -0x169a total: 9
+6: 1.0
+-0x169a ran 1 times: 1.0 this percentage of the time
+-0x169a runs an average of 1.0 times when it is run.
+---
+mw addr: -0x1685 total: 9
+1: 1.0
+-0x1685 ran 1 times: 1.0 this percentage of the time
+-0x1685 runs an average of 1.0 times when it is run.
+---
+mr addr: -0x1675 total: 9
+51: 1.0
+-0x1675 ran 1 times: 1.0 this percentage of the time
+-0x1675 runs an average of 1.0 times when it is run.
+---
+mw addr: -0x15b6 total: 9
+15: 1.0
+-0x15b6 ran 1 times: 1.0 this percentage of the time
+-0x15b6 runs an average of 1.0 times when it is run.
+---
+mr addr: -0x1584 total: 9
+5: 1.0
+-0x1584 ran 1 times: 1.0 this percentage of the time
+-0x1584 runs an average of 1.0 times when it is run.
+---
+mw addr: -0x1573 total: 9
+16: 1.0
+-0x1573 ran 1 times: 1.0 this percentage of the time
+-0x1573 runs an average of 1.0 times when it is run.
+---
+mr addr: -0x152f total: 9
+4: 1.0
+-0x152f ran 1 times: 1.0 this percentage of the time
+-0x152f runs an average of 1.0 times when it is run.
+---
+mw addr: -0x1519 total: 9
+3: 1.0
+-0x1519 ran 1 times: 1.0 this percentage of the time
+-0x1519 runs an average of 1.0 times when it is run.
+---
+mr addr: -0x150c total: 9
+7: 1.0
+-0x150c ran 1 times: 1.0 this percentage of the time
+-0x150c runs an average of 1.0 times when it is run.
+---
+mw addr: -0x14ee total: 9
+2: 1.0
+-0x14ee ran 1 times: 1.0 this percentage of the time
+-0x14ee runs an average of 1.0 times when it is run.
+---
+mr addr: -0x14e3 total: 9
+8: 1.0
+-0x14e3 ran 1 times: 1.0 this percentage of the time
+-0x14e3 runs an average of 1.0 times when it is run.
+---
+mw addr: -0x14c3 total: 9
+0: 1.0
+-0x14c3 ran 1 times: 1.0 this percentage of the time
+-0x14c3 runs an average of 1.0 times when it is run.
+---
+mr addr: -0x14be total: 9
+32: 1.0
+-0x14be ran 1 times: 1.0 this percentage of the time
+-0x14be runs an average of 1.0 times when it is run.
+---
+mr addr: -0x1449 total: 9
+996: 1.0
+-0x1449 ran 1 times: 1.0 this percentage of the time
+-0x1449 runs an average of 1.0 times when it is run.
+---
+mw addr: -0x5bf total: 9
+1: 1.0
+-0x5bf ran 1 times: 1.0 this percentage of the time
+-0x5bf runs an average of 1.0 times when it is run.
+---
+r addr: -0x5a2 total: 10
+2: 1.0
+-0x5a2 ran 1 times: 1.0 this percentage of the time
+-0x5a2 runs an average of 1.0 times when it is run.
+---
+mr addr: -0x140 total: 10
+3: 1.0
+-0x140 ran 5 times: 1.0 this percentage of the time
+-0x140 runs an average of 5.0 times when it is run.
+---
+b addr: -0x132 total: 10
+0: 1.0
+1: 1.0
+-0x132 ran 5 times: 1.0 this percentage of the time
+-0x132 runs an average of 5.0 times when it is run.
+---
+mr addr: -0x126 total: 10
+3: 1.0
+-0x126 ran 1 times: 1.0 this percentage of the time
+-0x126 runs an average of 1.0 times when it is run.
+---
+r addr: -0xe4 total: 10
+4: 1.0
+-0xe4 ran 1 times: 1.0 this percentage of the time
+-0xe4 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa416 total: 10
+1: 1.0
+-0xa416 ran 1 times: 1.0 this percentage of the time
+-0xa416 runs an average of 1.0 times when it is run.
+---
+mw addr: -0xa6e8 total: 10
+2: 1.0
+-0xa6e8 ran 1 times: 1.0 this percentage of the time
+-0xa6e8 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa6db total: 10
+4: 1.0
+-0xa6db ran 1 times: 1.0 this percentage of the time
+-0xa6db runs an average of 1.0 times when it is run.
+---
+b addr: -0xa6c9 total: 10
+1: 1.0
+-0xa6c9 ran 1 times: 1.0 this percentage of the time
+-0xa6c9 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa6c5 total: 10
+1: 1.0
+-0xa6c5 ran 1 times: 1.0 this percentage of the time
+-0xa6c5 runs an average of 1.0 times when it is run.
+---
+mw addr: -0xa6b6 total: 10
+9: 1.0
+-0xa6b6 ran 1 times: 1.0 this percentage of the time
+-0xa6b6 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa67c total: 10
+1: 1.0
+-0xa67c ran 1 times: 1.0 this percentage of the time
+-0xa67c runs an average of 1.0 times when it is run.
+---
+b addr: -0xeb9c total: 10
+1: 1.0
+-0xeb9c ran 1 times: 1.0 this percentage of the time
+-0xeb9c runs an average of 1.0 times when it is run.
+---
+b addr: -0x100c7 total: 10
+0: 1.0
+-0x100c7 ran 1 times: 1.0 this percentage of the time
+-0x100c7 runs an average of 1.0 times when it is run.
+---
+mr addr: -0xa7d4 total: 10
+5: 1.0
+-0xa7d4 ran 1 times: 1.0 this percentage of the time
+-0xa7d4 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa7be total: 10
+1: 1.0
+-0xa7be ran 1 times: 1.0 this percentage of the time
+-0xa7be runs an average of 1.0 times when it is run.
+---
+b addr: -0xf8ac total: 10
+1: 1.0
+3: 1.0
+-0xf8ac ran 2 times: 1.0 this percentage of the time
+-0xf8ac runs an average of 2.0 times when it is run.
+---
+b addr: -0x10dd7 total: 10
+0: 1.0
+-0x10dd7 ran 1 times: 1.0 this percentage of the time
+-0x10dd7 runs an average of 1.0 times when it is run.
+---
+mw addr: -0xa914 total: 10
+3: 1.0
+1: 0.1
+-0xa914 ran 2 times: 1.0 this percentage of the time
+-0xa914 runs an average of 2.0 times when it is run.
+---
+b addr: -0xa902 total: 10
+1: 1.0
+-0xa902 ran 2 times: 1.0 this percentage of the time
+-0xa902 runs an average of 2.0 times when it is run.
+---
+b addr: -0xa8f9 total: 10
+6: 1.0
+-0xa8f9 ran 2 times: 1.0 this percentage of the time
+-0xa8f9 runs an average of 2.0 times when it is run.
+---
+b addr: -0xa8e3 total: 10
+0: 1.0
+-0xa8e3 ran 2 times: 1.0 this percentage of the time
+-0xa8e3 runs an average of 2.0 times when it is run.
+---
+mr addr: -0xa8d8 total: 10
+0: 1.0
+-0xa8d8 ran 2 times: 1.0 this percentage of the time
+-0xa8d8 runs an average of 2.0 times when it is run.
+---
+b addr: -0xa8cd total: 10
+4: 1.0
+-0xa8cd ran 2 times: 1.0 this percentage of the time
+-0xa8cd runs an average of 2.0 times when it is run.
+---
+b addr: -0xa8bb total: 10
+6: 1.0
+-0xa8bb ran 2 times: 1.0 this percentage of the time
+-0xa8bb runs an average of 2.0 times when it is run.
+---
+mw addr: -0xb2c9 total: 10
+9: 1.0
+-0xb2c9 ran 3 times: 1.0 this percentage of the time
+-0xb2c9 runs an average of 3.0 times when it is run.
+---
+b addr: -0xb295 total: 10
+4: 1.0
+-0xb295 ran 3 times: 1.0 this percentage of the time
+-0xb295 runs an average of 3.0 times when it is run.
+---
+mw addr: -0xb510 total: 10
+1: 1.0
+-0xb510 ran 6 times: 1.0 this percentage of the time
+-0xb510 runs an average of 6.0 times when it is run.
+---
+b addr: -0xb4ce total: 10
+1: 1.0
+-0xb4ce ran 6 times: 1.0 this percentage of the time
+-0xb4ce runs an average of 6.0 times when it is run.
+---
+b addr: -0xb4a8 total: 10
+1: 1.0
+-0xb4a8 ran 12 times: 1.0 this percentage of the time
+-0xb4a8 runs an average of 12.0 times when it is run.
+---
+b addr: -0xfb67 total: 10
+0: 1.0
+-0xfb67 ran 1 times: 1.0 this percentage of the time
+-0xfb67 runs an average of 1.0 times when it is run.
+---
+b addr: -0xfd57 total: 10
+0: 1.0
+-0xfd57 ran 1 times: 1.0 this percentage of the time
+-0xfd57 runs an average of 1.0 times when it is run.
+---
+b addr: -0xb49e total: 10
+3: 1.0
+-0xb49e ran 12 times: 1.0 this percentage of the time
+-0xb49e runs an average of 12.0 times when it is run.
+---
+b addr: -0xb48d total: 10
+1: 1.0
+-0xb48d ran 12 times: 1.0 this percentage of the time
+-0xb48d runs an average of 12.0 times when it is run.
+---
+b addr: -0x10097 total: 10
+0: 1.0
+-0x10097 ran 1 times: 1.0 this percentage of the time
+-0x10097 runs an average of 1.0 times when it is run.
+---
+b addr: -0x10437 total: 10
+0: 1.0
+-0x10437 ran 1 times: 1.0 this percentage of the time
+-0x10437 runs an average of 1.0 times when it is run.
+---
+b addr: -0xb483 total: 10
+2: 1.0
+-0xb483 ran 12 times: 1.0 this percentage of the time
+-0xb483 runs an average of 12.0 times when it is run.
+---
+b addr: -0xb474 total: 10
+1: 1.0
+-0xb474 ran 12 times: 1.0 this percentage of the time
+-0xb474 runs an average of 12.0 times when it is run.
+---
+b addr: -0x9b44 total: 10
+0: 1.0
+1: 1.0
+-0x9b44 ran 18 times: 1.0 this percentage of the time
+-0x9b44 runs an average of 18.0 times when it is run.
+---
+mr addr: -0x9a66 total: 10
+2: 1.0
+-0x9a66 ran 12 times: 1.0 this percentage of the time
+-0x9a66 runs an average of 12.0 times when it is run.
+---
+b addr: -0x9a54 total: 10
+3: 1.0
+-0x9a54 ran 12 times: 1.0 this percentage of the time
+-0x9a54 runs an average of 12.0 times when it is run.
+---
+mw addr: -0x9acc total: 10
+1: 1.0
+-0x9acc ran 12 times: 1.0 this percentage of the time
+-0x9acc runs an average of 12.0 times when it is run.
+---
+b addr: -0xb46a total: 10
+0: 1.0
+-0xb46a ran 12 times: 1.0 this percentage of the time
+-0xb46a runs an average of 12.0 times when it is run.
+---
+mr addr: -0xb468 total: 10
+0: 1.0
+-0xb468 ran 12 times: 1.0 this percentage of the time
+-0xb468 runs an average of 12.0 times when it is run.
+---
+b addr: -0xb463 total: 10
+0: 1.0
+2: 1.0
+-0xb463 ran 12 times: 1.0 this percentage of the time
+-0xb463 runs an average of 12.0 times when it is run.
+---
+mr addr: -0xb448 total: 10
+2: 1.0
+-0xb448 ran 12 times: 1.0 this percentage of the time
+-0xb448 runs an average of 12.0 times when it is run.
+---
+b addr: -0xb43c total: 10
+1: 1.0
+-0xb43c ran 12 times: 1.0 this percentage of the time
+-0xb43c runs an average of 12.0 times when it is run.
+---
+b addr: -0xb432 total: 10
+0: 1.0
+-0xb432 ran 12 times: 1.0 this percentage of the time
+-0xb432 runs an average of 12.0 times when it is run.
+---
+mr addr: -0xb42c total: 10
+1: 1.0
+-0xb42c ran 12 times: 1.0 this percentage of the time
+-0xb42c runs an average of 12.0 times when it is run.
+---
+b addr: -0xb424 total: 10
+2: 1.0
+0: 1.0
+-0xb424 ran 12 times: 1.0 this percentage of the time
+-0xb424 runs an average of 12.0 times when it is run.
+---
+mw addr: -0xb3f2 total: 10
+0: 1.0
+-0xb3f2 ran 12 times: 1.0 this percentage of the time
+-0xb3f2 runs an average of 12.0 times when it is run.
+---
+b addr: -0xb3ed total: 10
+1: 1.0
+-0xb3ed ran 12 times: 1.0 this percentage of the time
+-0xb3ed runs an average of 12.0 times when it is run.
+---
+b addr: -0xfe07 total: 10
+0: 1.0
+-0xfe07 ran 1 times: 1.0 this percentage of the time
+-0xfe07 runs an average of 1.0 times when it is run.
+---
+mw addr: -0x97e0 total: 10
+1: 1.0
+-0x97e0 ran 6 times: 1.0 this percentage of the time
+-0x97e0 runs an average of 6.0 times when it is run.
+---
+b addr: -0x97db total: 10
+1: 1.0
+-0x97db ran 6 times: 1.0 this percentage of the time
+-0x97db runs an average of 6.0 times when it is run.
+---
+mw addr: -0x97d3 total: 10
+0: 1.0
+-0x97d3 ran 6 times: 1.0 this percentage of the time
+-0x97d3 runs an average of 6.0 times when it is run.
+---
+b addr: -0x97ce total: 10
+0: 1.0
+-0x97ce ran 6 times: 1.0 this percentage of the time
+-0x97ce runs an average of 6.0 times when it is run.
+---
+b addr: -0xb3e2 total: 10
+1: 1.0
+-0xb3e2 ran 12 times: 1.0 this percentage of the time
+-0xb3e2 runs an average of 12.0 times when it is run.
+---
+b addr: -0x107f7 total: 10
+0: 1.0
+-0x107f7 ran 1 times: 1.0 this percentage of the time
+-0x107f7 runs an average of 1.0 times when it is run.
+---
+b addr: -0xb3da total: 10
+1: 1.0
+-0xb3da ran 12 times: 1.0 this percentage of the time
+-0xb3da runs an average of 12.0 times when it is run.
+---
+mr addr: -0xb3d0 total: 10
+0: 1.0
+-0xb3d0 ran 12 times: 1.0 this percentage of the time
+-0xb3d0 runs an average of 12.0 times when it is run.
+---
+b addr: -0xb3cb total: 10
+0: 1.0
+-0xb3cb ran 12 times: 1.0 this percentage of the time
+-0xb3cb runs an average of 12.0 times when it is run.
+---
+mr addr: -0xb3c5 total: 10
+5: 1.0
+4: 1.0
+-0xb3c5 ran 6 times: 1.0 this percentage of the time
+-0xb3c5 runs an average of 6.0 times when it is run.
+---
+b addr: -0xb398 total: 10
+2: 1.0
+-0xb398 ran 6 times: 1.0 this percentage of the time
+-0xb398 runs an average of 6.0 times when it is run.
+---
+mr addr: -0xb330 total: 10
+14: 1.0
+1: 1.0
+-0xb330 ran 6 times: 1.0 this percentage of the time
+-0xb330 runs an average of 6.0 times when it is run.
+---
+b addr: -0xb2f1 total: 10
+0: 1.0
+2: 1.0
+-0xb2f1 ran 9 times: 1.0 this percentage of the time
+-0xb2f1 runs an average of 9.0 times when it is run.
+---
+b addr: -0xb2ef total: 10
+0: 1.0
+-0xb2ef ran 6 times: 1.0 this percentage of the time
+-0xb2ef runs an average of 6.0 times when it is run.
+---
+mr addr: -0xb4c0 total: 10
+1: 1.0
+-0xb4c0 ran 6 times: 1.0 this percentage of the time
+-0xb4c0 runs an average of 6.0 times when it is run.
+---
+b addr: -0xb4b7 total: 10
+0: 1.0
+-0xb4b7 ran 6 times: 1.0 this percentage of the time
+-0xb4b7 runs an average of 6.0 times when it is run.
+---
+mw addr: -0xb390 total: 10
+4: 1.0
+-0xb390 ran 6 times: 1.0 this percentage of the time
+-0xb390 runs an average of 6.0 times when it is run.
+---
+b addr: -0xb346 total: 10
+1: 1.0
+-0xb346 ran 6 times: 1.0 this percentage of the time
+-0xb346 runs an average of 6.0 times when it is run.
+---
+r addr: -0xb333 total: 10
+1: 1.0
+-0xb333 ran 6 times: 1.0 this percentage of the time
+-0xb333 runs an average of 6.0 times when it is run.
+---
+b addr: -0xb28e total: 10
+5: 1.0
+-0xb28e ran 3 times: 1.0 this percentage of the time
+-0xb28e runs an average of 3.0 times when it is run.
+---
+b addr: -0xb26c total: 10
+4: 1.0
+-0xb26c ran 3 times: 1.0 this percentage of the time
+-0xb26c runs an average of 3.0 times when it is run.
+---
+b addr: -0xb454 total: 10
+1: 1.0
+-0xb454 ran 6 times: 1.0 this percentage of the time
+-0xb454 runs an average of 6.0 times when it is run.
+---
+b addr: -0x9b3c total: 10
+0: 1.0
+-0x9b3c ran 6 times: 1.0 this percentage of the time
+-0x9b3c runs an average of 6.0 times when it is run.
+---
+mr addr: -0x9b3a total: 10
+1: 1.0
+-0x9b3a ran 6 times: 1.0 this percentage of the time
+-0x9b3a runs an average of 6.0 times when it is run.
+---
+b addr: -0x9b31 total: 10
+0: 1.0
+-0x9b31 ran 6 times: 1.0 this percentage of the time
+-0x9b31 runs an average of 6.0 times when it is run.
+---
+b addr: -0xb44a total: 10
+0: 1.0
+-0xb44a ran 6 times: 1.0 this percentage of the time
+-0xb44a runs an average of 6.0 times when it is run.
+---
+b addr: -0x10707 total: 10
+0: 1.0
+-0x10707 ran 1 times: 1.0 this percentage of the time
+-0x10707 runs an average of 1.0 times when it is run.
+---
+mr addr: -0xb2fb total: 10
+1: 1.0
+0: 1.0
+-0xb2fb ran 5 times: 1.0 this percentage of the time
+-0xb2fb runs an average of 5.0 times when it is run.
+---
+b addr: -0xb265 total: 10
+0: 1.0
+-0xb265 ran 3 times: 1.0 this percentage of the time
+-0xb265 runs an average of 3.0 times when it is run.
+---
+mw addr: -0xb263 total: 10
+0: 1.0
+-0xb263 ran 3 times: 1.0 this percentage of the time
+-0xb263 runs an average of 3.0 times when it is run.
+---
+r addr: -0xb253 total: 10
+1: 1.0
+-0xb253 ran 3 times: 1.0 this percentage of the time
+-0xb253 runs an average of 3.0 times when it is run.
+---
+b addr: -0xa8b4 total: 10
+1: 1.0
+-0xa8b4 ran 2 times: 1.0 this percentage of the time
+-0xa8b4 runs an average of 2.0 times when it is run.
+---
+b addr: -0xa8b0 total: 10
+3: 1.0
+-0xa8b0 ran 2 times: 1.0 this percentage of the time
+-0xa8b0 runs an average of 2.0 times when it is run.
+---
+b addr: -0xa88d total: 10
+3: 1.0
+-0xa88d ran 2 times: 1.0 this percentage of the time
+-0xa88d runs an average of 2.0 times when it is run.
+---
+mr addr: -0xae38 total: 10
+4: 0.9
+3: 0.1
+-0xae38 ran 16 times: 1.0 this percentage of the time
+-0xae38 runs an average of 16.0 times when it is run.
+---
+b addr: -0xae06 total: 10
+0: 1.0
+-0xae06 ran 16 times: 1.0 this percentage of the time
+-0xae06 runs an average of 16.0 times when it is run.
+---
+mr addr: -0xadfd total: 10
+0: 1.0
+-0xadfd ran 16 times: 1.0 this percentage of the time
+-0xadfd runs an average of 16.0 times when it is run.
+---
+b addr: -0xadfa total: 10
+1: 1.0
+-0xadfa ran 16 times: 1.0 this percentage of the time
+-0xadfa runs an average of 16.0 times when it is run.
+---
+b addr: -0xa886 total: 10
+3: 1.0
+-0xa886 ran 2 times: 1.0 this percentage of the time
+-0xa886 runs an average of 2.0 times when it is run.
+---
+b addr: -0xa812 total: 10
+3: 1.0
+-0xa812 ran 2 times: 1.0 this percentage of the time
+-0xa812 runs an average of 2.0 times when it is run.
+---
+b addr: -0xa801 total: 10
+4: 1.0
+-0xa801 ran 2 times: 1.0 this percentage of the time
+-0xa801 runs an average of 2.0 times when it is run.
+---
+mw addr: -0xa869 total: 10
+1: 1.0
+-0xa869 ran 30 times: 1.0 this percentage of the time
+-0xa869 runs an average of 30.0 times when it is run.
+---
+b addr: -0xa85f total: 10
+2: 1.0
+3: 1.0
+-0xa85f ran 30 times: 1.0 this percentage of the time
+-0xa85f runs an average of 30.0 times when it is run.
+---
+mr addr: -0xa850 total: 10
+3: 1.0
+-0xa850 ran 240 times: 1.0 this percentage of the time
+-0xa850 runs an average of 240.0 times when it is run.
+---
+b addr: -0xa844 total: 10
+0: 1.0
+1: 1.0
+-0xa844 ran 240 times: 1.0 this percentage of the time
+-0xa844 runs an average of 240.0 times when it is run.
+---
+b addr: -0xa840 total: 10
+0: 1.0
+-0xa840 ran 2 times: 1.0 this percentage of the time
+-0xa840 runs an average of 2.0 times when it is run.
+---
+mr addr: -0xa83e total: 10
+0: 1.0
+-0xa83e ran 2 times: 1.0 this percentage of the time
+-0xa83e runs an average of 2.0 times when it is run.
+---
+b addr: -0xa830 total: 10
+2: 1.0
+-0xa830 ran 2 times: 1.0 this percentage of the time
+-0xa830 runs an average of 2.0 times when it is run.
+---
+r addr: -0xa81e total: 10
+1: 1.0
+2: 1.0
+-0xa81e ran 2 times: 1.0 this percentage of the time
+-0xa81e runs an average of 2.0 times when it is run.
+---
+r addr: -0xa7b5 total: 10
+1: 1.0
+-0xa7b5 ran 1 times: 1.0 this percentage of the time
+-0xa7b5 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa673 total: 10
+2: 1.0
+-0xa673 ran 1 times: 1.0 this percentage of the time
+-0xa673 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa65f total: 10
+0: 1.0
+-0xa65f ran 1 times: 1.0 this percentage of the time
+-0xa65f runs an average of 1.0 times when it is run.
+---
+mr addr: -0xa654 total: 10
+4: 1.0
+-0xa654 ran 128 times: 1.0 this percentage of the time
+-0xa654 runs an average of 128.0 times when it is run.
+---
+b addr: -0xa641 total: 10
+0: 1.0
+1: 1.0
+-0xa641 ran 128 times: 1.0 this percentage of the time
+-0xa641 runs an average of 128.0 times when it is run.
+---
+mr addr: -0xa658 total: 10
+0: 1.0
+-0xa658 ran 127 times: 1.0 this percentage of the time
+-0xa658 runs an average of 127.0 times when it is run.
+---
+b addr: -0xa63d total: 10
+5: 1.0
+-0xa63d ran 1 times: 1.0 this percentage of the time
+-0xa63d runs an average of 1.0 times when it is run.
+---
+b addr: -0xa60c total: 10
+1: 1.0
+-0xa60c ran 1 times: 1.0 this percentage of the time
+-0xa60c runs an average of 1.0 times when it is run.
+---
+mr addr: -0xb422 total: 10
+1: 1.0
+-0xb422 ran 2 times: 1.0 this percentage of the time
+-0xb422 runs an average of 2.0 times when it is run.
+---
+b addr: -0xb41c total: 10
+2: 1.0
+-0xb41c ran 2 times: 1.0 this percentage of the time
+-0xb41c runs an average of 2.0 times when it is run.
+---
+b addr: -0xb415 total: 10
+1: 1.0
+-0xb415 ran 2 times: 1.0 this percentage of the time
+-0xb415 runs an average of 2.0 times when it is run.
+---
+b addr: -0xb40b total: 10
+3: 1.0
+-0xb40b ran 2 times: 1.0 this percentage of the time
+-0xb40b runs an average of 2.0 times when it is run.
+---
+b addr: -0xa601 total: 10
+2: 1.0
+-0xa601 ran 1 times: 1.0 this percentage of the time
+-0xa601 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa5ed total: 10
+0: 1.0
+-0xa5ed ran 1 times: 1.0 this percentage of the time
+-0xa5ed runs an average of 1.0 times when it is run.
+---
+mr addr: -0xa5e4 total: 10
+4: 1.0
+-0xa5e4 ran 128 times: 1.0 this percentage of the time
+-0xa5e4 runs an average of 128.0 times when it is run.
+---
+b addr: -0xa5d1 total: 10
+0: 1.0
+1: 1.0
+-0xa5d1 ran 128 times: 1.0 this percentage of the time
+-0xa5d1 runs an average of 128.0 times when it is run.
+---
+mr addr: -0xa5e8 total: 10
+0: 1.0
+-0xa5e8 ran 127 times: 1.0 this percentage of the time
+-0xa5e8 runs an average of 127.0 times when it is run.
+---
+b addr: -0xa5cd total: 10
+1: 1.0
+-0xa5cd ran 1 times: 1.0 this percentage of the time
+-0xa5cd runs an average of 1.0 times when it is run.
+---
+b addr: -0xa5c2 total: 10
+1: 1.0
+-0xa5c2 ran 1 times: 1.0 this percentage of the time
+-0xa5c2 runs an average of 1.0 times when it is run.
+---
+b addr: -0xeefc total: 10
+1: 1.0
+-0xeefc ran 1 times: 1.0 this percentage of the time
+-0xeefc runs an average of 1.0 times when it is run.
+---
+b addr: -0x10427 total: 10
+0: 1.0
+-0x10427 ran 1 times: 1.0 this percentage of the time
+-0x10427 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x4744 total: 10
+1: 1.0
+0x4744 ran 1 times: 1.0 this percentage of the time
+0x4744 runs an average of 1.0 times when it is run.
+---
+b addr: 0x474e total: 10
+0: 1.0
+0x474e ran 1 times: 1.0 this percentage of the time
+0x474e runs an average of 1.0 times when it is run.
+---
+b addr: 0x4758 total: 10
+1: 1.0
+0x4758 ran 1 times: 1.0 this percentage of the time
+0x4758 runs an average of 1.0 times when it is run.
+---
+b addr: -0xed2c total: 10
+1: 1.0
+-0xed2c ran 1 times: 1.0 this percentage of the time
+-0xed2c runs an average of 1.0 times when it is run.
+---
+b addr: -0x10257 total: 10
+0: 1.0
+-0x10257 ran 1 times: 1.0 this percentage of the time
+-0x10257 runs an average of 1.0 times when it is run.
+---
+mw addr: -0xa5ba total: 10
+2: 1.0
+-0xa5ba ran 1 times: 1.0 this percentage of the time
+-0xa5ba runs an average of 1.0 times when it is run.
+---
+b addr: -0xa5ae total: 10
+3: 1.0
+-0xa5ae ran 1 times: 1.0 this percentage of the time
+-0xa5ae runs an average of 1.0 times when it is run.
+---
+b addr: -0xa5a3 total: 10
+2: 1.0
+-0xa5a3 ran 1 times: 1.0 this percentage of the time
+-0xa5a3 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa7a5 total: 10
+5: 1.0
+-0xa7a5 ran 1 times: 1.0 this percentage of the time
+-0xa7a5 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa78c total: 10
+1: 1.0
+-0xa78c ran 1 times: 1.0 this percentage of the time
+-0xa78c runs an average of 1.0 times when it is run.
+---
+b addr: -0xe96c total: 10
+1: 1.0
+-0xe96c ran 1 times: 1.0 this percentage of the time
+-0xe96c runs an average of 1.0 times when it is run.
+---
+b addr: -0xfe97 total: 10
+0: 1.0
+-0xfe97 ran 1 times: 1.0 this percentage of the time
+-0xfe97 runs an average of 1.0 times when it is run.
+---
+mw addr: -0xa787 total: 10
+2: 1.0
+-0xa787 ran 1 times: 1.0 this percentage of the time
+-0xa787 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa780 total: 10
+1: 1.0
+-0xa780 ran 1 times: 1.0 this percentage of the time
+-0xa780 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa77c total: 10
+3: 1.0
+-0xa77c ran 1 times: 1.0 this percentage of the time
+-0xa77c runs an average of 1.0 times when it is run.
+---
+b addr: -0xa76f total: 10
+1: 1.0
+-0xa76f ran 1 times: 1.0 this percentage of the time
+-0xa76f runs an average of 1.0 times when it is run.
+---
+b addr: -0xf09c total: 10
+1: 1.0
+-0xf09c ran 1 times: 1.0 this percentage of the time
+-0xf09c runs an average of 1.0 times when it is run.
+---
+b addr: -0x105c7 total: 10
+0: 1.0
+-0x105c7 ran 1 times: 1.0 this percentage of the time
+-0x105c7 runs an average of 1.0 times when it is run.
+---
+mr addr: -0xa76a total: 10
+1: 1.0
+-0xa76a ran 1 times: 1.0 this percentage of the time
+-0xa76a runs an average of 1.0 times when it is run.
+---
+b addr: -0xa765 total: 10
+4: 1.0
+-0xa765 ran 1 times: 1.0 this percentage of the time
+-0xa765 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa73f total: 10
+0: 1.0
+-0xa73f ran 1 times: 1.0 this percentage of the time
+-0xa73f runs an average of 1.0 times when it is run.
+---
+b addr: -0xa763 total: 10
+1: 1.0
+-0xa763 ran 1 times: 1.0 this percentage of the time
+-0xa763 runs an average of 1.0 times when it is run.
+---
+b addr: -0xf15c total: 10
+1: 1.0
+-0xf15c ran 1 times: 1.0 this percentage of the time
+-0xf15c runs an average of 1.0 times when it is run.
+---
+b addr: -0x10687 total: 10
+0: 1.0
+-0x10687 ran 1 times: 1.0 this percentage of the time
+-0x10687 runs an average of 1.0 times when it is run.
+---
+r addr: -0xa757 total: 10
+1: 1.0
+-0xa757 ran 1 times: 1.0 this percentage of the time
+-0xa757 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa59c total: 10
+2: 1.0
+-0xa59c ran 1 times: 1.0 this percentage of the time
+-0xa59c runs an average of 1.0 times when it is run.
+---
+b addr: -0xa4d2 total: 10
+1: 1.0
+-0xa4d2 ran 1 times: 1.0 this percentage of the time
+-0xa4d2 runs an average of 1.0 times when it is run.
+---
+b addr: -0xf75c total: 10
+1: 1.0
+-0xf75c ran 1 times: 1.0 this percentage of the time
+-0xf75c runs an average of 1.0 times when it is run.
+---
+b addr: -0x10c87 total: 10
+0: 1.0
+-0x10c87 ran 1 times: 1.0 this percentage of the time
+-0x10c87 runs an average of 1.0 times when it is run.
+---
+b addr: -0xab9f total: 10
+9: 1.0
+-0xab9f ran 1 times: 1.0 this percentage of the time
+-0xab9f runs an average of 1.0 times when it is run.
+---
+b addr: -0xab75 total: 10
+7: 1.0
+-0xab75 ran 12 times: 1.0 this percentage of the time
+-0xab75 runs an average of 12.0 times when it is run.
+---
+mr addr: -0xab56 total: 10
+4: 1.0
+-0xab56 ran 48 times: 1.0 this percentage of the time
+-0xab56 runs an average of 48.0 times when it is run.
+---
+b addr: -0xab46 total: 10
+3: 1.0
+8: 1.0
+-0xab46 ran 48 times: 1.0 this percentage of the time
+-0xab46 runs an average of 48.0 times when it is run.
+---
+b addr: -0xab2c total: 10
+4: 1.0
+1: 1.0
+-0xab2c ran 12 times: 1.0 this percentage of the time
+-0xab2c runs an average of 12.0 times when it is run.
+---
+r addr: -0xab1f total: 10
+1: 1.0
+-0xab1f ran 1 times: 1.0 this percentage of the time
+-0xab1f runs an average of 1.0 times when it is run.
+---
+b addr: -0xa4cb total: 10
+0: 1.0
+-0xa4cb ran 1 times: 1.0 this percentage of the time
+-0xa4cb runs an average of 1.0 times when it is run.
+---
+mr addr: -0xa4c5 total: 10
+2: 1.0
+-0xa4c5 ran 1 times: 1.0 this percentage of the time
+-0xa4c5 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa4b2 total: 10
+6: 1.0
+-0xa4b2 ran 1 times: 1.0 this percentage of the time
+-0xa4b2 runs an average of 1.0 times when it is run.
+---
+mw addr: -0xb3a4 total: 10
+1: 1.0
+-0xb3a4 ran 2 times: 1.0 this percentage of the time
+-0xb3a4 runs an average of 2.0 times when it is run.
+---
+mw addr: -0xb325 total: 10
+1: 1.0
+-0xb325 ran 2 times: 1.0 this percentage of the time
+-0xb325 runs an average of 2.0 times when it is run.
+---
+mr addr: -0xb31e total: 10
+0: 1.0
+-0xb31e ran 2 times: 1.0 this percentage of the time
+-0xb31e runs an average of 2.0 times when it is run.
+---
+mw addr: -0xb319 total: 10
+9: 1.0
+-0xb319 ran 2 times: 1.0 this percentage of the time
+-0xb319 runs an average of 2.0 times when it is run.
+---
+mw addr: -0xb2f7 total: 10
+1: 1.0
+-0xb2f7 ran 3 times: 1.0 this percentage of the time
+-0xb2f7 runs an average of 3.0 times when it is run.
+---
+b addr: -0xa4ab total: 10
+6: 1.0
+-0xa4ab ran 1 times: 1.0 this percentage of the time
+-0xa4ab runs an average of 1.0 times when it is run.
+---
+mw addr: -0xa551 total: 10
+1: 1.0
+-0xa551 ran 6 times: 1.0 this percentage of the time
+-0xa551 runs an average of 6.0 times when it is run.
+---
+b addr: -0xa547 total: 10
+2: 1.0
+5: 1.0
+-0xa547 ran 6 times: 1.0 this percentage of the time
+-0xa547 runs an average of 6.0 times when it is run.
+---
+mw addr: -0xa529 total: 10
+1: 1.0
+-0xa529 ran 4 times: 1.0 this percentage of the time
+-0xa529 runs an average of 4.0 times when it is run.
+---
+b addr: -0xa523 total: 10
+2: 1.0
+1: 1.0
+-0xa523 ran 4 times: 1.0 this percentage of the time
+-0xa523 runs an average of 4.0 times when it is run.
+---
+b addr: -0xa51f total: 10
+0: 1.0
+-0xa51f ran 1 times: 1.0 this percentage of the time
+-0xa51f runs an average of 1.0 times when it is run.
+---
+mw addr: -0xa51d total: 10
+0: 0.9
+1: 0.1
+-0xa51d ran 1 times: 1.0 this percentage of the time
+-0xa51d runs an average of 1.0 times when it is run.
+---
+mr addr: -0xa519 total: 9
+0: 1.0
+-0xa519 ran 1 times: 1.0 this percentage of the time
+-0xa519 runs an average of 1.0 times when it is run.
+---
+b addr: -0xa508 total: 10
+1: 1.0
+-0xa508 ran 1 times: 1.0 this percentage of the time
+-0xa508 runs an average of 1.0 times when it is run.
+---
+r addr: -0xa4f7 total: 10
+2: 1.0
+-0xa4f7 ran 1 times: 1.0 this percentage of the time
+-0xa4f7 runs an average of 1.0 times when it is run.
+---
+b addr: 0x12417 total: 10
+0: 1.0
+0x12417 ran 1 times: 1.0 this percentage of the time
+0x12417 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x12419 total: 10
+1: 1.0
+0x12419 ran 1 times: 1.0 this percentage of the time
+0x12419 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1244d total: 10
+4: 1.0
+0x1244d ran 1 times: 1.0 this percentage of the time
+0x1244d runs an average of 1.0 times when it is run.
+---
+b addr: 0x1a33d total: 10
+0: 1.0
+0x1a33d ran 3 times: 1.0 this percentage of the time
+0x1a33d runs an average of 3.0 times when it is run.
+---
+mw addr: 0x1a33f total: 10
+5: 1.0
+0: 0.3
+0x1a33f ran 3 times: 1.0 this percentage of the time
+0x1a33f runs an average of 3.0 times when it is run.
+---
+b addr: 0x1a374 total: 10
+1: 1.0
+0x1a374 ran 3 times: 1.0 this percentage of the time
+0x1a374 runs an average of 3.0 times when it is run.
+---
+mw addr: 0x1a37c total: 10
+4: 1.0
+1: 0.1
+0x1a37c ran 3 times: 1.0 this percentage of the time
+0x1a37c runs an average of 3.0 times when it is run.
+---
+b addr: 0x1a3ab total: 10
+1: 1.0
+0x1a3ab ran 3 times: 1.0 this percentage of the time
+0x1a3ab runs an average of 3.0 times when it is run.
+---
+mw addr: 0x1a3b3 total: 10
+4: 1.0
+1: 0.4
+0x1a3b3 ran 3 times: 1.0 this percentage of the time
+0x1a3b3 runs an average of 3.0 times when it is run.
+---
+b addr: 0x1a3e2 total: 10
+1: 1.0
+0x1a3e2 ran 3 times: 1.0 this percentage of the time
+0x1a3e2 runs an average of 3.0 times when it is run.
+---
+mw addr: 0x1a3ea total: 10
+1: 1.0
+4: 0.8
+0x1a3ea ran 3 times: 1.0 this percentage of the time
+0x1a3ea runs an average of 3.0 times when it is run.
+---
+b addr: 0x1a41b total: 10
+1: 1.0
+0x1a41b ran 3 times: 1.0 this percentage of the time
+0x1a41b runs an average of 3.0 times when it is run.
+---
+mw addr: 0x1a423 total: 10
+4: 1.0
+1: 0.3
+0x1a423 ran 3 times: 1.0 this percentage of the time
+0x1a423 runs an average of 3.0 times when it is run.
+---
+b addr: 0x1a454 total: 10
+1: 1.0
+0x1a454 ran 3 times: 1.0 this percentage of the time
+0x1a454 runs an average of 3.0 times when it is run.
+---
+r addr: 0x1a48c total: 10
+3: 1.0
+1: 1.0
+0x1a48c ran 3 times: 1.0 this percentage of the time
+0x1a48c runs an average of 3.0 times when it is run.
+---
+mw addr: 0x884e total: 10
+6: 1.0
+0x884e ran 1 times: 1.0 this percentage of the time
+0x884e runs an average of 1.0 times when it is run.
+---
+b addr: 0x8863 total: 10
+2: 1.0
+0x8863 ran 1 times: 1.0 this percentage of the time
+0x8863 runs an average of 1.0 times when it is run.
+---
+b addr: 0x886f total: 10
+7: 1.0
+0x886f ran 1 times: 1.0 this percentage of the time
+0x886f runs an average of 1.0 times when it is run.
+---
+b addr: 0x8894 total: 10
+1: 1.0
+0x8894 ran 1 times: 1.0 this percentage of the time
+0x8894 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x648f total: 10
+3: 1.0
+0x648f ran 10 times: 1.0 this percentage of the time
+0x648f runs an average of 10.0 times when it is run.
+---
+b addr: 0x649b total: 10
+4: 1.0
+0x649b ran 10 times: 1.0 this percentage of the time
+0x649b runs an average of 10.0 times when it is run.
+---
+b addr: 0x64ac total: 10
+0: 1.0
+0x64ac ran 10 times: 1.0 this percentage of the time
+0x64ac runs an average of 10.0 times when it is run.
+---
+mw addr: 0x64ae total: 10
+1: 1.0
+0: 0.3
+0x64ae ran 10 times: 1.0 this percentage of the time
+0x64ae runs an average of 10.0 times when it is run.
+---
+b addr: 0x64b5 total: 10
+2: 1.0
+1: 1.0
+0x64b5 ran 10 times: 1.0 this percentage of the time
+0x64b5 runs an average of 10.0 times when it is run.
+---
+b addr: 0x64c2 total: 10
+1: 1.0
+0x64c2 ran 9 times: 1.0 this percentage of the time
+0x64c2 runs an average of 9.0 times when it is run.
+---
+mr addr: 0x62b4 total: 10
+1: 1.0
+0x62b4 ran 9 times: 1.0 this percentage of the time
+0x62b4 runs an average of 9.0 times when it is run.
+---
+b addr: 0x62c3 total: 10
+0: 1.0
+0x62c3 ran 9 times: 1.0 this percentage of the time
+0x62c3 runs an average of 9.0 times when it is run.
+---
+mr addr: 0x62c9 total: 10
+3: 1.0
+0x62c9 ran 9 times: 1.0 this percentage of the time
+0x62c9 runs an average of 9.0 times when it is run.
+---
+b addr: 0x62d5 total: 10
+4: 1.0
+1: 1.0
+0x62d5 ran 9 times: 1.0 this percentage of the time
+0x62d5 runs an average of 9.0 times when it is run.
+---
+b addr: 0x6311 total: 10
+1: 1.0
+0x6311 ran 5 times: 1.0 this percentage of the time
+0x6311 runs an average of 5.0 times when it is run.
+---
+b addr: 0x6316 total: 10
+2: 1.0
+0x6316 ran 5 times: 1.0 this percentage of the time
+0x6316 runs an average of 5.0 times when it is run.
+---
+b addr: 0x631c total: 10
+4: 1.0
+0x631c ran 5 times: 1.0 this percentage of the time
+0x631c runs an average of 5.0 times when it is run.
+---
+mr addr: 0x632a total: 10
+2: 1.0
+0x632a ran 6 times: 1.0 this percentage of the time
+0x632a runs an average of 6.0 times when it is run.
+---
+b addr: 0x6335 total: 10
+3: 1.0
+1: 1.0
+0x6335 ran 6 times: 1.0 this percentage of the time
+0x6335 runs an average of 6.0 times when it is run.
+---
+b addr: 0x6339 total: 10
+1: 1.0
+0x6339 ran 5 times: 1.0 this percentage of the time
+0x6339 runs an average of 5.0 times when it is run.
+---
+b addr: 0x633e total: 10
+1: 1.0
+0x633e ran 5 times: 1.0 this percentage of the time
+0x633e runs an average of 5.0 times when it is run.
+---
+b addr: 0x6356 total: 10
+0: 1.0
+0x6356 ran 5 times: 1.0 this percentage of the time
+0x6356 runs an average of 5.0 times when it is run.
+---
+mw addr: 0x6340 total: 10
+1: 1.0
+0x6340 ran 5 times: 1.0 this percentage of the time
+0x6340 runs an average of 5.0 times when it is run.
+---
+b addr: 0x6345 total: 10
+0: 1.0
+0x6345 ran 5 times: 1.0 this percentage of the time
+0x6345 runs an average of 5.0 times when it is run.
+---
+mw addr: 0x6347 total: 10
+0: 1.0
+0x6347 ran 5 times: 1.0 this percentage of the time
+0x6347 runs an average of 5.0 times when it is run.
+---
+r addr: 0x634a total: 10
+1: 1.0
+0x634a ran 5 times: 1.0 this percentage of the time
+0x634a runs an average of 5.0 times when it is run.
+---
+b addr: 0x64c9 total: 10
+0: 1.0
+0x64c9 ran 9 times: 1.0 this percentage of the time
+0x64c9 runs an average of 9.0 times when it is run.
+---
+mr addr: 0x64cb total: 10
+2: 1.0
+0x64cb ran 9 times: 1.0 this percentage of the time
+0x64cb runs an average of 9.0 times when it is run.
+---
+b addr: 0x64e5 total: 10
+1: 1.0
+0x64e5 ran 10 times: 1.0 this percentage of the time
+0x64e5 runs an average of 10.0 times when it is run.
+---
+r addr: 0x64ed total: 10
+1: 1.0
+0x64ed ran 10 times: 1.0 this percentage of the time
+0x64ed runs an average of 10.0 times when it is run.
+---
+b addr: 0x889b total: 10
+0: 1.0
+0x889b ran 1 times: 1.0 this percentage of the time
+0x889b runs an average of 1.0 times when it is run.
+---
+mr addr: 0x88a1 total: 10
+4: 1.0
+0x88a1 ran 1 times: 1.0 this percentage of the time
+0x88a1 runs an average of 1.0 times when it is run.
+---
+b addr: 0x88b4 total: 10
+6: 1.0
+0x88b4 ran 1 times: 1.0 this percentage of the time
+0x88b4 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x69d1 total: 10
+3: 1.0
+0x69d1 ran 8 times: 1.0 this percentage of the time
+0x69d1 runs an average of 8.0 times when it is run.
+---
+b addr: 0x69e5 total: 10
+8: 1.0
+0x69e5 ran 8 times: 1.0 this percentage of the time
+0x69e5 runs an average of 8.0 times when it is run.
+---
+b addr: 0x6521 total: 10
+1: 1.0
+0x6521 ran 8 times: 1.0 this percentage of the time
+0x6521 runs an average of 8.0 times when it is run.
+---
+b addr: 0x62da total: 10
+1: 1.0
+0x62da ran 4 times: 1.0 this percentage of the time
+0x62da runs an average of 4.0 times when it is run.
+---
+b addr: 0x62e2 total: 10
+0: 1.0
+0x62e2 ran 4 times: 1.0 this percentage of the time
+0x62e2 runs an average of 4.0 times when it is run.
+---
+mw addr: 0x62e8 total: 10
+1: 1.0
+0x62e8 ran 4 times: 1.0 this percentage of the time
+0x62e8 runs an average of 4.0 times when it is run.
+---
+b addr: 0x62ed total: 10
+0: 1.0
+0x62ed ran 4 times: 1.0 this percentage of the time
+0x62ed runs an average of 4.0 times when it is run.
+---
+mw addr: 0x62ef total: 10
+0: 1.0
+0x62ef ran 4 times: 1.0 this percentage of the time
+0x62ef runs an average of 4.0 times when it is run.
+---
+r addr: 0x62f1 total: 10
+1: 1.0
+0x62f1 ran 4 times: 1.0 this percentage of the time
+0x62f1 runs an average of 4.0 times when it is run.
+---
+b addr: 0x6528 total: 10
+0: 1.0
+0x6528 ran 8 times: 1.0 this percentage of the time
+0x6528 runs an average of 8.0 times when it is run.
+---
+mr addr: 0x652a total: 10
+0: 1.0
+0x652a ran 8 times: 1.0 this percentage of the time
+0x652a runs an average of 8.0 times when it is run.
+---
+b addr: 0x652d total: 10
+1: 1.0
+0: 1.0
+0x652d ran 8 times: 1.0 this percentage of the time
+0x652d runs an average of 8.0 times when it is run.
+---
+r addr: 0x6566 total: 10
+1: 1.0
+0x6566 ran 8 times: 1.0 this percentage of the time
+0x6566 runs an average of 8.0 times when it is run.
+---
+b addr: 0x69ec total: 10
+1: 1.0
+0x69ec ran 8 times: 1.0 this percentage of the time
+0x69ec runs an average of 8.0 times when it is run.
+---
+b addr: 0x6a13 total: 10
+3: 1.0
+0x6a13 ran 8 times: 1.0 this percentage of the time
+0x6a13 runs an average of 8.0 times when it is run.
+---
+b addr: 0x1a15a total: 10
+0: 1.0
+0x1a15a ran 8 times: 1.0 this percentage of the time
+0x1a15a runs an average of 8.0 times when it is run.
+---
+mw addr: 0x1a15c total: 10
+5: 1.0
+0: 1.0
+0x1a15c ran 8 times: 1.0 this percentage of the time
+0x1a15c runs an average of 8.0 times when it is run.
+---
+r addr: 0x1a190 total: 10
+1: 1.0
+0x1a190 ran 8 times: 1.0 this percentage of the time
+0x1a190 runs an average of 8.0 times when it is run.
+---
+b addr: 0x6a1a total: 10
+0: 1.0
+0x6a1a ran 8 times: 1.0 this percentage of the time
+0x6a1a runs an average of 8.0 times when it is run.
+---
+mr addr: 0x6a1c total: 10
+3: 1.0
+0x6a1c ran 8 times: 1.0 this percentage of the time
+0x6a1c runs an average of 8.0 times when it is run.
+---
+b addr: 0x6a29 total: 10
+1: 1.0
+0x6a29 ran 8 times: 1.0 this percentage of the time
+0x6a29 runs an average of 8.0 times when it is run.
+---
+mw addr: 0x16a26 total: 10
+1: 1.0
+0x16a26 ran 1 times: 1.0 this percentage of the time
+0x16a26 runs an average of 1.0 times when it is run.
+---
+b addr: 0x16a2b total: 10
+1: 1.0
+0x16a2b ran 1 times: 1.0 this percentage of the time
+0x16a2b runs an average of 1.0 times when it is run.
+---
+mw addr: 0x16a2f total: 10
+1: 1.0
+0x16a2f ran 1 times: 1.0 this percentage of the time
+0x16a2f runs an average of 1.0 times when it is run.
+---
+r addr: 0x16a35 total: 10
+1: 1.0
+0x16a35 ran 1 times: 1.0 this percentage of the time
+0x16a35 runs an average of 1.0 times when it is run.
+---
+b addr: 0x6a30 total: 10
+0: 1.0
+0x6a30 ran 8 times: 1.0 this percentage of the time
+0x6a30 runs an average of 8.0 times when it is run.
+---
+mr addr: 0x6a32 total: 10
+1: 1.0
+0x6a32 ran 8 times: 1.0 this percentage of the time
+0x6a32 runs an average of 8.0 times when it is run.
+---
+b addr: 0x6a3c total: 10
+0: 1.0
+0x6a3c ran 8 times: 1.0 this percentage of the time
+0x6a3c runs an average of 8.0 times when it is run.
+---
+mr addr: 0x69ee total: 10
+0: 1.0
+0x69ee ran 8 times: 1.0 this percentage of the time
+0x69ee runs an average of 8.0 times when it is run.
+---
+b addr: 0x69fc total: 10
+1: 1.0
+0x69fc ran 8 times: 1.0 this percentage of the time
+0x69fc runs an average of 8.0 times when it is run.
+---
+r addr: 0x6a06 total: 10
+1: 1.0
+0x6a06 ran 8 times: 1.0 this percentage of the time
+0x6a06 runs an average of 8.0 times when it is run.
+---
+b addr: 0x88bb total: 10
+4: 1.0
+0x88bb ran 1 times: 1.0 this percentage of the time
+0x88bb runs an average of 1.0 times when it is run.
+---
+b addr: 0x88d4 total: 10
+6: 1.0
+0x88d4 ran 1 times: 1.0 this percentage of the time
+0x88d4 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x652f total: 10
+3: 1.0
+1: 0.3
+0x652f ran 7 times: 1.0 this percentage of the time
+0x652f runs an average of 7.0 times when it is run.
+---
+b addr: 0x653d total: 10
+1: 1.0
+0x653d ran 7 times: 1.0 this percentage of the time
+0x653d runs an average of 7.0 times when it is run.
+---
+b addr: 0x6541 total: 10
+1: 1.0
+0x6541 ran 7 times: 1.0 this percentage of the time
+0x6541 runs an average of 7.0 times when it is run.
+---
+mw addr: 0x6546 total: 10
+3: 1.0
+0x6546 ran 5 times: 1.0 this percentage of the time
+0x6546 runs an average of 5.0 times when it is run.
+---
+b addr: 0x6552 total: 10
+0: 1.0
+0x6552 ran 5 times: 1.0 this percentage of the time
+0x6552 runs an average of 5.0 times when it is run.
+---
+mr addr: 0x6554 total: 10
+1: 1.0
+0: 0.3
+0x6554 ran 5 times: 1.0 this percentage of the time
+0x6554 runs an average of 5.0 times when it is run.
+---
+b addr: 0x655c total: 10
+2: 1.0
+0x655c ran 5 times: 1.0 this percentage of the time
+0x655c runs an average of 5.0 times when it is run.
+---
+b addr: 0x88db total: 10
+4: 1.0
+0x88db ran 1 times: 1.0 this percentage of the time
+0x88db runs an average of 1.0 times when it is run.
+---
+mw addr: 0x88f4 total: 10
+0: 1.0
+0x88f4 ran 1 times: 1.0 this percentage of the time
+0x88f4 runs an average of 1.0 times when it is run.
+---
+b addr: 0x88f9 total: 10
+6: 1.0
+0x88f9 ran 1 times: 1.0 this percentage of the time
+0x88f9 runs an average of 1.0 times when it is run.
+---
+b addr: 0x8900 total: 10
+6: 1.0
+0x8900 ran 1 times: 1.0 this percentage of the time
+0x8900 runs an average of 1.0 times when it is run.
+---
+b addr: 0x891d total: 10
+1: 1.0
+0x891d ran 1 times: 1.0 this percentage of the time
+0x891d runs an average of 1.0 times when it is run.
+---
+b addr: 0x64f5 total: 10
+0: 1.0
+0x64f5 ran 1 times: 1.0 this percentage of the time
+0x64f5 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x64d7 total: 10
+0: 1.0
+0x64d7 ran 1 times: 1.0 this percentage of the time
+0x64d7 runs an average of 1.0 times when it is run.
+---
+b addr: 0x8924 total: 10
+1: 1.0
+0x8924 ran 1 times: 1.0 this percentage of the time
+0x8924 runs an average of 1.0 times when it is run.
+---
+b addr: 0x8a63 total: 10
+3: 1.0
+0x8a63 ran 1 times: 1.0 this percentage of the time
+0x8a63 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1a2ea total: 10
+0: 1.0
+0x1a2ea ran 12 times: 1.0 this percentage of the time
+0x1a2ea runs an average of 12.0 times when it is run.
+---
+mw addr: 0x1a2ec total: 10
+4: 1.0
+0: 1.0
+0x1a2ec ran 12 times: 1.0 this percentage of the time
+0x1a2ec runs an average of 12.0 times when it is run.
+---
+r addr: 0x1a31e total: 10
+1: 1.0
+0: 1.0
+0x1a31e ran 12 times: 1.0 this percentage of the time
+0x1a31e runs an average of 12.0 times when it is run.
+---
+b addr: 0x8a6b total: 10
+3: 1.0
+0x8a6b ran 1 times: 1.0 this percentage of the time
+0x8a6b runs an average of 1.0 times when it is run.
+---
+mr addr: 0x8a70 total: 10
+0: 1.0
+0x8a70 ran 1 times: 1.0 this percentage of the time
+0x8a70 runs an average of 1.0 times when it is run.
+---
+b addr: 0x8a75 total: 10
+3: 1.0
+0x8a75 ran 1 times: 1.0 this percentage of the time
+0x8a75 runs an average of 1.0 times when it is run.
+---
+b addr: 0x8a7a total: 10
+0: 1.0
+0x8a7a ran 1 times: 1.0 this percentage of the time
+0x8a7a runs an average of 1.0 times when it is run.
+---
+mr addr: 0x8980 total: 10
+3: 1.0
+0x8980 ran 1 times: 1.0 this percentage of the time
+0x8980 runs an average of 1.0 times when it is run.
+---
+b addr: 0x8995 total: 10
+1: 1.0
+0x8995 ran 1 times: 1.0 this percentage of the time
+0x8995 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x6954 total: 10
+1: 1.0
+0x6954 ran 1 times: 1.0 this percentage of the time
+0x6954 runs an average of 1.0 times when it is run.
+---
+b addr: 0x695d total: 10
+1: 1.0
+0x695d ran 1 times: 1.0 this percentage of the time
+0x695d runs an average of 1.0 times when it is run.
+---
+b addr: 0x6962 total: 10
+1: 1.0
+0x6962 ran 1 times: 1.0 this percentage of the time
+0x6962 runs an average of 1.0 times when it is run.
+---
+b addr: 0x696b total: 10
+1: 1.0
+0x696b ran 1 times: 1.0 this percentage of the time
+0x696b runs an average of 1.0 times when it is run.
+---
+mr addr: 0x696f total: 10
+0: 1.0
+0x696f ran 1 times: 1.0 this percentage of the time
+0x696f runs an average of 1.0 times when it is run.
+---
+b addr: 0x6973 total: 10
+1: 1.0
+0x6973 ran 1 times: 1.0 this percentage of the time
+0x6973 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x6978 total: 10
+0: 1.0
+0x6978 ran 1 times: 1.0 this percentage of the time
+0x6978 runs an average of 1.0 times when it is run.
+---
+b addr: 0x697d total: 10
+0: 1.0
+0x697d ran 1 times: 1.0 this percentage of the time
+0x697d runs an average of 1.0 times when it is run.
+---
+mr addr: 0x697f total: 10
+1: 1.0
+0x697f ran 1 times: 1.0 this percentage of the time
+0x697f runs an average of 1.0 times when it is run.
+---
+r addr: 0x698a total: 10
+1: 1.0
+0x698a ran 1 times: 1.0 this percentage of the time
+0x698a runs an average of 1.0 times when it is run.
+---
+b addr: 0x899c total: 10
+4: 1.0
+0x899c ran 1 times: 1.0 this percentage of the time
+0x899c runs an average of 1.0 times when it is run.
+---
+b addr: 0x89ae total: 10
+6: 1.0
+0x89ae ran 1 times: 1.0 this percentage of the time
+0x89ae runs an average of 1.0 times when it is run.
+---
+b addr: 0x89b5 total: 10
+3: 1.0
+0x89b5 ran 1 times: 1.0 this percentage of the time
+0x89b5 runs an average of 1.0 times when it is run.
+---
+b addr: 0x89cb total: 10
+6: 1.0
+0x89cb ran 1 times: 1.0 this percentage of the time
+0x89cb runs an average of 1.0 times when it is run.
+---
+b addr: 0x89d2 total: 10
+3: 1.0
+0x89d2 ran 1 times: 1.0 this percentage of the time
+0x89d2 runs an average of 1.0 times when it is run.
+---
+b addr: 0x89e8 total: 10
+6: 1.0
+0x89e8 ran 1 times: 1.0 this percentage of the time
+0x89e8 runs an average of 1.0 times when it is run.
+---
+b addr: 0x89ef total: 10
+3: 1.0
+0x89ef ran 1 times: 1.0 this percentage of the time
+0x89ef runs an average of 1.0 times when it is run.
+---
+b addr: 0x8a05 total: 10
+6: 1.0
+0x8a05 ran 1 times: 1.0 this percentage of the time
+0x8a05 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x1a16f total: 10
+4: 1.0
+0x1a16f ran 1 times: 1.0 this percentage of the time
+0x1a16f runs an average of 1.0 times when it is run.
+---
+mw addr: 0x1a18b total: 10
+0: 1.0
+1: 1.0
+0x1a18b ran 2 times: 1.0 this percentage of the time
+0x1a18b runs an average of 2.0 times when it is run.
+---
+b addr: 0x8a0c total: 10
+3: 1.0
+0x8a0c ran 1 times: 1.0 this percentage of the time
+0x8a0c runs an average of 1.0 times when it is run.
+---
+b addr: 0x8a22 total: 10
+6: 1.0
+0x8a22 ran 1 times: 1.0 this percentage of the time
+0x8a22 runs an average of 1.0 times when it is run.
+---
+b addr: 0x8a29 total: 10
+0: 1.0
+0x8a29 ran 1 times: 1.0 this percentage of the time
+0x8a29 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x8a2b total: 10
+1: 0.9
+2: 0.1
+0x8a2b ran 1 times: 1.0 this percentage of the time
+0x8a2b runs an average of 1.0 times when it is run.
+---
+mr addr: 0x8a37 total: 9
+0: 1.0
+0x8a37 ran 1 times: 1.0 this percentage of the time
+0x8a37 runs an average of 1.0 times when it is run.
+---
+b addr: 0x8a45 total: 10
+1: 1.0
+0x8a45 ran 1 times: 1.0 this percentage of the time
+0x8a45 runs an average of 1.0 times when it is run.
+---
+r addr: 0x8a55 total: 10
+2: 1.0
+0x8a55 ran 1 times: 1.0 this percentage of the time
+0x8a55 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x12e55 total: 10
+1: 0.6
+5: 0.4
+0x12e55 ran 1 times: 1.0 this percentage of the time
+0x12e55 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x12e61 total: 6
+4: 1.0
+0x12e61 ran 1 times: 1.0 this percentage of the time
+0x12e61 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x12eaf total: 10
+1: 1.0
+0x12eaf ran 1 times: 1.0 this percentage of the time
+0x12eaf runs an average of 1.0 times when it is run.
+---
+mw addr: 0x12ec1 total: 10
+1: 1.0
+0x12ec1 ran 1 times: 1.0 this percentage of the time
+0x12ec1 runs an average of 1.0 times when it is run.
+---
+b addr: 0x12ece total: 10
+4: 1.0
+0x12ece ran 1 times: 1.0 this percentage of the time
+0x12ece runs an average of 1.0 times when it is run.
+---
+mw addr: 0x1a352 total: 3
+4: 1.0
+0x1a352 ran 2 times: 1.0 this percentage of the time
+0x1a352 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x1a36e total: 3
+0: 1.0
+1: 1.0
+0x1a36e ran 4 times: 1.0 this percentage of the time
+0x1a36e runs an average of 4.0 times when it is run.
+---
+mw addr: 0x1a436 total: 3
+2: 1.0
+3: 0.3333333333333333
+0x1a436 ran 2 times: 1.0 this percentage of the time
+0x1a436 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x1a45c total: 10
+4: 0.8
+1: 0.2
+0x1a45c ran 2 times: 1.0 this percentage of the time
+0x1a45c runs an average of 2.0 times when it is run.
+---
+b addr: 0x12ed5 total: 10
+0: 1.0
+0x12ed5 ran 1 times: 1.0 this percentage of the time
+0x12ed5 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x12edb total: 10
+0: 1.0
+0x12edb ran 1 times: 1.0 this percentage of the time
+0x12edb runs an average of 1.0 times when it is run.
+---
+b addr: 0x12ee1 total: 10
+0: 1.0
+0x12ee1 ran 1 times: 1.0 this percentage of the time
+0x12ee1 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x12ee3 total: 10
+0: 1.0
+0x12ee3 ran 1 times: 1.0 this percentage of the time
+0x12ee3 runs an average of 1.0 times when it is run.
+---
+b addr: 0x12ee9 total: 10
+0: 1.0
+0x12ee9 ran 1 times: 1.0 this percentage of the time
+0x12ee9 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x12eeb total: 10
+1: 1.0
+0x12eeb ran 1 times: 1.0 this percentage of the time
+0x12eeb runs an average of 1.0 times when it is run.
+---
+b addr: 0x12ef3 total: 10
+0: 1.0
+0x12ef3 ran 1 times: 1.0 this percentage of the time
+0x12ef3 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x12ef5 total: 10
+0: 1.0
+0x12ef5 ran 1 times: 1.0 this percentage of the time
+0x12ef5 runs an average of 1.0 times when it is run.
+---
+b addr: 0x12efb total: 10
+1: 1.0
+0x12efb ran 1 times: 1.0 this percentage of the time
+0x12efb runs an average of 1.0 times when it is run.
+---
+mw addr: 0x12f7a total: 10
+0: 1.0
+0x12f7a ran 1 times: 1.0 this percentage of the time
+0x12f7a runs an average of 1.0 times when it is run.
+---
+b addr: 0x12f7f total: 10
+1: 1.0
+0x12f7f ran 1 times: 1.0 this percentage of the time
+0x12f7f runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1a5a4 total: 10
+1: 1.0
+0x1a5a4 ran 3 times: 1.0 this percentage of the time
+0x1a5a4 runs an average of 3.0 times when it is run.
+---
+b addr: 0x1a5a8 total: 10
+3: 1.0
+0x1a5a8 ran 3 times: 1.0 this percentage of the time
+0x1a5a8 runs an average of 3.0 times when it is run.
+---
+mr addr: 0x1a5b1 total: 10
+2: 1.0
+0x1a5b1 ran 3 times: 1.0 this percentage of the time
+0x1a5b1 runs an average of 3.0 times when it is run.
+---
+b addr: 0x1a5bc total: 10
+3: 1.0
+0x1a5bc ran 3 times: 1.0 this percentage of the time
+0x1a5bc runs an average of 3.0 times when it is run.
+---
+r addr: 0x1a5de total: 10
+5: 1.0
+1: 1.0
+0: 1.0
+0x1a5de ran 3 times: 1.0 this percentage of the time
+0x1a5de runs an average of 3.0 times when it is run.
+---
+mw addr: 0x12f98 total: 10
+2: 1.0
+0x12f98 ran 1 times: 1.0 this percentage of the time
+0x12f98 runs an average of 1.0 times when it is run.
+---
+b addr: 0x12fa3 total: 10
+1: 1.0
+0x12fa3 ran 1 times: 1.0 this percentage of the time
+0x12fa3 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1a704 total: 10
+4: 1.0
+0x1a704 ran 1 times: 1.0 this percentage of the time
+0x1a704 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x19ccc total: 10
+8: 0.9
+2: 0.1
+0x19ccc ran 1 times: 1.0 this percentage of the time
+0x19ccc runs an average of 1.0 times when it is run.
+---
+b addr: 0x19d02 total: 10
+1: 1.0
+0x19d02 ran 1 times: 1.0 this percentage of the time
+0x19d02 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x19d07 total: 10
+0: 1.0
+0x19d07 ran 1 times: 1.0 this percentage of the time
+0x19d07 runs an average of 1.0 times when it is run.
+---
+b addr: 0x19d18 total: 10
+1: 1.0
+0x19d18 ran 1 times: 1.0 this percentage of the time
+0x19d18 runs an average of 1.0 times when it is run.
+---
+r addr: 0x19d21 total: 10
+1: 1.0
+0x19d21 ran 1 times: 1.0 this percentage of the time
+0x19d21 runs an average of 1.0 times when it is run.
+---
+b addr: 0x12faa total: 10
+0: 1.0
+0x12faa ran 1 times: 1.0 this percentage of the time
+0x12faa runs an average of 1.0 times when it is run.
+---
+mw addr: 0x12fac total: 10
+1: 1.0
+0x12fac ran 1 times: 1.0 this percentage of the time
+0x12fac runs an average of 1.0 times when it is run.
+---
+b addr: 0x12fbe total: 10
+3: 1.0
+0x12fbe ran 1 times: 1.0 this percentage of the time
+0x12fbe runs an average of 1.0 times when it is run.
+---
+b addr: -0xfc57 total: 10
+0: 1.0
+-0xfc57 ran 1 times: 1.0 this percentage of the time
+-0xfc57 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13093 total: 10
+0: 1.0
+0x13093 ran 1 times: 1.0 this percentage of the time
+0x13093 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13098 total: 10
+1: 1.0
+0x13098 ran 1 times: 1.0 this percentage of the time
+0x13098 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1b4c4 total: 10
+4: 1.0
+0x1b4c4 ran 2 times: 1.0 this percentage of the time
+0x1b4c4 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x1b45c total: 10
+8: 0.9
+2: 0.1
+0x1b45c ran 2 times: 1.0 this percentage of the time
+0x1b45c runs an average of 2.0 times when it is run.
+---
+b addr: 0x1b492 total: 10
+1: 1.0
+0x1b492 ran 2 times: 1.0 this percentage of the time
+0x1b492 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x15390 total: 10
+0: 1.0
+0x15390 ran 3 times: 1.0 this percentage of the time
+0x15390 runs an average of 3.0 times when it is run.
+---
+b addr: 0x15394 total: 10
+1: 1.0
+0x15394 ran 3 times: 1.0 this percentage of the time
+0x15394 runs an average of 3.0 times when it is run.
+---
+mr addr: 0x1b497 total: 10
+0: 1.0
+0x1b497 ran 2 times: 1.0 this percentage of the time
+0x1b497 runs an average of 2.0 times when it is run.
+---
+b addr: 0x1b4a8 total: 10
+1: 1.0
+0x1b4a8 ran 2 times: 1.0 this percentage of the time
+0x1b4a8 runs an average of 2.0 times when it is run.
+---
+r addr: 0x1b4b1 total: 10
+1: 1.0
+0x1b4b1 ran 2 times: 1.0 this percentage of the time
+0x1b4b1 runs an average of 2.0 times when it is run.
+---
+b addr: 0x1309f total: 10
+0: 1.0
+0x1309f ran 1 times: 1.0 this percentage of the time
+0x1309f runs an average of 1.0 times when it is run.
+---
+mw addr: 0x130a1 total: 10
+1: 1.0
+0x130a1 ran 1 times: 1.0 this percentage of the time
+0x130a1 runs an average of 1.0 times when it is run.
+---
+b addr: 0x130ab total: 10
+3: 1.0
+0x130ab ran 1 times: 1.0 this percentage of the time
+0x130ab runs an average of 1.0 times when it is run.
+---
+b addr: 0x130df total: 10
+1: 1.0
+0x130df ran 1 times: 1.0 this percentage of the time
+0x130df runs an average of 1.0 times when it is run.
+---
+b addr: 0x130e6 total: 10
+3: 1.0
+0x130e6 ran 1 times: 1.0 this percentage of the time
+0x130e6 runs an average of 1.0 times when it is run.
+---
+b addr: 0x130b9 total: 10
+1: 1.0
+0x130b9 ran 1 times: 1.0 this percentage of the time
+0x130b9 runs an average of 1.0 times when it is run.
+---
+b addr: 0x130c0 total: 10
+2: 1.0
+0x130c0 ran 1 times: 1.0 this percentage of the time
+0x130c0 runs an average of 1.0 times when it is run.
+---
+b addr: 0x130cc total: 10
+1: 1.0
+0x130cc ran 1 times: 1.0 this percentage of the time
+0x130cc runs an average of 1.0 times when it is run.
+---
+b addr: 0x130d4 total: 10
+3: 1.0
+0x130d4 ran 1 times: 1.0 this percentage of the time
+0x130d4 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13107 total: 10
+0: 1.0
+0x13107 ran 1 times: 1.0 this percentage of the time
+0x13107 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1310c total: 10
+1: 1.0
+0x1310c ran 1 times: 1.0 this percentage of the time
+0x1310c runs an average of 1.0 times when it is run.
+---
+b addr: 0x13113 total: 10
+0: 1.0
+0x13113 ran 1 times: 1.0 this percentage of the time
+0x13113 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13115 total: 10
+2: 1.0
+0x13115 ran 1 times: 1.0 this percentage of the time
+0x13115 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13124 total: 10
+1: 1.0
+0x13124 ran 1 times: 1.0 this percentage of the time
+0x13124 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1312b total: 10
+0: 1.0
+0x1312b ran 1 times: 1.0 this percentage of the time
+0x1312b runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13131 total: 10
+2: 0.8
+3: 0.2
+0x13131 ran 1 times: 1.0 this percentage of the time
+0x13131 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1313e total: 8
+0: 1.0
+0x1313e ran 1 times: 1.0 this percentage of the time
+0x1313e runs an average of 1.0 times when it is run.
+---
+b addr: 0x1314b total: 10
+1: 1.0
+0x1314b ran 1 times: 1.0 this percentage of the time
+0x1314b runs an average of 1.0 times when it is run.
+---
+b addr: 0x1a564 total: 10
+1: 1.0
+0x1a564 ran 1 times: 1.0 this percentage of the time
+0x1a564 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x19744 total: 10
+1: 1.0
+0x19744 ran 1 times: 1.0 this percentage of the time
+0x19744 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1974a total: 10
+0: 1.0
+0x1974a ran 1 times: 1.0 this percentage of the time
+0x1974a runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1974c total: 10
+0: 1.0
+0x1974c ran 1 times: 1.0 this percentage of the time
+0x1974c runs an average of 1.0 times when it is run.
+---
+b addr: 0x1974f total: 10
+0: 1.0
+0x1974f ran 1 times: 1.0 this percentage of the time
+0x1974f runs an average of 1.0 times when it is run.
+---
+mr addr: 0x19751 total: 10
+0: 1.0
+0x19751 ran 1 times: 1.0 this percentage of the time
+0x19751 runs an average of 1.0 times when it is run.
+---
+b addr: 0x19755 total: 10
+0: 1.0
+0x19755 ran 1 times: 1.0 this percentage of the time
+0x19755 runs an average of 1.0 times when it is run.
+---
+b addr: 0x19757 total: 10
+5: 1.0
+0x19757 ran 1 times: 1.0 this percentage of the time
+0x19757 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x1800c total: 10
+1: 0.4
+0: 1.0
+0x1800c ran 3 times: 1.0 this percentage of the time
+0x1800c runs an average of 3.0 times when it is run.
+---
+b addr: 0x1802e total: 10
+1: 1.0
+0x1802e ran 3 times: 1.0 this percentage of the time
+0x1802e runs an average of 3.0 times when it is run.
+---
+mr addr: 0x16364 total: 10
+1: 1.0
+0x16364 ran 3 times: 1.0 this percentage of the time
+0x16364 runs an average of 3.0 times when it is run.
+---
+b addr: 0x1636a total: 10
+23: 1.0
+0x1636a ran 3 times: 1.0 this percentage of the time
+0x1636a runs an average of 3.0 times when it is run.
+---
+mw addr: 0x163c0 total: 10
+1: 1.0
+0x163c0 ran 3 times: 1.0 this percentage of the time
+0x163c0 runs an average of 3.0 times when it is run.
+---
+r addr: 0x163c5 total: 10
+1: 1.0
+0x163c5 ran 3 times: 1.0 this percentage of the time
+0x163c5 runs an average of 3.0 times when it is run.
+---
+b addr: 0x18035 total: 10
+4: 1.0
+0x18035 ran 3 times: 1.0 this percentage of the time
+0x18035 runs an average of 3.0 times when it is run.
+---
+mw addr: 0x1807f total: 10
+5: 0.4
+4: 0.5
+2: 0.5
+0: 0.3
+0x1807f ran 3 times: 1.0 this percentage of the time
+0x1807f runs an average of 3.0 times when it is run.
+---
+b addr: 0x180c4 total: 10
+4: 1.0
+0x180c4 ran 3 times: 1.0 this percentage of the time
+0x180c4 runs an average of 3.0 times when it is run.
+---
+mr addr: 0x163f4 total: 10
+1: 1.0
+0x163f4 ran 3 times: 1.0 this percentage of the time
+0x163f4 runs an average of 3.0 times when it is run.
+---
+b addr: 0x163f8 total: 10
+2: 1.0
+0x163f8 ran 3 times: 1.0 this percentage of the time
+0x163f8 runs an average of 3.0 times when it is run.
+---
+mr addr: 0x16405 total: 10
+3: 1.0
+0x16405 ran 3 times: 1.0 this percentage of the time
+0x16405 runs an average of 3.0 times when it is run.
+---
+b addr: 0x16412 total: 10
+3: 1.0
+0x16412 ran 3 times: 1.0 this percentage of the time
+0x16412 runs an average of 3.0 times when it is run.
+---
+b addr: 0x1641e total: 10
+2: 1.0
+9: 1.0
+0x1641e ran 192 times: 1.0 this percentage of the time
+0x1641e runs an average of 192.0 times when it is run.
+---
+b addr: 0x1643e total: 10
+2: 1.0
+0x1643e ran 3 times: 1.0 this percentage of the time
+0x1643e runs an average of 3.0 times when it is run.
+---
+b addr: 0x1644e total: 10
+1: 1.0
+0x1644e ran 3 times: 1.0 this percentage of the time
+0x1644e runs an average of 3.0 times when it is run.
+---
+mw addr: 0x15ee4 total: 10
+7: 0.9
+2: 0.3
+0x15ee4 ran 3 times: 1.0 this percentage of the time
+0x15ee4 runs an average of 3.0 times when it is run.
+---
+b addr: 0x15f21 total: 10
+4: 1.0
+0x15f21 ran 3 times: 1.0 this percentage of the time
+0x15f21 runs an average of 3.0 times when it is run.
+---
+mw addr: 0x15f32 total: 10
+2: 1.0
+0x15f32 ran 3 times: 1.0 this percentage of the time
+0x15f32 runs an average of 3.0 times when it is run.
+---
+r addr: 0x15f3e total: 10
+3: 1.0
+0x15f3e ran 3 times: 1.0 this percentage of the time
+0x15f3e runs an average of 3.0 times when it is run.
+---
+b addr: 0x1645e total: 10
+1: 1.0
+0x1645e ran 3 times: 1.0 this percentage of the time
+0x1645e runs an average of 3.0 times when it is run.
+---
+mr addr: 0x15444 total: 10
+1: 1.0
+0x15444 ran 3 times: 1.0 this percentage of the time
+0x15444 runs an average of 3.0 times when it is run.
+---
+b addr: 0x1544e total: 10
+0: 1.0
+0x1544e ran 3 times: 1.0 this percentage of the time
+0x1544e runs an average of 3.0 times when it is run.
+---
+b addr: 0x15455 total: 10
+0: 1.0
+0x15455 ran 3 times: 1.0 this percentage of the time
+0x15455 runs an average of 3.0 times when it is run.
+---
+mr addr: 0x1545b total: 10
+1: 1.0
+0x1545b ran 3 times: 1.0 this percentage of the time
+0x1545b runs an average of 3.0 times when it is run.
+---
+b addr: 0x1546b total: 10
+3: 1.0
+0x1546b ran 3 times: 1.0 this percentage of the time
+0x1546b runs an average of 3.0 times when it is run.
+---
+mr addr: 0x15478 total: 10
+7: 1.0
+0x15478 ran 48 times: 1.0 this percentage of the time
+0x15478 runs an average of 48.0 times when it is run.
+---
+b addr: 0x15497 total: 10
+0: 1.0
+5: 1.0
+0x15497 ran 48 times: 1.0 this percentage of the time
+0x15497 runs an average of 48.0 times when it is run.
+---
+b addr: 0x154b7 total: 10
+1: 1.0
+0x154b7 ran 3 times: 1.0 this percentage of the time
+0x154b7 runs an average of 3.0 times when it is run.
+---
+mw addr: 0x154bd total: 10
+2: 1.0
+0x154bd ran 3 times: 1.0 this percentage of the time
+0x154bd runs an average of 3.0 times when it is run.
+---
+b addr: 0x154d1 total: 10
+0: 1.0
+0x154d1 ran 3 times: 1.0 this percentage of the time
+0x154d1 runs an average of 3.0 times when it is run.
+---
+mr addr: 0x154f1 total: 10
+1: 1.0
+0x154f1 ran 3 times: 1.0 this percentage of the time
+0x154f1 runs an average of 3.0 times when it is run.
+---
+r addr: 0x154fa total: 10
+2: 1.0
+0x154fa ran 3 times: 1.0 this percentage of the time
+0x154fa runs an average of 3.0 times when it is run.
+---
+b addr: 0x16468 total: 10
+0: 1.0
+0x16468 ran 3 times: 1.0 this percentage of the time
+0x16468 runs an average of 3.0 times when it is run.
+---
+mr addr: 0x1646a total: 10
+0: 1.0
+1: 0.3
+0x1646a ran 3 times: 1.0 this percentage of the time
+0x1646a runs an average of 3.0 times when it is run.
+---
+b addr: 0x16470 total: 10
+3: 1.0
+0x16470 ran 3 times: 1.0 this percentage of the time
+0x16470 runs an average of 3.0 times when it is run.
+---
+b addr: 0x164bb total: 10
+2: 1.0
+0x164bb ran 3 times: 1.0 this percentage of the time
+0x164bb runs an average of 3.0 times when it is run.
+---
+b addr: 0x164c6 total: 10
+2: 1.0
+0x164c6 ran 3 times: 1.0 this percentage of the time
+0x164c6 runs an average of 3.0 times when it is run.
+---
+r addr: 0x164d5 total: 10
+1: 1.0
+0x164d5 ran 3 times: 1.0 this percentage of the time
+0x164d5 runs an average of 3.0 times when it is run.
+---
+b addr: 0x180cb total: 10
+0: 1.0
+0x180cb ran 3 times: 1.0 this percentage of the time
+0x180cb runs an average of 3.0 times when it is run.
+---
+mr addr: 0x180d1 total: 10
+1: 1.0
+0x180d1 ran 3 times: 1.0 this percentage of the time
+0x180d1 runs an average of 3.0 times when it is run.
+---
+b addr: 0x180d8 total: 10
+0: 1.0
+0x180d8 ran 3 times: 1.0 this percentage of the time
+0x180d8 runs an average of 3.0 times when it is run.
+---
+b addr: 0x180da total: 10
+2: 1.0
+0x180da ran 3 times: 1.0 this percentage of the time
+0x180da runs an average of 3.0 times when it is run.
+---
+b addr: 0x180e1 total: 10
+4: 1.0
+0x180e1 ran 3 times: 1.0 this percentage of the time
+0x180e1 runs an average of 3.0 times when it is run.
+---
+b addr: 0x180f7 total: 10
+0: 1.0
+0x180f7 ran 3 times: 1.0 this percentage of the time
+0x180f7 runs an average of 3.0 times when it is run.
+---
+mr addr: 0x1810e total: 10
+1: 1.0
+0x1810e ran 3 times: 1.0 this percentage of the time
+0x1810e runs an average of 3.0 times when it is run.
+---
+b addr: 0x18118 total: 10
+2: 1.0
+0x18118 ran 3 times: 1.0 this percentage of the time
+0x18118 runs an average of 3.0 times when it is run.
+---
+b addr: 0x18128 total: 10
+2: 1.0
+0x18128 ran 3 times: 1.0 this percentage of the time
+0x18128 runs an average of 3.0 times when it is run.
+---
+mr addr: 0x14b7a total: 10
+1: 1.0
+4: 1.0
+144: 1.0
+3: 0.8
+0x14b7a ran 2959 times: 1.0 this percentage of the time
+0x14b7a runs an average of 2959.0 times when it is run.
+---
+r addr: 0x14bb8 total: 10
+0: 1.0
+1: 1.0
+2: 1.0
+4: 1.0
+0x14bb8 ran 2959 times: 1.0 this percentage of the time
+0x14bb8 runs an average of 2959.0 times when it is run.
+---
+b addr: 0x1812d total: 10
+4: 1.0
+0x1812d ran 3 times: 1.0 this percentage of the time
+0x1812d runs an average of 3.0 times when it is run.
+---
+b addr: 0x18152 total: 10
+6: 1.0
+0x18152 ran 3 times: 1.0 this percentage of the time
+0x18152 runs an average of 3.0 times when it is run.
+---
+mw addr: 0x17e37 total: 10
+2: 0.5
+5: 1.0
+0x17e37 ran 10 times: 1.0 this percentage of the time
+0x17e37 runs an average of 10.0 times when it is run.
+---
+b addr: 0x17e5d total: 10
+3: 1.0
+0x17e5d ran 10 times: 1.0 this percentage of the time
+0x17e5d runs an average of 10.0 times when it is run.
+---
+mr addr: 0x1582d total: 10
+0: 1.0
+8: 1.0
+1: 0.9
+0x1582d ran 587 times: 1.0 this percentage of the time
+0x1582d runs an average of 587.0 times when it is run.
+---
+b addr: 0x15844 total: 10
+2: 1.0
+0x15844 ran 587 times: 1.0 this percentage of the time
+0x15844 runs an average of 587.0 times when it is run.
+---
+b addr: 0x1584c total: 10
+0: 1.0
+0x1584c ran 587 times: 1.0 this percentage of the time
+0x1584c runs an average of 587.0 times when it is run.
+---
+b addr: 0x1584e total: 10
+2: 1.0
+0x1584e ran 587 times: 1.0 this percentage of the time
+0x1584e runs an average of 587.0 times when it is run.
+---
+mw addr: 0x15635 total: 10
+0: 1.0
+2: 0.6
+4: 0.7
+1: 0.2
+0x15635 ran 587 times: 1.0 this percentage of the time
+0x15635 runs an average of 587.0 times when it is run.
+---
+b addr: 0x15663 total: 10
+4: 1.0
+0x15663 ran 587 times: 1.0 this percentage of the time
+0x15663 runs an average of 587.0 times when it is run.
+---
+b addr: 0x15680 total: 10
+0: 1.0
+0x15680 ran 587 times: 1.0 this percentage of the time
+0x15680 runs an average of 587.0 times when it is run.
+---
+mr addr: 0x15686 total: 10
+24: 1.0
+2: 0.2
+0x15686 ran 587 times: 1.0 this percentage of the time
+0x15686 runs an average of 587.0 times when it is run.
+---
+b addr: 0x156f6 total: 10
+7: 1.0
+3: 1.0
+0x156f6 ran 18604 times: 1.0 this percentage of the time
+0x156f6 runs an average of 18604.0 times when it is run.
+---
+mr addr: 0x15718 total: 10
+5: 1.0
+0: 1.0
+0x15718 ran 148549 times: 1.0 this percentage of the time
+0x15718 runs an average of 148549.0 times when it is run.
+---
+b addr: 0x1572d total: 10
+0: 1.0
+2: 1.0
+0x1572d ran 148549 times: 1.0 this percentage of the time
+0x1572d runs an average of 148549.0 times when it is run.
+---
+mw addr: 0x1572f total: 10
+1: 1.0
+0x1572f ran 18017 times: 1.0 this percentage of the time
+0x1572f runs an average of 18017.0 times when it is run.
+---
+b addr: 0x1573b total: 10
+1: 1.0
+0x1573b ran 18017 times: 1.0 this percentage of the time
+0x1573b runs an average of 18017.0 times when it is run.
+---
+b addr: 0x15740 total: 10
+14: 1.0
+0x15740 ran 18017 times: 1.0 this percentage of the time
+0x15740 runs an average of 18017.0 times when it is run.
+---
+mw addr: 0x15754 total: 10
+1: 1.0
+0x15754 ran 587 times: 1.0 this percentage of the time
+0x15754 runs an average of 587.0 times when it is run.
+---
+b addr: 0x1575c total: 10
+1: 1.0
+0x1575c ran 587 times: 1.0 this percentage of the time
+0x1575c runs an average of 587.0 times when it is run.
+---
+mr addr: 0x15760 total: 10
+2: 1.0
+4: 0.6
+6: 0.7
+0: 0.2
+0x15760 ran 587 times: 1.0 this percentage of the time
+0x15760 runs an average of 587.0 times when it is run.
+---
+b addr: 0x1577d total: 10
+3: 1.0
+0x1577d ran 587 times: 1.0 this percentage of the time
+0x1577d runs an average of 587.0 times when it is run.
+---
+mr addr: 0x15793 total: 10
+0: 1.0
+0x15793 ran 593 times: 1.0 this percentage of the time
+0x15793 runs an average of 593.0 times when it is run.
+---
+b addr: 0x15799 total: 10
+1: 1.0
+2: 1.0
+0x15799 ran 593 times: 1.0 this percentage of the time
+0x15799 runs an average of 593.0 times when it is run.
+---
+b addr: 0x1579d total: 10
+2: 1.0
+0: 1.0
+0x1579d ran 587 times: 1.0 this percentage of the time
+0x1579d runs an average of 587.0 times when it is run.
+---
+mr addr: 0x157a7 total: 10
+1: 1.0
+0x157a7 ran 581 times: 1.0 this percentage of the time
+0x157a7 runs an average of 581.0 times when it is run.
+---
+b addr: 0x157b3 total: 10
+2: 1.0
+0x157b3 ran 587 times: 1.0 this percentage of the time
+0x157b3 runs an average of 587.0 times when it is run.
+---
+mr addr: 0x157ba total: 10
+0: 1.0
+0x157ba ran 587 times: 1.0 this percentage of the time
+0x157ba runs an average of 587.0 times when it is run.
+---
+b addr: 0x157cb total: 10
+1: 1.0
+0x157cb ran 587 times: 1.0 this percentage of the time
+0x157cb runs an average of 587.0 times when it is run.
+---
+r addr: 0x157de total: 10
+0: 1.0
+0x157de ran 587 times: 1.0 this percentage of the time
+0x157de runs an average of 587.0 times when it is run.
+---
+mr addr: 0x15853 total: 10
+1: 1.0
+0x15853 ran 587 times: 1.0 this percentage of the time
+0x15853 runs an average of 587.0 times when it is run.
+---
+b addr: 0x15857 total: 10
+1: 1.0
+0x15857 ran 587 times: 1.0 this percentage of the time
+0x15857 runs an average of 587.0 times when it is run.
+---
+r addr: 0x1587b total: 10
+1: 1.0
+3: 1.0
+0x1587b ran 587 times: 1.0 this percentage of the time
+0x1587b runs an average of 587.0 times when it is run.
+---
+b addr: 0x17e64 total: 10
+3: 1.0
+0x17e64 ran 10 times: 1.0 this percentage of the time
+0x17e64 runs an average of 10.0 times when it is run.
+---
+b addr: 0x17e99 total: 10
+6: 1.0
+0x17e99 ran 10 times: 1.0 this percentage of the time
+0x17e99 runs an average of 10.0 times when it is run.
+---
+mw addr: 0x17d77 total: 10
+5: 1.0
+1: 0.6
+0x17d77 ran 13 times: 1.0 this percentage of the time
+0x17d77 runs an average of 13.0 times when it is run.
+---
+b addr: 0x17da2 total: 10
+2: 1.0
+0x17da2 ran 13 times: 1.0 this percentage of the time
+0x17da2 runs an average of 13.0 times when it is run.
+---
+mr addr: 0x17635 total: 10
+1: 1.0
+0x17635 ran 13 times: 1.0 this percentage of the time
+0x17635 runs an average of 13.0 times when it is run.
+---
+mw addr: 0x17654 total: 10
+3: 0.3
+1: 1.0
+0x17654 ran 13 times: 1.0 this percentage of the time
+0x17654 runs an average of 13.0 times when it is run.
+---
+b addr: 0x17662 total: 10
+1: 1.0
+0x17662 ran 13 times: 1.0 this percentage of the time
+0x17662 runs an average of 13.0 times when it is run.
+---
+mr addr: 0x1766b total: 10
+2: 1.0
+0x1766b ran 13 times: 1.0 this percentage of the time
+0x1766b runs an average of 13.0 times when it is run.
+---
+b addr: 0x17672 total: 10
+2: 1.0
+0: 1.0
+0x17672 ran 13 times: 1.0 this percentage of the time
+0x17672 runs an average of 13.0 times when it is run.
+---
+mw addr: 0x176ca total: 10
+3: 1.0
+2: 0.6
+0x176ca ran 12 times: 1.0 this percentage of the time
+0x176ca runs an average of 12.0 times when it is run.
+---
+b addr: 0x17732 total: 10
+0: 1.0
+0x17732 ran 12 times: 1.0 this percentage of the time
+0x17732 runs an average of 12.0 times when it is run.
+---
+mw addr: 0x14bc0 total: 10
+9: 1.0
+4: 0.9
+0x14bc0 ran 26 times: 1.0 this percentage of the time
+0x14bc0 runs an average of 26.0 times when it is run.
+---
+b addr: 0x14c01 total: 10
+2: 1.0
+0x14c01 ran 26 times: 1.0 this percentage of the time
+0x14c01 runs an average of 26.0 times when it is run.
+---
+b addr: 0x1773d total: 10
+0: 1.0
+0x1773d ran 12 times: 1.0 this percentage of the time
+0x1773d runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17742 total: 10
+0: 1.0
+0x17742 ran 12 times: 1.0 this percentage of the time
+0x17742 runs an average of 12.0 times when it is run.
+---
+mw addr: 0x17746 total: 10
+0: 1.0
+3: 0.2
+0x17746 ran 12 times: 1.0 this percentage of the time
+0x17746 runs an average of 12.0 times when it is run.
+---
+b addr: 0x17775 total: 10
+2: 1.0
+0x17775 ran 12 times: 1.0 this percentage of the time
+0x17775 runs an average of 12.0 times when it is run.
+---
+mw addr: 0x17780 total: 10
+4: 0.8
+1: 0.9
+0x17780 ran 12 times: 1.0 this percentage of the time
+0x17780 runs an average of 12.0 times when it is run.
+---
+b addr: 0x17794 total: 10
+3: 1.0
+0x17794 ran 12 times: 1.0 this percentage of the time
+0x17794 runs an average of 12.0 times when it is run.
+---
+b addr: 0x177a6 total: 10
+2: 1.0
+1: 1.0
+0x177a6 ran 512 times: 1.0 this percentage of the time
+0x177a6 runs an average of 512.0 times when it is run.
+---
+mw addr: 0x177aa total: 10
+6: 1.0
+0x177aa ran 12 times: 1.0 this percentage of the time
+0x177aa runs an average of 12.0 times when it is run.
+---
+b addr: 0x177c2 total: 10
+2: 1.0
+0x177c2 ran 12 times: 1.0 this percentage of the time
+0x177c2 runs an average of 12.0 times when it is run.
+---
+mw addr: 0x177cb total: 10
+4: 1.0
+0x177cb ran 12 times: 1.0 this percentage of the time
+0x177cb runs an average of 12.0 times when it is run.
+---
+b addr: 0x177db total: 10
+4: 1.0
+0x177db ran 12 times: 1.0 this percentage of the time
+0x177db runs an average of 12.0 times when it is run.
+---
+b addr: 0x16eae total: 10
+1: 1.0
+0x16eae ran 24 times: 1.0 this percentage of the time
+0x16eae runs an average of 24.0 times when it is run.
+---
+b addr: 0x16ebb total: 10
+0: 1.0
+0x16ebb ran 24 times: 1.0 this percentage of the time
+0x16ebb runs an average of 24.0 times when it is run.
+---
+mr addr: 0x16ec1 total: 10
+1: 1.0
+0x16ec1 ran 24 times: 1.0 this percentage of the time
+0x16ec1 runs an average of 24.0 times when it is run.
+---
+b addr: 0x16ec7 total: 10
+8: 1.0
+0x16ec7 ran 24 times: 1.0 this percentage of the time
+0x16ec7 runs an average of 24.0 times when it is run.
+---
+b addr: 0x16f1b total: 10
+3: 1.0
+0x16f1b ran 24 times: 1.0 this percentage of the time
+0x16f1b runs an average of 24.0 times when it is run.
+---
+mr addr: 0x16f30 total: 10
+9: 1.0
+0x16f30 ran 281 times: 1.0 this percentage of the time
+0x16f30 runs an average of 281.0 times when it is run.
+---
+b addr: 0x16f52 total: 10
+0: 1.0
+1: 1.0
+0x16f52 ran 281 times: 1.0 this percentage of the time
+0x16f52 runs an average of 281.0 times when it is run.
+---
+b addr: 0x16f57 total: 10
+1: 1.0
+0x16f57 ran 24 times: 1.0 this percentage of the time
+0x16f57 runs an average of 24.0 times when it is run.
+---
+b addr: 0x16f5f total: 10
+0: 1.0
+0x16f5f ran 15 times: 1.0 this percentage of the time
+0x16f5f runs an average of 15.0 times when it is run.
+---
+mw addr: 0x16f64 total: 10
+2: 1.0
+1: 0.3
+0x16f64 ran 15 times: 1.0 this percentage of the time
+0x16f64 runs an average of 15.0 times when it is run.
+---
+b addr: 0x16f71 total: 10
+1: 1.0
+0x16f71 ran 15 times: 1.0 this percentage of the time
+0x16f71 runs an average of 15.0 times when it is run.
+---
+mr addr: 0x16ee9 total: 10
+0: 1.0
+0x16ee9 ran 24 times: 1.0 this percentage of the time
+0x16ee9 runs an average of 24.0 times when it is run.
+---
+b addr: 0x16eef total: 10
+0: 1.0
+0x16eef ran 24 times: 1.0 this percentage of the time
+0x16eef runs an average of 24.0 times when it is run.
+---
+mr addr: 0x16ef1 total: 10
+1: 1.0
+0x16ef1 ran 24 times: 1.0 this percentage of the time
+0x16ef1 runs an average of 24.0 times when it is run.
+---
+r addr: 0x16efd total: 10
+0: 1.0
+0x16efd ran 24 times: 1.0 this percentage of the time
+0x16efd runs an average of 24.0 times when it is run.
+---
+mw addr: 0x177e0 total: 10
+1: 1.0
+0x177e0 ran 12 times: 1.0 this percentage of the time
+0x177e0 runs an average of 12.0 times when it is run.
+---
+b addr: 0x177e6 total: 10
+3: 1.0
+0x177e6 ran 12 times: 1.0 this percentage of the time
+0x177e6 runs an average of 12.0 times when it is run.
+---
+b addr: 0x177f4 total: 10
+4: 1.0
+0x177f4 ran 12 times: 1.0 this percentage of the time
+0x177f4 runs an average of 12.0 times when it is run.
+---
+mw addr: 0x177f9 total: 10
+1: 1.0
+0x177f9 ran 12 times: 1.0 this percentage of the time
+0x177f9 runs an average of 12.0 times when it is run.
+---
+b addr: 0x177ff total: 10
+0: 1.0
+0x177ff ran 12 times: 1.0 this percentage of the time
+0x177ff runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17805 total: 10
+7: 0.8
+0: 0.9
+0x17805 ran 12 times: 1.0 this percentage of the time
+0x17805 runs an average of 12.0 times when it is run.
+---
+b addr: 0x17833 total: 10
+1: 1.0
+0x17833 ran 12 times: 1.0 this percentage of the time
+0x17833 runs an average of 12.0 times when it is run.
+---
+mr addr: 0x16df4 total: 10
+2: 1.0
+0x16df4 ran 124 times: 1.0 this percentage of the time
+0x16df4 runs an average of 124.0 times when it is run.
+---
+b addr: 0x16e01 total: 10
+0: 1.0
+0x16e01 ran 124 times: 1.0 this percentage of the time
+0x16e01 runs an average of 124.0 times when it is run.
+---
+mw addr: 0x16e0b total: 10
+2: 1.0
+0x16e0b ran 124 times: 1.0 this percentage of the time
+0x16e0b runs an average of 124.0 times when it is run.
+---
+b addr: 0x16e12 total: 10
+6: 1.0
+0x16e12 ran 124 times: 1.0 this percentage of the time
+0x16e12 runs an average of 124.0 times when it is run.
+---
+mr addr: 0x16e26 total: 10
+3: 1.0
+2: 0.4
+0x16e26 ran 1436 times: 1.0 this percentage of the time
+0x16e26 runs an average of 1436.0 times when it is run.
+---
+b addr: 0x16e38 total: 10
+2: 1.0
+1: 1.0
+0x16e38 ran 1436 times: 1.0 this percentage of the time
+0x16e38 runs an average of 1436.0 times when it is run.
+---
+b addr: 0x16e3c total: 10
+2: 1.0
+1: 1.0
+0x16e3c ran 124 times: 1.0 this percentage of the time
+0x16e3c runs an average of 124.0 times when it is run.
+---
+mw addr: 0x16e50 total: 10
+2: 1.0
+0x16e50 ran 799 times: 1.0 this percentage of the time
+0x16e50 runs an average of 799.0 times when it is run.
+---
+b addr: 0x16e5f total: 10
+0: 1.0
+1: 1.0
+0x16e5f ran 799 times: 1.0 this percentage of the time
+0x16e5f runs an average of 799.0 times when it is run.
+---
+b addr: 0x16e64 total: 10
+1: 1.0
+0x16e64 ran 124 times: 1.0 this percentage of the time
+0x16e64 runs an average of 124.0 times when it is run.
+---
+mr addr: 0x16e7c total: 10
+0: 1.0
+0x16e7c ran 124 times: 1.0 this percentage of the time
+0x16e7c runs an average of 124.0 times when it is run.
+---
+b addr: 0x16e82 total: 10
+0: 1.0
+0x16e82 ran 124 times: 1.0 this percentage of the time
+0x16e82 runs an average of 124.0 times when it is run.
+---
+mr addr: 0x16e84 total: 10
+1: 1.0
+0x16e84 ran 124 times: 1.0 this percentage of the time
+0x16e84 runs an average of 124.0 times when it is run.
+---
+r addr: 0x16e8c total: 10
+0: 1.0
+1: 1.0
+0x16e8c ran 124 times: 1.0 this percentage of the time
+0x16e8c runs an average of 124.0 times when it is run.
+---
+mw addr: 0x17838 total: 10
+1: 1.0
+0x17838 ran 12 times: 1.0 this percentage of the time
+0x17838 runs an average of 12.0 times when it is run.
+---
+b addr: 0x1783e total: 10
+2: 1.0
+0x1783e ran 12 times: 1.0 this percentage of the time
+0x1783e runs an average of 12.0 times when it is run.
+---
+b addr: 0x1786a total: 10
+1: 1.0
+0x1786a ran 12 times: 1.0 this percentage of the time
+0x1786a runs an average of 12.0 times when it is run.
+---
+b addr: 0x17872 total: 10
+2: 1.0
+0x17872 ran 12 times: 1.0 this percentage of the time
+0x17872 runs an average of 12.0 times when it is run.
+---
+b addr: 0x1787a total: 10
+1: 1.0
+0x1787a ran 12 times: 1.0 this percentage of the time
+0x1787a runs an average of 12.0 times when it is run.
+---
+mr addr: 0x170e4 total: 10
+2: 1.0
+0x170e4 ran 12 times: 1.0 this percentage of the time
+0x170e4 runs an average of 12.0 times when it is run.
+---
+b addr: 0x170ed total: 10
+5: 1.0
+0x170ed ran 12 times: 1.0 this percentage of the time
+0x170ed runs an average of 12.0 times when it is run.
+---
+b addr: 0x17105 total: 10
+2: 1.0
+0x17105 ran 12 times: 1.0 this percentage of the time
+0x17105 runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17116 total: 10
+3: 1.0
+0: 0.2
+0x17116 ran 92 times: 1.0 this percentage of the time
+0x17116 runs an average of 92.0 times when it is run.
+---
+b addr: 0x1712a total: 10
+1: 1.0
+2: 1.0
+0x1712a ran 92 times: 1.0 this percentage of the time
+0x1712a runs an average of 92.0 times when it is run.
+---
+b addr: 0x17132 total: 10
+5: 1.0
+0x17132 ran 12 times: 1.0 this percentage of the time
+0x17132 runs an average of 12.0 times when it is run.
+---
+mw addr: 0x17150 total: 10
+2: 1.0
+0x17150 ran 112 times: 1.0 this percentage of the time
+0x17150 runs an average of 112.0 times when it is run.
+---
+b addr: 0x1715f total: 10
+0: 1.0
+0x1715f ran 112 times: 1.0 this percentage of the time
+0x1715f runs an average of 112.0 times when it is run.
+---
+mw addr: 0x17161 total: 10
+0: 1.0
+0x17161 ran 12 times: 1.0 this percentage of the time
+0x17161 runs an average of 12.0 times when it is run.
+---
+b addr: 0x17164 total: 10
+1: 1.0
+0x17164 ran 12 times: 1.0 this percentage of the time
+0x17164 runs an average of 12.0 times when it is run.
+---
+mr addr: 0x1717c total: 10
+1: 1.0
+0x1717c ran 12 times: 1.0 this percentage of the time
+0x1717c runs an average of 12.0 times when it is run.
+---
+b addr: 0x17185 total: 10
+0: 1.0
+0x17185 ran 12 times: 1.0 this percentage of the time
+0x17185 runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17187 total: 10
+0: 1.0
+0x17187 ran 12 times: 1.0 this percentage of the time
+0x17187 runs an average of 12.0 times when it is run.
+---
+r addr: 0x1718f total: 10
+0: 1.0
+0x1718f ran 12 times: 1.0 this percentage of the time
+0x1718f runs an average of 12.0 times when it is run.
+---
+mr addr: 0x1787f total: 10
+3: 1.0
+2: 0.6
+0x1787f ran 12 times: 1.0 this percentage of the time
+0x1787f runs an average of 12.0 times when it is run.
+---
+b addr: 0x17893 total: 10
+1: 1.0
+0x17893 ran 12 times: 1.0 this percentage of the time
+0x17893 runs an average of 12.0 times when it is run.
+---
+mw addr: 0x1789c total: 10
+4: 1.0
+1: 0.2
+0x1789c ran 12 times: 1.0 this percentage of the time
+0x1789c runs an average of 12.0 times when it is run.
+---
+b addr: 0x178cf total: 10
+1: 1.0
+0x178cf ran 12 times: 1.0 this percentage of the time
+0x178cf runs an average of 12.0 times when it is run.
+---
+b addr: 0x178f3 total: 10
+2: 1.0
+0x178f3 ran 112 times: 1.0 this percentage of the time
+0x178f3 runs an average of 112.0 times when it is run.
+---
+mw addr: 0x178fa total: 10
+7: 0.8
+0: 0.8
+2: 0.6
+0x178fa ran 112 times: 1.0 this percentage of the time
+0x178fa runs an average of 112.0 times when it is run.
+---
+b addr: 0x17925 total: 10
+4: 1.0
+0x17925 ran 112 times: 1.0 this percentage of the time
+0x17925 runs an average of 112.0 times when it is run.
+---
+mr addr: 0x17932 total: 10
+0: 1.0
+0x17932 ran 112 times: 1.0 this percentage of the time
+0x17932 runs an average of 112.0 times when it is run.
+---
+b addr: 0x1793a total: 10
+4: 1.0
+0x1793a ran 112 times: 1.0 this percentage of the time
+0x1793a runs an average of 112.0 times when it is run.
+---
+b addr: 0x4686d total: 10
+1: 1.0
+0x4686d ran 112 times: 1.0 this percentage of the time
+0x4686d runs an average of 112.0 times when it is run.
+---
+b addr: 0x46872 total: 10
+4: 1.0
+0x46872 ran 112 times: 1.0 this percentage of the time
+0x46872 runs an average of 112.0 times when it is run.
+---
+r addr: 0x4687f total: 10
+0: 1.0
+0x4687f ran 112 times: 1.0 this percentage of the time
+0x4687f runs an average of 112.0 times when it is run.
+---
+mr addr: 0x17943 total: 10
+11: 1.0
+0x17943 ran 112 times: 1.0 this percentage of the time
+0x17943 runs an average of 112.0 times when it is run.
+---
+mr addr: 0x17a70 total: 10
+3: 1.0
+1: 0.3
+0x17a70 ran 112 times: 1.0 this percentage of the time
+0x17a70 runs an average of 112.0 times when it is run.
+---
+b addr: 0x17a80 total: 10
+1: 1.0
+0x17a80 ran 112 times: 1.0 this percentage of the time
+0x17a80 runs an average of 112.0 times when it is run.
+---
+b addr: 0x17a87 total: 10
+0: 1.0
+0x17a87 ran 112 times: 1.0 this percentage of the time
+0x17a87 runs an average of 112.0 times when it is run.
+---
+mr addr: 0x17a8d total: 10
+1: 1.0
+0x17a8d ran 112 times: 1.0 this percentage of the time
+0x17a8d runs an average of 112.0 times when it is run.
+---
+b addr: 0x17a94 total: 10
+1: 1.0
+0x17a94 ran 112 times: 1.0 this percentage of the time
+0x17a94 runs an average of 112.0 times when it is run.
+---
+b addr: 0x17a9b total: 10
+0: 1.0
+0x17a9b ran 112 times: 1.0 this percentage of the time
+0x17a9b runs an average of 112.0 times when it is run.
+---
+mr addr: 0x17aa1 total: 10
+2: 1.0
+0x17aa1 ran 112 times: 1.0 this percentage of the time
+0x17aa1 runs an average of 112.0 times when it is run.
+---
+b addr: 0x17aac total: 10
+1: 1.0
+0x17aac ran 112 times: 1.0 this percentage of the time
+0x17aac runs an average of 112.0 times when it is run.
+---
+b addr: 0x17ab3 total: 10
+0: 1.0
+0x17ab3 ran 112 times: 1.0 this percentage of the time
+0x17ab3 runs an average of 112.0 times when it is run.
+---
+mr addr: 0x17ab9 total: 10
+0: 1.0
+0x17ab9 ran 112 times: 1.0 this percentage of the time
+0x17ab9 runs an average of 112.0 times when it is run.
+---
+b addr: 0x17ac1 total: 10
+0: 1.0
+0x17ac1 ran 112 times: 1.0 this percentage of the time
+0x17ac1 runs an average of 112.0 times when it is run.
+---
+mr addr: 0x17ac7 total: 10
+0: 1.0
+0x17ac7 ran 112 times: 1.0 this percentage of the time
+0x17ac7 runs an average of 112.0 times when it is run.
+---
+b addr: 0x17ace total: 10
+1: 1.0
+0x17ace ran 112 times: 1.0 this percentage of the time
+0x17ace runs an average of 112.0 times when it is run.
+---
+mr addr: 0x178e2 total: 10
+0: 1.0
+0x178e2 ran 112 times: 1.0 this percentage of the time
+0x178e2 runs an average of 112.0 times when it is run.
+---
+b addr: 0x178e7 total: 10
+1: 1.0
+0: 1.0
+0x178e7 ran 112 times: 1.0 this percentage of the time
+0x178e7 runs an average of 112.0 times when it is run.
+---
+mr addr: 0x17bec total: 10
+3: 1.0
+1: 0.1
+0x17bec ran 12 times: 1.0 this percentage of the time
+0x17bec runs an average of 12.0 times when it is run.
+---
+b addr: 0x17bfd total: 10
+0: 1.0
+0x17bfd ran 12 times: 1.0 this percentage of the time
+0x17bfd runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17bff total: 10
+0: 1.0
+0x17bff ran 12 times: 1.0 this percentage of the time
+0x17bff runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17c03 total: 10
+0: 1.0
+0x17c03 ran 12 times: 1.0 this percentage of the time
+0x17c03 runs an average of 12.0 times when it is run.
+---
+b addr: 0x17c10 total: 10
+0: 1.0
+0x17c10 ran 12 times: 1.0 this percentage of the time
+0x17c10 runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17c6f total: 10
+0: 1.0
+0x17c6f ran 12 times: 1.0 this percentage of the time
+0x17c6f runs an average of 12.0 times when it is run.
+---
+b addr: 0x17c75 total: 10
+0: 1.0
+0x17c75 ran 12 times: 1.0 this percentage of the time
+0x17c75 runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17c7b total: 10
+3: 1.0
+0x17c7b ran 12 times: 1.0 this percentage of the time
+0x17c7b runs an average of 12.0 times when it is run.
+---
+b addr: 0x17c87 total: 10
+5: 1.0
+0x17c87 ran 12 times: 1.0 this percentage of the time
+0x17c87 runs an average of 12.0 times when it is run.
+---
+b addr: 0x172d7 total: 10
+4: 1.0
+0x172d7 ran 12 times: 1.0 this percentage of the time
+0x172d7 runs an average of 12.0 times when it is run.
+---
+b addr: 0x172e9 total: 10
+1: 1.0
+0x172e9 ran 12 times: 1.0 this percentage of the time
+0x172e9 runs an average of 12.0 times when it is run.
+---
+b addr: 0x172ed total: 10
+1: 1.0
+0x172ed ran 12 times: 1.0 this percentage of the time
+0x172ed runs an average of 12.0 times when it is run.
+---
+b addr: 0x17353 total: 10
+1: 1.0
+0x17353 ran 12 times: 1.0 this percentage of the time
+0x17353 runs an average of 12.0 times when it is run.
+---
+b addr: 0x172fb total: 10
+2: 1.0
+0x172fb ran 12 times: 1.0 this percentage of the time
+0x172fb runs an average of 12.0 times when it is run.
+---
+b addr: 0x17303 total: 10
+1: 1.0
+0x17303 ran 12 times: 1.0 this percentage of the time
+0x17303 runs an average of 12.0 times when it is run.
+---
+b addr: 0x1737f total: 10
+2: 1.0
+0x1737f ran 12 times: 1.0 this percentage of the time
+0x1737f runs an average of 12.0 times when it is run.
+---
+b addr: 0x171d6 total: 10
+3: 1.0
+0x171d6 ran 12 times: 1.0 this percentage of the time
+0x171d6 runs an average of 12.0 times when it is run.
+---
+b addr: 0x171e6 total: 10
+0: 1.0
+0x171e6 ran 12 times: 1.0 this percentage of the time
+0x171e6 runs an average of 12.0 times when it is run.
+---
+mr addr: 0x171ec total: 10
+2: 1.0
+0x171ec ran 12 times: 1.0 this percentage of the time
+0x171ec runs an average of 12.0 times when it is run.
+---
+b addr: 0x171f4 total: 10
+6: 1.0
+0x171f4 ran 12 times: 1.0 this percentage of the time
+0x171f4 runs an average of 12.0 times when it is run.
+---
+b addr: 0x17212 total: 10
+7: 1.0
+0x17212 ran 12 times: 1.0 this percentage of the time
+0x17212 runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17230 total: 10
+10: 1.0
+0x17230 ran 92 times: 1.0 this percentage of the time
+0x17230 runs an average of 92.0 times when it is run.
+---
+b addr: 0x17256 total: 10
+0: 1.0
+1: 1.0
+0x17256 ran 92 times: 1.0 this percentage of the time
+0x17256 runs an average of 92.0 times when it is run.
+---
+mr addr: 0x1725b total: 10
+1: 1.0
+0x1725b ran 12 times: 1.0 this percentage of the time
+0x1725b runs an average of 12.0 times when it is run.
+---
+b addr: 0x17264 total: 10
+1: 1.0
+0: 1.0
+0x17264 ran 12 times: 1.0 this percentage of the time
+0x17264 runs an average of 12.0 times when it is run.
+---
+mw addr: 0x17270 total: 10
+1: 1.0
+0x17270 ran 4 times: 1.0 this percentage of the time
+0x17270 runs an average of 4.0 times when it is run.
+---
+b addr: 0x17275 total: 10
+2: 1.0
+0x17275 ran 4 times: 1.0 this percentage of the time
+0x17275 runs an average of 4.0 times when it is run.
+---
+mr addr: 0x1727d total: 10
+1: 1.0
+0x1727d ran 4 times: 1.0 this percentage of the time
+0x1727d runs an average of 4.0 times when it is run.
+---
+b addr: 0x17286 total: 10
+0: 1.0
+0x17286 ran 4 times: 1.0 this percentage of the time
+0x17286 runs an average of 4.0 times when it is run.
+---
+mr addr: 0x17288 total: 10
+0: 1.0
+0x17288 ran 12 times: 1.0 this percentage of the time
+0x17288 runs an average of 12.0 times when it is run.
+---
+r addr: 0x17292 total: 10
+0: 1.0
+0x17292 ran 12 times: 1.0 this percentage of the time
+0x17292 runs an average of 12.0 times when it is run.
+---
+b addr: 0x17384 total: 10
+1: 1.0
+0x17384 ran 12 times: 1.0 this percentage of the time
+0x17384 runs an average of 12.0 times when it is run.
+---
+b addr: 0x17308 total: 10
+0: 1.0
+0x17308 ran 12 times: 1.0 this percentage of the time
+0x17308 runs an average of 12.0 times when it is run.
+---
+mr addr: 0x1731c total: 10
+1: 1.0
+0x1731c ran 12 times: 1.0 this percentage of the time
+0x1731c runs an average of 12.0 times when it is run.
+---
+b addr: 0x17321 total: 10
+2: 1.0
+0x17321 ran 12 times: 1.0 this percentage of the time
+0x17321 runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17335 total: 10
+0: 1.0
+0x17335 ran 12 times: 1.0 this percentage of the time
+0x17335 runs an average of 12.0 times when it is run.
+---
+b addr: 0x1733b total: 10
+0: 1.0
+0x1733b ran 12 times: 1.0 this percentage of the time
+0x1733b runs an average of 12.0 times when it is run.
+---
+mr addr: 0x1733d total: 10
+0: 1.0
+0x1733d ran 12 times: 1.0 this percentage of the time
+0x1733d runs an average of 12.0 times when it is run.
+---
+r addr: 0x1734b total: 10
+0: 1.0
+0x1734b ran 12 times: 1.0 this percentage of the time
+0x1734b runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17c8c total: 10
+0: 1.0
+2: 0.2
+0x17c8c ran 12 times: 1.0 this percentage of the time
+0x17c8c runs an average of 12.0 times when it is run.
+---
+b addr: 0x17c98 total: 10
+2: 1.0
+0x17c98 ran 12 times: 1.0 this percentage of the time
+0x17c98 runs an average of 12.0 times when it is run.
+---
+b addr: 0x17ccd total: 10
+3: 1.0
+0x17ccd ran 12 times: 1.0 this percentage of the time
+0x17ccd runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17ce9 total: 10
+0: 1.0
+0x17ce9 ran 12 times: 1.0 this percentage of the time
+0x17ce9 runs an average of 12.0 times when it is run.
+---
+b addr: 0x17cf2 total: 10
+1: 1.0
+0x17cf2 ran 12 times: 1.0 this percentage of the time
+0x17cf2 runs an average of 12.0 times when it is run.
+---
+b addr: 0x17cf7 total: 10
+0: 1.0
+0x17cf7 ran 12 times: 1.0 this percentage of the time
+0x17cf7 runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17d00 total: 10
+2: 1.0
+0: 0.6
+0x17d00 ran 12 times: 1.0 this percentage of the time
+0x17d00 runs an average of 12.0 times when it is run.
+---
+b addr: 0x17d16 total: 10
+2: 1.0
+0x17d16 ran 12 times: 1.0 this percentage of the time
+0x17d16 runs an average of 12.0 times when it is run.
+---
+b addr: 0x17d1b total: 10
+0: 1.0
+0x17d1b ran 12 times: 1.0 this percentage of the time
+0x17d1b runs an average of 12.0 times when it is run.
+---
+mr addr: 0x17b50 total: 10
+0: 1.0
+0x17b50 ran 13 times: 1.0 this percentage of the time
+0x17b50 runs an average of 13.0 times when it is run.
+---
+b addr: 0x17b61 total: 10
+0: 1.0
+0x17b61 ran 13 times: 1.0 this percentage of the time
+0x17b61 runs an average of 13.0 times when it is run.
+---
+mr addr: 0x17b67 total: 10
+1: 1.0
+0x17b67 ran 13 times: 1.0 this percentage of the time
+0x17b67 runs an average of 13.0 times when it is run.
+---
+r addr: 0x17b7c total: 10
+1: 1.0
+0x17b7c ran 13 times: 1.0 this percentage of the time
+0x17b7c runs an average of 13.0 times when it is run.
+---
+b addr: 0x17da9 total: 10
+0: 1.0
+0x17da9 ran 13 times: 1.0 this percentage of the time
+0x17da9 runs an average of 13.0 times when it is run.
+---
+mr addr: 0x17dab total: 10
+1: 0.4
+0: 1.0
+0x17dab ran 13 times: 1.0 this percentage of the time
+0x17dab runs an average of 13.0 times when it is run.
+---
+b addr: 0x17db2 total: 10
+2: 1.0
+0x17db2 ran 13 times: 1.0 this percentage of the time
+0x17db2 runs an average of 13.0 times when it is run.
+---
+mw addr: 0x17dee total: 10
+0: 1.0
+0x17dee ran 13 times: 1.0 this percentage of the time
+0x17dee runs an average of 13.0 times when it is run.
+---
+b addr: 0x17df2 total: 10
+2: 1.0
+0x17df2 ran 13 times: 1.0 this percentage of the time
+0x17df2 runs an average of 13.0 times when it is run.
+---
+mr addr: 0x17df7 total: 10
+0: 1.0
+0x17df7 ran 13 times: 1.0 this percentage of the time
+0x17df7 runs an average of 13.0 times when it is run.
+---
+b addr: 0x17dfb total: 10
+0: 1.0
+0x17dfb ran 13 times: 1.0 this percentage of the time
+0x17dfb runs an average of 13.0 times when it is run.
+---
+mr addr: 0x17dc2 total: 10
+0: 1.0
+0x17dc2 ran 13 times: 1.0 this percentage of the time
+0x17dc2 runs an average of 13.0 times when it is run.
+---
+b addr: 0x17dd3 total: 10
+1: 1.0
+0x17dd3 ran 13 times: 1.0 this percentage of the time
+0x17dd3 runs an average of 13.0 times when it is run.
+---
+r addr: 0x17de1 total: 10
+0: 1.0
+1: 1.0
+0x17de1 ran 13 times: 1.0 this percentage of the time
+0x17de1 runs an average of 13.0 times when it is run.
+---
+b addr: 0x17e9e total: 10
+0: 1.0
+0x17e9e ran 10 times: 1.0 this percentage of the time
+0x17e9e runs an average of 10.0 times when it is run.
+---
+mr addr: 0x17e66 total: 10
+0: 1.0
+0x17e66 ran 10 times: 1.0 this percentage of the time
+0x17e66 runs an average of 10.0 times when it is run.
+---
+b addr: 0x17e77 total: 10
+1: 1.0
+0x17e77 ran 10 times: 1.0 this percentage of the time
+0x17e77 runs an average of 10.0 times when it is run.
+---
+r addr: 0x17e85 total: 10
+0: 1.0
+1: 1.0
+0x17e85 ran 10 times: 1.0 this percentage of the time
+0x17e85 runs an average of 10.0 times when it is run.
+---
+mw addr: 0x1815a total: 10
+3: 1.0
+0x1815a ran 3 times: 1.0 this percentage of the time
+0x1815a runs an average of 3.0 times when it is run.
+---
+b addr: 0x1817d total: 10
+0: 1.0
+0x1817d ran 3 times: 1.0 this percentage of the time
+0x1817d runs an average of 3.0 times when it is run.
+---
+mr addr: 0x1817f total: 10
+1: 1.0
+0x1817f ran 12 times: 1.0 this percentage of the time
+0x1817f runs an average of 12.0 times when it is run.
+---
+b addr: 0x18186 total: 10
+0: 1.0
+0x18186 ran 12 times: 1.0 this percentage of the time
+0x18186 runs an average of 12.0 times when it is run.
+---
+mr addr: 0x1818c total: 10
+8: 0.2
+1: 1.0
+0x1818c ran 9 times: 1.0 this percentage of the time
+0x1818c runs an average of 9.0 times when it is run.
+---
+b addr: 0x181bb total: 10
+3: 1.0
+0x181bb ran 576 times: 1.0 this percentage of the time
+0x181bb runs an average of 576.0 times when it is run.
+---
+b addr: 0x181c2 total: 10
+0: 1.0
+0x181c2 ran 576 times: 1.0 this percentage of the time
+0x181c2 runs an average of 576.0 times when it is run.
+---
+mr addr: 0x181c8 total: 10
+3: 1.0
+0x181c8 ran 576 times: 1.0 this percentage of the time
+0x181c8 runs an average of 576.0 times when it is run.
+---
+b addr: 0x181d8 total: 10
+2: 1.0
+0x181d8 ran 576 times: 1.0 this percentage of the time
+0x181d8 runs an average of 576.0 times when it is run.
+---
+mr addr: 0x16535 total: 10
+0: 1.0
+2: 0.1
+0x16535 ran 1155 times: 1.0 this percentage of the time
+0x16535 runs an average of 1155.0 times when it is run.
+---
+b addr: 0x16552 total: 10
+4: 1.0
+0x16552 ran 1155 times: 1.0 this percentage of the time
+0x16552 runs an average of 1155.0 times when it is run.
+---
+mr addr: 0x1656b total: 10
+0: 1.0
+2: 0.8
+0x1656b ran 1155 times: 1.0 this percentage of the time
+0x1656b runs an average of 1155.0 times when it is run.
+---
+b addr: 0x1657f total: 10
+0: 1.0
+0x1657f ran 1155 times: 1.0 this percentage of the time
+0x1657f runs an average of 1155.0 times when it is run.
+---
+mr addr: 0x16581 total: 10
+3: 1.0
+6: 0.8
+0x16581 ran 1155 times: 1.0 this percentage of the time
+0x16581 runs an average of 1155.0 times when it is run.
+---
+b addr: 0x165a8 total: 10
+0: 1.0
+1: 1.0
+0x165a8 ran 36912 times: 1.0 this percentage of the time
+0x165a8 runs an average of 36912.0 times when it is run.
+---
+mw addr: 0x165b5 total: 10
+1: 1.0
+0x165b5 ran 1155 times: 1.0 this percentage of the time
+0x165b5 runs an average of 1155.0 times when it is run.
+---
+b addr: 0x165c6 total: 10
+0: 1.0
+0x165c6 ran 1155 times: 1.0 this percentage of the time
+0x165c6 runs an average of 1155.0 times when it is run.
+---
+mr addr: 0x165cc total: 10
+11: 1.0
+1: 0.1
+0x165cc ran 1155 times: 1.0 this percentage of the time
+0x165cc runs an average of 1155.0 times when it is run.
+---
+b addr: 0x16615 total: 10
+0: 1.0
+0x16615 ran 18480 times: 1.0 this percentage of the time
+0x16615 runs an average of 18480.0 times when it is run.
+---
+mr addr: 0x1661b total: 10
+78: 0.2
+4: 0.9
+5: 0.1
+0x1661b ran 18480 times: 1.0 this percentage of the time
+0x1661b runs an average of 18480.0 times when it is run.
+---
+b addr: 0x16748 total: 10
+1: 1.0
+0x16748 ran 36960 times: 1.0 this percentage of the time
+0x16748 runs an average of 36960.0 times when it is run.
+---
+b addr: 0x16750 total: 10
+1: 1.0
+0x16750 ran 18480 times: 1.0 this percentage of the time
+0x16750 runs an average of 18480.0 times when it is run.
+---
+mr addr: 0x167de total: 10
+0: 1.0
+0x167de ran 18480 times: 1.0 this percentage of the time
+0x167de runs an average of 18480.0 times when it is run.
+---
+b addr: 0x167e3 total: 10
+0: 1.0
+0x167e3 ran 18480 times: 1.0 this percentage of the time
+0x167e3 runs an average of 18480.0 times when it is run.
+---
+mr addr: 0x167e9 total: 10
+5: 1.0
+7: 0.8
+0x167e9 ran 1155 times: 1.0 this percentage of the time
+0x167e9 runs an average of 1155.0 times when it is run.
+---
+b addr: 0x16810 total: 10
+0: 1.0
+5: 1.0
+0x16810 ran 19635 times: 1.0 this percentage of the time
+0x16810 runs an average of 19635.0 times when it is run.
+---
+mr addr: 0x16800 total: 10
+0: 1.0
+2: 1.0
+0x16800 ran 18480 times: 1.0 this percentage of the time
+0x16800 runs an average of 18480.0 times when it is run.
+---
+mr addr: 0x1682d total: 10
+3: 1.0
+0x1682d ran 1155 times: 1.0 this percentage of the time
+0x1682d runs an average of 1155.0 times when it is run.
+---
+b addr: 0x1683d total: 10
+0: 1.0
+0x1683d ran 1155 times: 1.0 this percentage of the time
+0x1683d runs an average of 1155.0 times when it is run.
+---
+mr addr: 0x1683f total: 10
+5: 1.0
+6: 0.2
+0x1683f ran 1152 times: 1.0 this percentage of the time
+0x1683f runs an average of 1152.0 times when it is run.
+---
+b addr: 0x16867 total: 10
+1: 1.0
+0: 1.0
+0x16867 ran 17280 times: 1.0 this percentage of the time
+0x16867 runs an average of 17280.0 times when it is run.
+---
+mw addr: 0x16869 total: 10
+1: 1.0
+0x16869 ran 1152 times: 1.0 this percentage of the time
+0x16869 runs an average of 1152.0 times when it is run.
+---
+b addr: 0x16870 total: 10
+3: 1.0
+0x16870 ran 1152 times: 1.0 this percentage of the time
+0x16870 runs an average of 1152.0 times when it is run.
+---
+mr addr: 0x16936 total: 10
+0: 1.0
+0x16936 ran 1155 times: 1.0 this percentage of the time
+0x16936 runs an average of 1155.0 times when it is run.
+---
+b addr: 0x1693b total: 10
+0: 1.0
+0x1693b ran 1155 times: 1.0 this percentage of the time
+0x1693b runs an average of 1155.0 times when it is run.
+---
+mr addr: 0x1689b total: 10
+0: 1.0
+1: 0.1
+0x1689b ran 1155 times: 1.0 this percentage of the time
+0x1689b runs an average of 1155.0 times when it is run.
+---
+b addr: 0x168a7 total: 10
+1: 1.0
+0: 1.0
+0x168a7 ran 1155 times: 1.0 this percentage of the time
+0x168a7 runs an average of 1155.0 times when it is run.
+---
+mr addr: 0x168fd total: 10
+0: 1.0
+0x168fd ran 1155 times: 1.0 this percentage of the time
+0x168fd runs an average of 1155.0 times when it is run.
+---
+b addr: 0x1690e total: 10
+2: 1.0
+0x1690e ran 1155 times: 1.0 this percentage of the time
+0x1690e runs an average of 1155.0 times when it is run.
+---
+r addr: 0x16924 total: 10
+1: 1.0
+0: 1.0
+0x16924 ran 1155 times: 1.0 this percentage of the time
+0x16924 runs an average of 1155.0 times when it is run.
+---
+b addr: 0x181df total: 10
+1: 1.0
+0x181df ran 576 times: 1.0 this percentage of the time
+0x181df runs an average of 576.0 times when it is run.
+---
+mr addr: 0x181ef total: 10
+7: 1.0
+0x181ef ran 576 times: 1.0 this percentage of the time
+0x181ef runs an average of 576.0 times when it is run.
+---
+b addr: 0x1820a total: 10
+1: 1.0
+0x1820a ran 576 times: 1.0 this percentage of the time
+0x1820a runs an average of 576.0 times when it is run.
+---
+b addr: 0x1820f total: 10
+2: 1.0
+0x1820f ran 576 times: 1.0 this percentage of the time
+0x1820f runs an average of 576.0 times when it is run.
+---
+b addr: 0x18220 total: 10
+2: 1.0
+0x18220 ran 576 times: 1.0 this percentage of the time
+0x18220 runs an average of 576.0 times when it is run.
+---
+b addr: 0x18228 total: 10
+2: 1.0
+0x18228 ran 576 times: 1.0 this percentage of the time
+0x18228 runs an average of 576.0 times when it is run.
+---
+b addr: 0x18233 total: 10
+2: 1.0
+0x18233 ran 576 times: 1.0 this percentage of the time
+0x18233 runs an average of 576.0 times when it is run.
+---
+mr addr: 0x1616a total: 10
+2: 1.0
+0x1616a ran 576 times: 1.0 this percentage of the time
+0x1616a runs an average of 576.0 times when it is run.
+---
+b addr: 0x16177 total: 10
+2: 1.0
+0x16177 ran 576 times: 1.0 this percentage of the time
+0x16177 runs an average of 576.0 times when it is run.
+---
+b addr: 0x1617f total: 10
+0: 1.0
+0x1617f ran 576 times: 1.0 this percentage of the time
+0x1617f runs an average of 576.0 times when it is run.
+---
+b addr: 0x16181 total: 10
+2: 1.0
+0x16181 ran 576 times: 1.0 this percentage of the time
+0x16181 runs an average of 576.0 times when it is run.
+---
+mw addr: 0x15f55 total: 10
+0: 0.5
+6: 0.2
+1: 0.7
+0x15f55 ran 576 times: 1.0 this percentage of the time
+0x15f55 runs an average of 576.0 times when it is run.
+---
+b addr: 0x15f8c total: 10
+2: 1.0
+0x15f8c ran 576 times: 1.0 this percentage of the time
+0x15f8c runs an average of 576.0 times when it is run.
+---
+mw addr: 0x1613b total: 10
+1: 1.0
+0x1613b ran 576 times: 1.0 this percentage of the time
+0x1613b runs an average of 576.0 times when it is run.
+---
+b addr: 0x1614f total: 10
+1: 1.0
+0x1614f ran 576 times: 1.0 this percentage of the time
+0x1614f runs an average of 576.0 times when it is run.
+---
+b addr: 0x15fd2 total: 10
+0: 1.0
+0x15fd2 ran 576 times: 1.0 this percentage of the time
+0x15fd2 runs an average of 576.0 times when it is run.
+---
+mr addr: 0x15fd8 total: 10
+3: 1.0
+22: 0.2
+0x15fd8 ran 576 times: 1.0 this percentage of the time
+0x15fd8 runs an average of 576.0 times when it is run.
+---
+b addr: 0x1602d total: 10
+3: 1.0
+7: 1.0
+0x1602d ran 18432 times: 1.0 this percentage of the time
+0x1602d runs an average of 18432.0 times when it is run.
+---
+b addr: 0x16120 total: 10
+1: 1.0
+0x16120 ran 1728 times: 1.0 this percentage of the time
+0x16120 runs an average of 1728.0 times when it is run.
+---
+b addr: 0x16075 total: 10
+0: 1.0
+0x16075 ran 18432 times: 1.0 this percentage of the time
+0x16075 runs an average of 18432.0 times when it is run.
+---
+mr addr: 0x16077 total: 10
+2: 1.0
+11: 0.2
+0x16077 ran 9216 times: 1.0 this percentage of the time
+0x16077 runs an average of 9216.0 times when it is run.
+---
+b addr: 0x160a9 total: 10
+17: 1.0
+0: 1.0
+0x160a9 ran 18432 times: 1.0 this percentage of the time
+0x160a9 runs an average of 18432.0 times when it is run.
+---
+mr addr: 0x16050 total: 10
+8: 1.0
+0: 0.1
+0x16050 ran 69120 times: 1.0 this percentage of the time
+0x16050 runs an average of 69120.0 times when it is run.
+---
+b addr: 0x1606f total: 10
+1: 1.0
+2: 1.0
+0x1606f ran 69120 times: 1.0 this percentage of the time
+0x1606f runs an average of 69120.0 times when it is run.
+---
+mw addr: 0x160af total: 10
+0: 1.0
+0x160af ran 576 times: 1.0 this percentage of the time
+0x160af runs an average of 576.0 times when it is run.
+---
+b addr: 0x160b3 total: 10
+2: 1.0
+0x160b3 ran 576 times: 1.0 this percentage of the time
+0x160b3 runs an average of 576.0 times when it is run.
+---
+mr addr: 0x160c6 total: 10
+0: 1.0
+0x160c6 ran 576 times: 1.0 this percentage of the time
+0x160c6 runs an average of 576.0 times when it is run.
+---
+b addr: 0x160cc total: 10
+0: 1.0
+0x160cc ran 576 times: 1.0 this percentage of the time
+0x160cc runs an average of 576.0 times when it is run.
+---
+mr addr: 0x160ce total: 10
+2: 1.0
+0: 0.1
+0x160ce ran 576 times: 1.0 this percentage of the time
+0x160ce runs an average of 576.0 times when it is run.
+---
+b addr: 0x160e0 total: 10
+2: 1.0
+0x160e0 ran 576 times: 1.0 this percentage of the time
+0x160e0 runs an average of 576.0 times when it is run.
+---
+b addr: 0x160e8 total: 10
+2: 1.0
+0x160e8 ran 576 times: 1.0 this percentage of the time
+0x160e8 runs an average of 576.0 times when it is run.
+---
+mr addr: 0x160ed total: 10
+0: 1.0
+0x160ed ran 576 times: 1.0 this percentage of the time
+0x160ed runs an average of 576.0 times when it is run.
+---
+b addr: 0x160fe total: 10
+2: 1.0
+0x160fe ran 576 times: 1.0 this percentage of the time
+0x160fe runs an average of 576.0 times when it is run.
+---
+r addr: 0x16113 total: 10
+0: 1.0
+0x16113 ran 576 times: 1.0 this percentage of the time
+0x16113 runs an average of 576.0 times when it is run.
+---
+mr addr: 0x16186 total: 10
+1: 1.0
+0x16186 ran 576 times: 1.0 this percentage of the time
+0x16186 runs an average of 576.0 times when it is run.
+---
+b addr: 0x1618a total: 10
+1: 1.0
+0x1618a ran 576 times: 1.0 this percentage of the time
+0x1618a runs an average of 576.0 times when it is run.
+---
+r addr: 0x161ab total: 10
+1: 1.0
+0x161ab ran 576 times: 1.0 this percentage of the time
+0x161ab runs an average of 576.0 times when it is run.
+---
+b addr: 0x1823a total: 10
+0: 1.0
+0x1823a ran 576 times: 1.0 this percentage of the time
+0x1823a runs an average of 576.0 times when it is run.
+---
+mr addr: 0x18240 total: 10
+3: 1.0
+0x18240 ran 576 times: 1.0 this percentage of the time
+0x18240 runs an average of 576.0 times when it is run.
+---
+b addr: 0x18250 total: 10
+2: 1.0
+0x18250 ran 576 times: 1.0 this percentage of the time
+0x18250 runs an average of 576.0 times when it is run.
+---
+b addr: 0x18257 total: 10
+1: 1.0
+0x18257 ran 576 times: 1.0 this percentage of the time
+0x18257 runs an average of 576.0 times when it is run.
+---
+b addr: 0x18260 total: 10
+2: 1.0
+0x18260 ran 576 times: 1.0 this percentage of the time
+0x18260 runs an average of 576.0 times when it is run.
+---
+b addr: 0x1826c total: 10
+2: 1.0
+0x1826c ran 576 times: 1.0 this percentage of the time
+0x1826c runs an average of 576.0 times when it is run.
+---
+mr addr: 0x18271 total: 10
+0: 1.0
+0x18271 ran 576 times: 1.0 this percentage of the time
+0x18271 runs an average of 576.0 times when it is run.
+---
+b addr: 0x18276 total: 10
+0: 1.0
+0x18276 ran 576 times: 1.0 this percentage of the time
+0x18276 runs an average of 576.0 times when it is run.
+---
+b addr: 0x1827c total: 10
+6: 1.0
+0x1827c ran 567 times: 1.0 this percentage of the time
+0x1827c runs an average of 567.0 times when it is run.
+---
+mr addr: 0x18288 total: 10
+3: 1.0
+0x18288 ran 3 times: 1.0 this percentage of the time
+0x18288 runs an average of 3.0 times when it is run.
+---
+b addr: 0x18298 total: 10
+2: 1.0
+0x18298 ran 3 times: 1.0 this percentage of the time
+0x18298 runs an average of 3.0 times when it is run.
+---
+mr addr: 0x1829d total: 10
+1: 1.0
+0x1829d ran 3 times: 1.0 this percentage of the time
+0x1829d runs an average of 3.0 times when it is run.
+---
+b addr: 0x182a9 total: 10
+2: 1.0
+0x182a9 ran 3 times: 1.0 this percentage of the time
+0x182a9 runs an average of 3.0 times when it is run.
+---
+mr addr: 0x182ae total: 10
+0: 1.0
+0x182ae ran 3 times: 1.0 this percentage of the time
+0x182ae runs an average of 3.0 times when it is run.
+---
+b addr: 0x182b2 total: 10
+0: 1.0
+0x182b2 ran 3 times: 1.0 this percentage of the time
+0x182b2 runs an average of 3.0 times when it is run.
+---
+mr addr: 0x18037 total: 10
+0: 1.0
+0x18037 ran 3 times: 1.0 this percentage of the time
+0x18037 runs an average of 3.0 times when it is run.
+---
+b addr: 0x18048 total: 10
+1: 1.0
+0x18048 ran 3 times: 1.0 this percentage of the time
+0x18048 runs an average of 3.0 times when it is run.
+---
+r addr: 0x1805f total: 10
+3: 1.0
+1: 1.0
+0x1805f ran 3 times: 1.0 this percentage of the time
+0x1805f runs an average of 3.0 times when it is run.
+---
+b addr: 0x1315b total: 10
+0: 1.0
+0x1315b ran 1 times: 1.0 this percentage of the time
+0x1315b runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13161 total: 10
+3: 1.0
+0x13161 ran 1 times: 1.0 this percentage of the time
+0x13161 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1316f total: 10
+1: 1.0
+0x1316f ran 1 times: 1.0 this percentage of the time
+0x1316f runs an average of 1.0 times when it is run.
+---
+b addr: 0x1a4d4 total: 10
+6: 1.0
+0x1a4d4 ran 7 times: 1.0 this percentage of the time
+0x1a4d4 runs an average of 7.0 times when it is run.
+---
+b addr: 0x15787 total: 10
+4: 1.0
+0x15787 ran 6 times: 1.0 this percentage of the time
+0x15787 runs an average of 6.0 times when it is run.
+---
+mw addr: 0x1579f total: 10
+4: 1.0
+0x1579f ran 6 times: 1.0 this percentage of the time
+0x1579f runs an average of 6.0 times when it is run.
+---
+b addr: 0x16fb6 total: 10
+1: 1.0
+0x16fb6 ran 9 times: 1.0 this percentage of the time
+0x16fb6 runs an average of 9.0 times when it is run.
+---
+b addr: 0x13176 total: 10
+0: 1.0
+0x13176 ran 1 times: 1.0 this percentage of the time
+0x13176 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13192 total: 10
+2: 1.0
+0x13192 ran 1 times: 1.0 this percentage of the time
+0x13192 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1319d total: 10
+1: 1.0
+0x1319d ran 1 times: 1.0 this percentage of the time
+0x1319d runs an average of 1.0 times when it is run.
+---
+b addr: 0x1a534 total: 10
+2: 1.0
+0x1a534 ran 2 times: 1.0 this percentage of the time
+0x1a534 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x188e5 total: 10
+1: 1.0
+0x188e5 ran 2 times: 1.0 this percentage of the time
+0x188e5 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x188f1 total: 10
+1: 1.0
+0x188f1 ran 2 times: 1.0 this percentage of the time
+0x188f1 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x1890b total: 10
+1: 0.8
+2: 0.2
+0x1890b ran 2 times: 1.0 this percentage of the time
+0x1890b runs an average of 2.0 times when it is run.
+---
+mr addr: 0x18915 total: 8
+0: 1.0
+0x18915 ran 2 times: 1.0 this percentage of the time
+0x18915 runs an average of 2.0 times when it is run.
+---
+b addr: 0x18919 total: 10
+0: 1.0
+0x18919 ran 2 times: 1.0 this percentage of the time
+0x18919 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x1891f total: 10
+2: 1.0
+0x1891f ran 2 times: 1.0 this percentage of the time
+0x1891f runs an average of 2.0 times when it is run.
+---
+b addr: 0x18926 total: 10
+0: 1.0
+0x18926 ran 2 times: 1.0 this percentage of the time
+0x18926 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x1892c total: 10
+2: 1.0
+0x1892c ran 2 times: 1.0 this percentage of the time
+0x1892c runs an average of 2.0 times when it is run.
+---
+b addr: 0x18933 total: 10
+1: 1.0
+0x18933 ran 2 times: 1.0 this percentage of the time
+0x18933 runs an average of 2.0 times when it is run.
+---
+b addr: 0x1893b total: 10
+0: 1.0
+0x1893b ran 2 times: 1.0 this percentage of the time
+0x1893b runs an average of 2.0 times when it is run.
+---
+mr addr: 0x1893d total: 10
+1: 1.0
+0x1893d ran 2 times: 1.0 this percentage of the time
+0x1893d runs an average of 2.0 times when it is run.
+---
+b addr: 0x18944 total: 10
+2: 1.0
+0x18944 ran 2 times: 1.0 this percentage of the time
+0x18944 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x18959 total: 10
+6: 0.3
+4: 0.4
+8: 0.1
+2: 0.2
+0x18959 ran 2 times: 1.0 this percentage of the time
+0x18959 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x189c1 total: 3
+5: 1.0
+0x189c1 ran 2 times: 1.0 this percentage of the time
+0x189c1 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x18a13 total: 10
+0: 1.0
+0x18a13 ran 2 times: 1.0 this percentage of the time
+0x18a13 runs an average of 2.0 times when it is run.
+---
+b addr: 0x18a1e total: 10
+1: 1.0
+0x18a1e ran 2 times: 1.0 this percentage of the time
+0x18a1e runs an average of 2.0 times when it is run.
+---
+b addr: 0x18a26 total: 10
+2: 1.0
+0x18a26 ran 2 times: 1.0 this percentage of the time
+0x18a26 runs an average of 2.0 times when it is run.
+---
+b addr: 0x18a32 total: 10
+2: 1.0
+0x18a32 ran 2 times: 1.0 this percentage of the time
+0x18a32 runs an average of 2.0 times when it is run.
+---
+b addr: 0x18a3d total: 10
+2: 1.0
+0x18a3d ran 2 times: 1.0 this percentage of the time
+0x18a3d runs an average of 2.0 times when it is run.
+---
+mw addr: 0x18a55 total: 10
+1: 1.0
+0x18a55 ran 2 times: 1.0 this percentage of the time
+0x18a55 runs an average of 2.0 times when it is run.
+---
+b addr: 0x18a63 total: 10
+2: 1.0
+0x18a63 ran 2 times: 1.0 this percentage of the time
+0x18a63 runs an average of 2.0 times when it is run.
+---
+b addr: 0x18a76 total: 10
+2: 1.0
+0x18a76 ran 2 times: 1.0 this percentage of the time
+0x18a76 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x18a7b total: 10
+2: 1.0
+0x18a7b ran 2 times: 1.0 this percentage of the time
+0x18a7b runs an average of 2.0 times when it is run.
+---
+mr addr: 0x18a8a total: 10
+0: 0.9
+2: 0.2
+0x18a8a ran 2 times: 1.0 this percentage of the time
+0x18a8a runs an average of 2.0 times when it is run.
+---
+r addr: 0x1629a total: 10
+1: 1.0
+0: 1.0
+0x1629a ran 3 times: 1.0 this percentage of the time
+0x1629a runs an average of 3.0 times when it is run.
+---
+b addr: 0x18b74 total: 10
+1: 1.0
+0x18b74 ran 2 times: 1.0 this percentage of the time
+0x18b74 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x162a4 total: 10
+1: 1.0
+0x162a4 ran 2 times: 1.0 this percentage of the time
+0x162a4 runs an average of 2.0 times when it is run.
+---
+b addr: 0x162a8 total: 10
+0: 1.0
+0x162a8 ran 2 times: 1.0 this percentage of the time
+0x162a8 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x162b8 total: 10
+1: 1.0
+0x162b8 ran 2 times: 1.0 this percentage of the time
+0x162b8 runs an average of 2.0 times when it is run.
+---
+b addr: 0x162c1 total: 10
+2: 1.0
+0x162c1 ran 2 times: 1.0 this percentage of the time
+0x162c1 runs an average of 2.0 times when it is run.
+---
+b addr: 0x162cb total: 10
+0: 1.0
+0x162cb ran 2 times: 1.0 this percentage of the time
+0x162cb runs an average of 2.0 times when it is run.
+---
+mr addr: 0x162cd total: 10
+0: 1.0
+0x162cd ran 2 times: 1.0 this percentage of the time
+0x162cd runs an average of 2.0 times when it is run.
+---
+b addr: 0x162d1 total: 10
+3: 1.0
+0x162d1 ran 2 times: 1.0 this percentage of the time
+0x162d1 runs an average of 2.0 times when it is run.
+---
+r addr: 0x162db total: 10
+2: 1.0
+0x162db ran 2 times: 1.0 this percentage of the time
+0x162db runs an average of 2.0 times when it is run.
+---
+b addr: 0x18b7e total: 10
+0: 1.0
+0x18b7e ran 2 times: 1.0 this percentage of the time
+0x18b7e runs an average of 2.0 times when it is run.
+---
+mr addr: 0x18b84 total: 10
+1: 0.7
+0: 1.0
+0x18b84 ran 2 times: 1.0 this percentage of the time
+0x18b84 runs an average of 2.0 times when it is run.
+---
+b addr: 0x18b90 total: 10
+0: 0.3
+4: 1.0
+0x18b90 ran 2 times: 1.0 this percentage of the time
+0x18b90 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x18bba total: 10
+0: 0.9
+1: 0.2
+0x18bba ran 2 times: 1.0 this percentage of the time
+0x18bba runs an average of 2.0 times when it is run.
+---
+b addr: 0x18bc4 total: 10
+0: 1.0
+0x18bc4 ran 2 times: 1.0 this percentage of the time
+0x18bc4 runs an average of 2.0 times when it is run.
+---
+b addr: 0x18bc6 total: 10
+2: 1.0
+0x18bc6 ran 2 times: 1.0 this percentage of the time
+0x18bc6 runs an average of 2.0 times when it is run.
+---
+b addr: 0x18bd1 total: 10
+3: 1.0
+0x18bd1 ran 2 times: 1.0 this percentage of the time
+0x18bd1 runs an average of 2.0 times when it is run.
+---
+b addr: 0x18beb total: 10
+0: 1.0
+0x18beb ran 2 times: 1.0 this percentage of the time
+0x18beb runs an average of 2.0 times when it is run.
+---
+mr addr: 0x18c02 total: 10
+0: 1.0
+0x18c02 ran 2 times: 1.0 this percentage of the time
+0x18c02 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x18c07 total: 10
+0: 0.8
+1: 0.2
+0x18c07 ran 2 times: 1.0 this percentage of the time
+0x18c07 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x18c0c total: 8
+0: 1.0
+0x18c0c ran 2 times: 1.0 this percentage of the time
+0x18c0c runs an average of 2.0 times when it is run.
+---
+b addr: 0x18c10 total: 10
+0: 1.0
+0x18c10 ran 2 times: 1.0 this percentage of the time
+0x18c10 runs an average of 2.0 times when it is run.
+---
+b addr: 0x18bf0 total: 10
+0: 1.0
+0x18bf0 ran 2 times: 1.0 this percentage of the time
+0x18bf0 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x19248 total: 10
+2: 1.0
+0x19248 ran 2 times: 1.0 this percentage of the time
+0x19248 runs an average of 2.0 times when it is run.
+---
+b addr: 0x19258 total: 10
+2: 1.0
+0x19258 ran 2 times: 1.0 this percentage of the time
+0x19258 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x1925d total: 10
+0: 1.0
+0x1925d ran 2 times: 1.0 this percentage of the time
+0x1925d runs an average of 2.0 times when it is run.
+---
+mw addr: 0x19262 total: 10
+0: 1.0
+0x19262 ran 2 times: 1.0 this percentage of the time
+0x19262 runs an average of 2.0 times when it is run.
+---
+b addr: 0x19266 total: 10
+0: 1.0
+0x19266 ran 2 times: 1.0 this percentage of the time
+0x19266 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x18c38 total: 10
+0: 1.0
+0x18c38 ran 2 times: 1.0 this percentage of the time
+0x18c38 runs an average of 2.0 times when it is run.
+---
+b addr: 0x18c49 total: 10
+2: 1.0
+0x18c49 ran 2 times: 1.0 this percentage of the time
+0x18c49 runs an average of 2.0 times when it is run.
+---
+r addr: 0x18c63 total: 10
+3: 1.0
+0: 1.0
+0x18c63 ran 2 times: 1.0 this percentage of the time
+0x18c63 runs an average of 2.0 times when it is run.
+---
+b addr: 0x131ad total: 10
+0: 1.0
+0x131ad ran 1 times: 1.0 this percentage of the time
+0x131ad runs an average of 1.0 times when it is run.
+---
+mr addr: 0x131b3 total: 10
+2: 1.0
+0x131b3 ran 1 times: 1.0 this percentage of the time
+0x131b3 runs an average of 1.0 times when it is run.
+---
+b addr: 0x131c0 total: 10
+1: 1.0
+0x131c0 ran 1 times: 1.0 this percentage of the time
+0x131c0 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1a524 total: 10
+6: 1.0
+0x1a524 ran 3 times: 1.0 this percentage of the time
+0x1a524 runs an average of 3.0 times when it is run.
+---
+b addr: 0x131c7 total: 10
+0: 1.0
+0x131c7 ran 1 times: 1.0 this percentage of the time
+0x131c7 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x131cd total: 10
+3: 1.0
+0x131cd ran 1 times: 1.0 this percentage of the time
+0x131cd runs an average of 1.0 times when it is run.
+---
+b addr: 0x131e1 total: 10
+1: 1.0
+0x131e1 ran 1 times: 1.0 this percentage of the time
+0x131e1 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1a4b4 total: 10
+3: 1.0
+0x1a4b4 ran 1 times: 1.0 this percentage of the time
+0x1a4b4 runs an average of 1.0 times when it is run.
+---
+b addr: 0x131f1 total: 10
+0: 1.0
+0x131f1 ran 1 times: 1.0 this percentage of the time
+0x131f1 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x131f7 total: 10
+3: 1.0
+0x131f7 ran 1 times: 1.0 this percentage of the time
+0x131f7 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13205 total: 10
+1: 1.0
+0x13205 ran 1 times: 1.0 this percentage of the time
+0x13205 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1320c total: 10
+0: 1.0
+0x1320c ran 1 times: 1.0 this percentage of the time
+0x1320c runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13212 total: 10
+3: 1.0
+0x13212 ran 1 times: 1.0 this percentage of the time
+0x13212 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13222 total: 10
+1: 1.0
+0x13222 ran 1 times: 1.0 this percentage of the time
+0x13222 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13229 total: 10
+0: 1.0
+0x13229 ran 1 times: 1.0 this percentage of the time
+0x13229 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1322f total: 10
+2: 1.0
+0x1322f ran 1 times: 1.0 this percentage of the time
+0x1322f runs an average of 1.0 times when it is run.
+---
+b addr: 0x1323a total: 10
+1: 1.0
+0x1323a ran 1 times: 1.0 this percentage of the time
+0x1323a runs an average of 1.0 times when it is run.
+---
+b addr: 0x1a494 total: 10
+1: 1.0
+0x1a494 ran 1 times: 1.0 this percentage of the time
+0x1a494 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1324a total: 10
+0: 1.0
+0x1324a ran 1 times: 1.0 this percentage of the time
+0x1324a runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13250 total: 10
+3: 1.0
+0x13250 ran 1 times: 1.0 this percentage of the time
+0x13250 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1325e total: 10
+1: 1.0
+0x1325e ran 1 times: 1.0 this percentage of the time
+0x1325e runs an average of 1.0 times when it is run.
+---
+b addr: 0x13265 total: 10
+0: 1.0
+0x13265 ran 1 times: 1.0 this percentage of the time
+0x13265 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1326b total: 10
+2: 1.0
+0x1326b ran 1 times: 1.0 this percentage of the time
+0x1326b runs an average of 1.0 times when it is run.
+---
+b addr: 0x13276 total: 10
+1: 1.0
+0x13276 ran 1 times: 1.0 this percentage of the time
+0x13276 runs an average of 1.0 times when it is run.
+---
+b addr: 0x17674 total: 10
+2: 1.0
+0x17674 ran 1 times: 1.0 this percentage of the time
+0x17674 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1767f total: 10
+4: 1.0
+0x1767f ran 1 times: 1.0 this percentage of the time
+0x1767f runs an average of 1.0 times when it is run.
+---
+b addr: 0x17695 total: 10
+0: 1.0
+0x17695 ran 1 times: 1.0 this percentage of the time
+0x17695 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x176b2 total: 10
+0: 1.0
+0x176b2 ran 1 times: 1.0 this percentage of the time
+0x176b2 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x176b7 total: 10
+0: 1.0
+0x176b7 ran 1 times: 1.0 this percentage of the time
+0x176b7 runs an average of 1.0 times when it is run.
+---
+b addr: 0x176bc total: 10
+0: 1.0
+0x176bc ran 1 times: 1.0 this percentage of the time
+0x176bc runs an average of 1.0 times when it is run.
+---
+b addr: 0x176a0 total: 10
+0: 1.0
+0x176a0 ran 1 times: 1.0 this percentage of the time
+0x176a0 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x17ae8 total: 10
+1: 1.0
+0x17ae8 ran 1 times: 1.0 this percentage of the time
+0x17ae8 runs an average of 1.0 times when it is run.
+---
+b addr: 0x17af0 total: 10
+1: 1.0
+0x17af0 ran 1 times: 1.0 this percentage of the time
+0x17af0 runs an average of 1.0 times when it is run.
+---
+b addr: 0x17af5 total: 10
+2: 1.0
+0x17af5 ran 1 times: 1.0 this percentage of the time
+0x17af5 runs an average of 1.0 times when it is run.
+---
+b addr: 0x17afd total: 10
+2: 1.0
+0x17afd ran 1 times: 1.0 this percentage of the time
+0x17afd runs an average of 1.0 times when it is run.
+---
+mr addr: 0x17b02 total: 10
+1: 1.0
+0x17b02 ran 1 times: 1.0 this percentage of the time
+0x17b02 runs an average of 1.0 times when it is run.
+---
+b addr: 0x17b12 total: 10
+0: 1.0
+0x17b12 ran 1 times: 1.0 this percentage of the time
+0x17b12 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1327d total: 10
+0: 1.0
+0x1327d ran 1 times: 1.0 this percentage of the time
+0x1327d runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13283 total: 10
+0: 1.0
+0x13283 ran 1 times: 1.0 this percentage of the time
+0x13283 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13288 total: 10
+1: 1.0
+0x13288 ran 1 times: 1.0 this percentage of the time
+0x13288 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1a7f4 total: 10
+3: 1.0
+0x1a7f4 ran 4 times: 1.0 this percentage of the time
+0x1a7f4 runs an average of 4.0 times when it is run.
+---
+r addr: 0x1a7fd total: 10
+1: 1.0
+0: 1.0
+0x1a7fd ran 4 times: 1.0 this percentage of the time
+0x1a7fd runs an average of 4.0 times when it is run.
+---
+b addr: 0x13290 total: 10
+1: 1.0
+0x13290 ran 1 times: 1.0 this percentage of the time
+0x13290 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13299 total: 10
+1: 1.0
+0x13299 ran 1 times: 1.0 this percentage of the time
+0x13299 runs an average of 1.0 times when it is run.
+---
+b addr: 0x132a1 total: 10
+0: 1.0
+0x132a1 ran 1 times: 1.0 this percentage of the time
+0x132a1 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x132a7 total: 10
+0: 1.0
+0x132a7 ran 1 times: 1.0 this percentage of the time
+0x132a7 runs an average of 1.0 times when it is run.
+---
+b addr: 0x132ac total: 10
+1: 1.0
+0x132ac ran 1 times: 1.0 this percentage of the time
+0x132ac runs an average of 1.0 times when it is run.
+---
+mw addr: 0x132b4 total: 10
+0: 1.0
+0x132b4 ran 1 times: 1.0 this percentage of the time
+0x132b4 runs an average of 1.0 times when it is run.
+---
+b addr: 0x132b8 total: 10
+1: 1.0
+0x132b8 ran 1 times: 1.0 this percentage of the time
+0x132b8 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x132bd total: 10
+3: 1.0
+0x132bd ran 1 times: 1.0 this percentage of the time
+0x132bd runs an average of 1.0 times when it is run.
+---
+b addr: 0x132cb total: 10
+1: 1.0
+0x132cb ran 1 times: 1.0 this percentage of the time
+0x132cb runs an average of 1.0 times when it is run.
+---
+mr addr: 0x132f2 total: 10
+6: 1.0
+0x132f2 ran 1 times: 1.0 this percentage of the time
+0x132f2 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13311 total: 10
+1: 1.0
+0x13311 ran 1 times: 1.0 this percentage of the time
+0x13311 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1a674 total: 10
+4: 1.0
+0x1a674 ran 2 times: 1.0 this percentage of the time
+0x1a674 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x16aea total: 10
+3: 1.0
+0x16aea ran 2 times: 1.0 this percentage of the time
+0x16aea runs an average of 2.0 times when it is run.
+---
+b addr: 0x16afa total: 10
+0: 1.0
+0x16afa ran 2 times: 1.0 this percentage of the time
+0x16afa runs an average of 2.0 times when it is run.
+---
+mr addr: 0x16aff total: 10
+1: 1.0
+0x16aff ran 2 times: 1.0 this percentage of the time
+0x16aff runs an average of 2.0 times when it is run.
+---
+b addr: 0x16b09 total: 10
+7: 1.0
+0x16b09 ran 2 times: 1.0 this percentage of the time
+0x16b09 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x16b21 total: 10
+3: 0.8
+9: 0.2
+0x16b21 ran 32 times: 1.0 this percentage of the time
+0x16b21 runs an average of 32.0 times when it is run.
+---
+mw addr: 0x16b2f total: 8
+6: 1.0
+0x16b2f ran 32 times: 1.0 this percentage of the time
+0x16b2f runs an average of 32.0 times when it is run.
+---
+b addr: 0x16b46 total: 10
+3: 1.0
+1: 1.0
+0x16b46 ran 32 times: 1.0 this percentage of the time
+0x16b46 runs an average of 32.0 times when it is run.
+---
+mr addr: 0x16b4b total: 10
+1: 1.0
+0x16b4b ran 2 times: 1.0 this percentage of the time
+0x16b4b runs an average of 2.0 times when it is run.
+---
+b addr: 0x16b53 total: 10
+3: 1.0
+0x16b53 ran 2 times: 1.0 this percentage of the time
+0x16b53 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x16b5e total: 10
+2: 1.0
+0x16b5e ran 8 times: 1.0 this percentage of the time
+0x16b5e runs an average of 8.0 times when it is run.
+---
+b addr: 0x16b69 total: 10
+2: 1.0
+0x16b69 ran 8 times: 1.0 this percentage of the time
+0x16b69 runs an average of 8.0 times when it is run.
+---
+b addr: 0x16b70 total: 10
+5: 1.0
+0x16b70 ran 2 times: 1.0 this percentage of the time
+0x16b70 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x16b8b total: 10
+2: 1.0
+0x16b8b ran 20 times: 1.0 this percentage of the time
+0x16b8b runs an average of 20.0 times when it is run.
+---
+b addr: 0x16b9a total: 10
+6: 1.0
+0: 1.0
+0x16b9a ran 20 times: 1.0 this percentage of the time
+0x16b9a runs an average of 20.0 times when it is run.
+---
+mr addr: 0x16b9c total: 10
+0: 1.0
+0x16b9c ran 2 times: 1.0 this percentage of the time
+0x16b9c runs an average of 2.0 times when it is run.
+---
+b addr: 0x16bad total: 10
+2: 1.0
+0x16bad ran 2 times: 1.0 this percentage of the time
+0x16bad runs an average of 2.0 times when it is run.
+---
+r addr: 0x16bb8 total: 10
+1: 1.0
+0: 1.0
+0x16bb8 ran 2 times: 1.0 this percentage of the time
+0x16bb8 runs an average of 2.0 times when it is run.
+---
+b addr: 0x13318 total: 10
+0: 1.0
+0x13318 ran 1 times: 1.0 this percentage of the time
+0x13318 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1331a total: 10
+2: 1.0
+0x1331a ran 1 times: 1.0 this percentage of the time
+0x1331a runs an average of 1.0 times when it is run.
+---
+b addr: 0x13326 total: 10
+1: 1.0
+0x13326 ran 1 times: 1.0 this percentage of the time
+0x13326 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13347 total: 10
+5: 1.0
+0x13347 ran 1 times: 1.0 this percentage of the time
+0x13347 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13362 total: 10
+1: 1.0
+0x13362 ran 1 times: 1.0 this percentage of the time
+0x13362 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13367 total: 10
+1: 1.0
+0x13367 ran 1 times: 1.0 this percentage of the time
+0x13367 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13004 total: 10
+0: 1.0
+0x13004 ran 1 times: 1.0 this percentage of the time
+0x13004 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1301d total: 10
+0: 1.0
+0x1301d ran 1 times: 1.0 this percentage of the time
+0x1301d runs an average of 1.0 times when it is run.
+---
+b addr: 0x13022 total: 10
+4: 1.0
+0x13022 ran 1 times: 1.0 this percentage of the time
+0x13022 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x1303f total: 10
+1: 1.0
+0x1303f ran 2 times: 1.0 this percentage of the time
+0x1303f runs an average of 2.0 times when it is run.
+---
+b addr: 0x13049 total: 10
+2: 1.0
+0x13049 ran 2 times: 1.0 this percentage of the time
+0x13049 runs an average of 2.0 times when it is run.
+---
+b addr: 0x13056 total: 10
+3: 1.0
+0x13056 ran 1 times: 1.0 this percentage of the time
+0x13056 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x1306f total: 10
+1: 1.0
+0x1306f ran 4 times: 1.0 this percentage of the time
+0x1306f runs an average of 4.0 times when it is run.
+---
+b addr: 0x13075 total: 10
+2: 1.0
+0: 1.0
+0x13075 ran 4 times: 1.0 this percentage of the time
+0x13075 runs an average of 4.0 times when it is run.
+---
+b addr: 0x13077 total: 10
+1: 1.0
+0x13077 ran 1 times: 1.0 this percentage of the time
+0x13077 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x12f05 total: 10
+0: 1.0
+0x12f05 ran 1 times: 1.0 this percentage of the time
+0x12f05 runs an average of 1.0 times when it is run.
+---
+b addr: 0x12f09 total: 10
+1: 1.0
+0x12f09 ran 1 times: 1.0 this percentage of the time
+0x12f09 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1a2c4 total: 10
+2: 1.0
+0x1a2c4 ran 3 times: 1.0 this percentage of the time
+0x1a2c4 runs an average of 3.0 times when it is run.
+---
+mw addr: 0x1a23d total: 10
+5: 1.0
+0x1a23d ran 3 times: 1.0 this percentage of the time
+0x1a23d runs an average of 3.0 times when it is run.
+---
+b addr: 0x1a253 total: 10
+7: 1.0
+0x1a253 ran 3 times: 1.0 this percentage of the time
+0x1a253 runs an average of 3.0 times when it is run.
+---
+mw addr: 0x1a28f total: 10
+1: 1.0
+0x1a28f ran 408 times: 1.0 this percentage of the time
+0x1a28f runs an average of 408.0 times when it is run.
+---
+b addr: 0x1a299 total: 10
+2: 1.0
+5: 1.0
+0x1a299 ran 408 times: 1.0 this percentage of the time
+0x1a299 runs an average of 408.0 times when it is run.
+---
+b addr: 0x1a2a8 total: 10
+0: 1.0
+0x1a2a8 ran 3 times: 1.0 this percentage of the time
+0x1a2a8 runs an average of 3.0 times when it is run.
+---
+r addr: 0x1a2bf total: 10
+1: 1.0
+0: 1.0
+0x1a2bf ran 3 times: 1.0 this percentage of the time
+0x1a2bf runs an average of 3.0 times when it is run.
+---
+b addr: 0x12f11 total: 10
+1: 1.0
+0x12f11 ran 1 times: 1.0 this percentage of the time
+0x12f11 runs an average of 1.0 times when it is run.
+---
+b addr: 0x12f19 total: 10
+1: 1.0
+0x12f19 ran 1 times: 1.0 this percentage of the time
+0x12f19 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x12f1e total: 10
+0: 1.0
+0x12f1e ran 1 times: 1.0 this percentage of the time
+0x12f1e runs an average of 1.0 times when it is run.
+---
+b addr: 0x12f23 total: 10
+3: 1.0
+0x12f23 ran 1 times: 1.0 this percentage of the time
+0x12f23 runs an average of 1.0 times when it is run.
+---
+b addr: 0x12f2b total: 10
+3: 1.0
+0x12f2b ran 1 times: 1.0 this percentage of the time
+0x12f2b runs an average of 1.0 times when it is run.
+---
+mr addr: 0x12f30 total: 10
+0: 1.0
+0x12f30 ran 1 times: 1.0 this percentage of the time
+0x12f30 runs an average of 1.0 times when it is run.
+---
+b addr: 0x12f35 total: 10
+3: 1.0
+0x12f35 ran 1 times: 1.0 this percentage of the time
+0x12f35 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x12f3a total: 10
+0: 1.0
+0x12f3a ran 1 times: 1.0 this percentage of the time
+0x12f3a runs an average of 1.0 times when it is run.
+---
+mr addr: 0x12f3e total: 10
+0: 1.0
+0x12f3e ran 1 times: 1.0 this percentage of the time
+0x12f3e runs an average of 1.0 times when it is run.
+---
+b addr: 0x12f4f total: 10
+1: 1.0
+0x12f4f ran 1 times: 1.0 this percentage of the time
+0x12f4f runs an average of 1.0 times when it is run.
+---
+r addr: 0x12f66 total: 10
+2: 1.0
+0x12f66 ran 1 times: 1.0 this percentage of the time
+0x12f66 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13395 total: 10
+1: 0.6
+6: 0.4
+0x13395 ran 1 times: 1.0 this percentage of the time
+0x13395 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x133a1 total: 6
+5: 0.8333333333333334
+1: 0.16666666666666666
+0x133a1 ran 1 times: 1.0 this percentage of the time
+0x133a1 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x133ed total: 10
+1: 1.0
+0x133ed ran 1 times: 1.0 this percentage of the time
+0x133ed runs an average of 1.0 times when it is run.
+---
+mw addr: 0x133ff total: 10
+1: 1.0
+0x133ff ran 1 times: 1.0 this percentage of the time
+0x133ff runs an average of 1.0 times when it is run.
+---
+b addr: 0x13407 total: 10
+4: 1.0
+0x13407 ran 1 times: 1.0 this percentage of the time
+0x13407 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1340e total: 10
+0: 1.0
+0x1340e ran 1 times: 1.0 this percentage of the time
+0x1340e runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13414 total: 10
+1: 0.9
+0: 0.1
+0x13414 ran 1 times: 1.0 this percentage of the time
+0x13414 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1341f total: 10
+1: 1.0
+0x1341f ran 1 times: 1.0 this percentage of the time
+0x1341f runs an average of 1.0 times when it is run.
+---
+b addr: 0x13424 total: 10
+0: 1.0
+0x13424 ran 1 times: 1.0 this percentage of the time
+0x13424 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13426 total: 10
+0: 1.0
+0x13426 ran 1 times: 1.0 this percentage of the time
+0x13426 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1342c total: 10
+0: 1.0
+0x1342c ran 1 times: 1.0 this percentage of the time
+0x1342c runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1342e total: 10
+0: 1.0
+0x1342e ran 1 times: 1.0 this percentage of the time
+0x1342e runs an average of 1.0 times when it is run.
+---
+b addr: 0x13434 total: 10
+3: 1.0
+0x13434 ran 1 times: 1.0 this percentage of the time
+0x13434 runs an average of 1.0 times when it is run.
+---
+b addr: 0x134ab total: 10
+1: 1.0
+0x134ab ran 1 times: 1.0 this percentage of the time
+0x134ab runs an average of 1.0 times when it is run.
+---
+mr addr: 0x134b0 total: 10
+1: 1.0
+0x134b0 ran 1 times: 1.0 this percentage of the time
+0x134b0 runs an average of 1.0 times when it is run.
+---
+b addr: 0x134b7 total: 10
+2: 1.0
+0x134b7 ran 1 times: 1.0 this percentage of the time
+0x134b7 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x134d4 total: 10
+0: 1.0
+0x134d4 ran 1 times: 1.0 this percentage of the time
+0x134d4 runs an average of 1.0 times when it is run.
+---
+b addr: 0x134d9 total: 10
+1: 1.0
+0x134d9 ran 1 times: 1.0 this percentage of the time
+0x134d9 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x134de total: 10
+1: 1.0
+0x134de ran 1 times: 1.0 this percentage of the time
+0x134de runs an average of 1.0 times when it is run.
+---
+b addr: 0x134e5 total: 10
+1: 1.0
+0x134e5 ran 1 times: 1.0 this percentage of the time
+0x134e5 runs an average of 1.0 times when it is run.
+---
+b addr: 0x134ea total: 10
+1: 1.0
+0x134ea ran 1 times: 1.0 this percentage of the time
+0x134ea runs an average of 1.0 times when it is run.
+---
+mr addr: 0x134ef total: 10
+1: 1.0
+0x134ef ran 1 times: 1.0 this percentage of the time
+0x134ef runs an average of 1.0 times when it is run.
+---
+b addr: 0x134f7 total: 10
+1: 1.0
+0x134f7 ran 1 times: 1.0 this percentage of the time
+0x134f7 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x134fc total: 10
+0: 1.0
+0x134fc ran 1 times: 1.0 this percentage of the time
+0x134fc runs an average of 1.0 times when it is run.
+---
+b addr: 0x13501 total: 10
+1: 1.0
+0x13501 ran 1 times: 1.0 this percentage of the time
+0x13501 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13506 total: 10
+1: 1.0
+0x13506 ran 1 times: 1.0 this percentage of the time
+0x13506 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1350e total: 10
+0: 1.0
+0x1350e ran 1 times: 1.0 this percentage of the time
+0x1350e runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13510 total: 10
+3: 1.0
+0x13510 ran 1 times: 1.0 this percentage of the time
+0x13510 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1352b total: 10
+1: 1.0
+0x1352b ran 1 times: 1.0 this percentage of the time
+0x1352b runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13530 total: 10
+1: 1.0
+0x13530 ran 1 times: 1.0 this percentage of the time
+0x13530 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13538 total: 10
+0: 1.0
+0x13538 ran 1 times: 1.0 this percentage of the time
+0x13538 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1355a total: 10
+1: 1.0
+0x1355a ran 1 times: 1.0 this percentage of the time
+0x1355a runs an average of 1.0 times when it is run.
+---
+b addr: 0x13562 total: 10
+1: 1.0
+0x13562 ran 1 times: 1.0 this percentage of the time
+0x13562 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13567 total: 10
+1: 1.0
+0x13567 ran 1 times: 1.0 this percentage of the time
+0x13567 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1356f total: 10
+0: 1.0
+0x1356f ran 1 times: 1.0 this percentage of the time
+0x1356f runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13571 total: 10
+2: 1.0
+0x13571 ran 1 times: 1.0 this percentage of the time
+0x13571 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1357e total: 10
+1: 1.0
+0x1357e ran 1 times: 1.0 this percentage of the time
+0x1357e runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13583 total: 10
+1: 1.0
+0x13583 ran 1 times: 1.0 this percentage of the time
+0x13583 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1358a total: 10
+0: 1.0
+0x1358a ran 1 times: 1.0 this percentage of the time
+0x1358a runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13590 total: 10
+3: 0.9
+2: 0.1
+0x13590 ran 1 times: 1.0 this percentage of the time
+0x13590 runs an average of 1.0 times when it is run.
+---
+b addr: 0x135a5 total: 10
+1: 1.0
+0x135a5 ran 1 times: 1.0 this percentage of the time
+0x135a5 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x152d0 total: 9
+4: 1.0
+0x152d0 ran 1 times: 1.0 this percentage of the time
+0x152d0 runs an average of 1.0 times when it is run.
+---
+b addr: 0x152de total: 9
+5: 1.0
+0x152de ran 1 times: 1.0 this percentage of the time
+0x152de runs an average of 1.0 times when it is run.
+---
+mr addr: 0x135aa total: 10
+1: 1.0
+0x135aa ran 1 times: 1.0 this percentage of the time
+0x135aa runs an average of 1.0 times when it is run.
+---
+b addr: 0x135b1 total: 10
+0: 1.0
+0x135b1 ran 1 times: 1.0 this percentage of the time
+0x135b1 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x135b7 total: 10
+3: 1.0
+0x135b7 ran 1 times: 1.0 this percentage of the time
+0x135b7 runs an average of 1.0 times when it is run.
+---
+b addr: 0x135c5 total: 10
+1: 1.0
+0x135c5 ran 1 times: 1.0 this percentage of the time
+0x135c5 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x135ca total: 10
+1: 1.0
+0x135ca ran 1 times: 1.0 this percentage of the time
+0x135ca runs an average of 1.0 times when it is run.
+---
+b addr: 0x135d1 total: 10
+0: 1.0
+0x135d1 ran 1 times: 1.0 this percentage of the time
+0x135d1 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x135e2 total: 10
+3: 1.0
+0x135e2 ran 1 times: 1.0 this percentage of the time
+0x135e2 runs an average of 1.0 times when it is run.
+---
+b addr: 0x135f5 total: 10
+1: 1.0
+0x135f5 ran 1 times: 1.0 this percentage of the time
+0x135f5 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x135fa total: 10
+1: 1.0
+0x135fa ran 1 times: 1.0 this percentage of the time
+0x135fa runs an average of 1.0 times when it is run.
+---
+b addr: 0x13601 total: 10
+0: 1.0
+0x13601 ran 1 times: 1.0 this percentage of the time
+0x13601 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13603 total: 10
+2: 1.0
+0x13603 ran 1 times: 1.0 this percentage of the time
+0x13603 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13615 total: 10
+1: 1.0
+0x13615 ran 1 times: 1.0 this percentage of the time
+0x13615 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1a554 total: 10
+2: 1.0
+0x1a554 ran 2 times: 1.0 this percentage of the time
+0x1a554 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x192ce total: 10
+1: 0.8
+3: 0.2
+0x192ce ran 2 times: 1.0 this percentage of the time
+0x192ce runs an average of 2.0 times when it is run.
+---
+mr addr: 0x192d8 total: 8
+1: 1.0
+0x192d8 ran 2 times: 1.0 this percentage of the time
+0x192d8 runs an average of 2.0 times when it is run.
+---
+b addr: 0x192dc total: 10
+1: 1.0
+0x192dc ran 2 times: 1.0 this percentage of the time
+0x192dc runs an average of 2.0 times when it is run.
+---
+b addr: 0x192e5 total: 10
+4: 1.0
+0x192e5 ran 2 times: 1.0 this percentage of the time
+0x192e5 runs an average of 2.0 times when it is run.
+---
+b addr: 0x192f7 total: 10
+0: 1.0
+0x192f7 ran 2 times: 1.0 this percentage of the time
+0x192f7 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x192f9 total: 10
+1: 1.0
+0x192f9 ran 2 times: 1.0 this percentage of the time
+0x192f9 runs an average of 2.0 times when it is run.
+---
+b addr: 0x19300 total: 10
+0: 1.0
+0x19300 ran 2 times: 1.0 this percentage of the time
+0x19300 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x19306 total: 10
+1: 1.0
+0x19306 ran 2 times: 1.0 this percentage of the time
+0x19306 runs an average of 2.0 times when it is run.
+---
+b addr: 0x1930c total: 10
+0: 1.0
+0x1930c ran 2 times: 1.0 this percentage of the time
+0x1930c runs an average of 2.0 times when it is run.
+---
+mr addr: 0x1930e total: 10
+0: 1.0
+0x1930e ran 2 times: 1.0 this percentage of the time
+0x1930e runs an average of 2.0 times when it is run.
+---
+b addr: 0x19313 total: 10
+1: 1.0
+0x19313 ran 2 times: 1.0 this percentage of the time
+0x19313 runs an average of 2.0 times when it is run.
+---
+b addr: 0x1931d total: 10
+4: 1.0
+0x1931d ran 2 times: 1.0 this percentage of the time
+0x1931d runs an average of 2.0 times when it is run.
+---
+b addr: 0x19336 total: 10
+5: 1.0
+0x19336 ran 2 times: 1.0 this percentage of the time
+0x19336 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x1671b total: 2
+7: 1.0
+0x1671b ran 770 times: 1.0 this percentage of the time
+0x1671b runs an average of 770.0 times when it is run.
+---
+mw addr: 0x16736 total: 2
+4: 1.0
+0x16736 ran 770 times: 1.0 this percentage of the time
+0x16736 runs an average of 770.0 times when it is run.
+---
+mw addr: 0x166f8 total: 1
+2: 1.0
+0x166f8 ran 770 times: 1.0 this percentage of the time
+0x166f8 runs an average of 770.0 times when it is run.
+---
+mw addr: 0x166d5 total: 1
+2: 1.0
+0x166d5 ran 770 times: 1.0 this percentage of the time
+0x166d5 runs an average of 770.0 times when it is run.
+---
+mw addr: 0x166b2 total: 1
+2: 1.0
+0x166b2 ran 770 times: 1.0 this percentage of the time
+0x166b2 runs an average of 770.0 times when it is run.
+---
+mw addr: 0x1668f total: 1
+2: 1.0
+0x1668f ran 770 times: 1.0 this percentage of the time
+0x1668f runs an average of 770.0 times when it is run.
+---
+mw addr: 0x1666c total: 1
+2: 1.0
+0x1666c ran 770 times: 1.0 this percentage of the time
+0x1666c runs an average of 770.0 times when it is run.
+---
+mw addr: 0x1664a total: 1
+2: 1.0
+0x1664a ran 770 times: 1.0 this percentage of the time
+0x1664a runs an average of 770.0 times when it is run.
+---
+mr addr: 0x1933e total: 10
+0: 1.0
+0x1933e ran 2 times: 1.0 this percentage of the time
+0x1933e runs an average of 2.0 times when it is run.
+---
+b addr: 0x1934f total: 10
+2: 1.0
+0x1934f ran 2 times: 1.0 this percentage of the time
+0x1934f runs an average of 2.0 times when it is run.
+---
+r addr: 0x19369 total: 10
+0: 1.0
+0x19369 ran 2 times: 1.0 this percentage of the time
+0x19369 runs an average of 2.0 times when it is run.
+---
+mr addr: 0x1361a total: 10
+1: 1.0
+0x1361a ran 1 times: 1.0 this percentage of the time
+0x1361a runs an average of 1.0 times when it is run.
+---
+b addr: 0x13621 total: 10
+0: 1.0
+0x13621 ran 1 times: 1.0 this percentage of the time
+0x13621 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1362d total: 10
+2: 1.0
+0x1362d ran 1 times: 1.0 this percentage of the time
+0x1362d runs an average of 1.0 times when it is run.
+---
+b addr: 0x13644 total: 10
+1: 1.0
+0x13644 ran 1 times: 1.0 this percentage of the time
+0x13644 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13649 total: 10
+1: 1.0
+0x13649 ran 1 times: 1.0 this percentage of the time
+0x13649 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13650 total: 10
+0: 1.0
+0x13650 ran 1 times: 1.0 this percentage of the time
+0x13650 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13652 total: 10
+3: 1.0
+0x13652 ran 1 times: 1.0 this percentage of the time
+0x13652 runs an average of 1.0 times when it is run.
+---
+b addr: 0x13660 total: 10
+1: 1.0
+0x13660 ran 1 times: 1.0 this percentage of the time
+0x13660 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13665 total: 10
+1: 1.0
+0x13665 ran 1 times: 1.0 this percentage of the time
+0x13665 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1366c total: 10
+0: 1.0
+0x1366c ran 1 times: 1.0 this percentage of the time
+0x1366c runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13672 total: 10
+2: 1.0
+0x13672 ran 1 times: 1.0 this percentage of the time
+0x13672 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1367d total: 10
+1: 1.0
+0x1367d ran 1 times: 1.0 this percentage of the time
+0x1367d runs an average of 1.0 times when it is run.
+---
+mr addr: 0x13682 total: 10
+2: 1.0
+0x13682 ran 1 times: 1.0 this percentage of the time
+0x13682 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1368b total: 10
+2: 1.0
+0x1368b ran 1 times: 1.0 this percentage of the time
+0x1368b runs an average of 1.0 times when it is run.
+---
+b addr: 0x13697 total: 10
+1: 1.0
+0x13697 ran 1 times: 1.0 this percentage of the time
+0x13697 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1369c total: 10
+2: 0.9
+1: 0.1
+0x1369c ran 1 times: 1.0 this percentage of the time
+0x1369c runs an average of 1.0 times when it is run.
+---
+b addr: 0x136a8 total: 10
+0: 1.0
+0x136a8 ran 1 times: 1.0 this percentage of the time
+0x136a8 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x136aa total: 10
+0: 1.0
+0x136aa ran 1 times: 1.0 this percentage of the time
+0x136aa runs an average of 1.0 times when it is run.
+---
+b addr: 0x136b0 total: 10
+1: 1.0
+0x136b0 ran 1 times: 1.0 this percentage of the time
+0x136b0 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1343e total: 10
+3: 1.0
+0x1343e ran 1 times: 1.0 this percentage of the time
+0x1343e runs an average of 1.0 times when it is run.
+---
+b addr: 0x13446 total: 10
+3: 1.0
+0x13446 ran 1 times: 1.0 this percentage of the time
+0x13446 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1344e total: 10
+3: 1.0
+0x1344e ran 1 times: 1.0 this percentage of the time
+0x1344e runs an average of 1.0 times when it is run.
+---
+b addr: 0x13456 total: 10
+3: 1.0
+0x13456 ran 1 times: 1.0 this percentage of the time
+0x13456 runs an average of 1.0 times when it is run.
+---
+b addr: 0x1345e total: 10
+3: 1.0
+0x1345e ran 1 times: 1.0 this percentage of the time
+0x1345e runs an average of 1.0 times when it is run.
+---
+b addr: 0x13466 total: 10
+3: 1.0
+0x13466 ran 1 times: 1.0 this percentage of the time
+0x13466 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1346b total: 10
+0: 1.0
+0x1346b ran 1 times: 1.0 this percentage of the time
+0x1346b runs an average of 1.0 times when it is run.
+---
+b addr: 0x1347c total: 10
+2: 1.0
+0x1347c ran 1 times: 1.0 this percentage of the time
+0x1347c runs an average of 1.0 times when it is run.
+---
+r addr: 0x13495 total: 10
+0: 1.0
+0x13495 ran 1 times: 1.0 this percentage of the time
+0x13495 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x133b6 total: 1
+4: 1.0
+0x133b6 ran 1 times: 1.0 this percentage of the time
+0x133b6 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x1341a total: 1
+0: 1.0
+0x1341a ran 1 times: 1.0 this percentage of the time
+0x1341a runs an average of 1.0 times when it is run.
+---
+mw addr: 0x1359b total: 1
+1: 1.0
+0x1359b ran 1 times: 1.0 this percentage of the time
+0x1359b runs an average of 1.0 times when it is run.
+---
+mw addr: 0x135f0 total: 1
+0: 1.0
+0x135f0 ran 1 times: 1.0 this percentage of the time
+0x135f0 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x13638 total: 1
+0: 1.0
+0x13638 ran 1 times: 1.0 this percentage of the time
+0x13638 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x136a3 total: 1
+0: 1.0
+0x136a3 ran 1 times: 1.0 this percentage of the time
+0x136a3 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x1a3c6 total: 4
+2: 1.0
+0x1a3c6 ran 2 times: 1.0 this percentage of the time
+0x1a3c6 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x1a3dc total: 4
+0: 1.0
+1: 1.0
+0x1a3dc ran 4 times: 1.0 this percentage of the time
+0x1a3dc runs an average of 4.0 times when it is run.
+---
+mw addr: 0x18992 total: 4
+6: 0.75
+7: 0.5
+0x18992 ran 2 times: 1.0 this percentage of the time
+0x18992 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x178ae total: 1
+2: 1.0
+0x178ae ran 1 times: 1.0 this percentage of the time
+0x178ae runs an average of 1.0 times when it is run.
+---
+mr addr: 0x17bf6 total: 1
+1: 1.0
+0x17bf6 ran 1 times: 1.0 this percentage of the time
+0x17bf6 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x189e0 total: 2
+3: 1.0
+0x189e0 ran 2 times: 1.0 this percentage of the time
+0x189e0 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x1559b total: 1
+4: 1.0
+0x1559b ran 32 times: 1.0 this percentage of the time
+0x1559b runs an average of 32.0 times when it is run.
+---
+mw addr: -0xae16 total: 1
+1: 1.0
+-0xae16 ran 16 times: 1.0 this percentage of the time
+-0xae16 runs an average of 16.0 times when it is run.
+---
+mw addr: -0xae0b total: 1
+0: 1.0
+-0xae0b ran 16 times: 1.0 this percentage of the time
+-0xae0b runs an average of 16.0 times when it is run.
+---
+mr addr: -0xa90d total: 1
+1: 1.0
+-0xa90d ran 1 times: 1.0 this percentage of the time
+-0xa90d runs an average of 1.0 times when it is run.
+---
+mw addr: 0x1a46f total: 2
+2: 1.0
+0x1a46f ran 2 times: 1.0 this percentage of the time
+0x1a46f runs an average of 2.0 times when it is run.
+---
+mw addr: 0x1a487 total: 2
+0: 1.0
+1: 1.0
+0x1a487 ran 4 times: 1.0 this percentage of the time
+0x1a487 runs an average of 4.0 times when it is run.
+---
+mw addr: 0x15692 total: 2
+3: 1.0
+0x15692 ran 1 times: 1.0 this percentage of the time
+0x15692 runs an average of 1.0 times when it is run.
+---
+mr addr: 0x156a8 total: 2
+2: 1.0
+0x156a8 ran 1 times: 1.0 this percentage of the time
+0x156a8 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x156bd total: 2
+16: 1.0
+0x156bd ran 1 times: 1.0 this percentage of the time
+0x156bd runs an average of 1.0 times when it is run.
+---
+mr addr: 0x15764 total: 2
+2: 0.5
+1: 0.5
+0x15764 ran 1 times: 1.0 this percentage of the time
+0x15764 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x18973 total: 2
+0: 1.0
+0x18973 ran 2 times: 1.0 this percentage of the time
+0x18973 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x1897f total: 2
+0: 1.0
+8: 0.5
+6: 0.5
+0x1897f ran 4 times: 1.0 this percentage of the time
+0x1897f runs an average of 4.0 times when it is run.
+---
+mw addr: -0xa1b4 total: 1
+1: 1.0
+-0xa1b4 ran 36 times: 1.0 this percentage of the time
+-0xa1b4 runs an average of 36.0 times when it is run.
+---
+mw addr: -0xa134 total: 1
+1: 1.0
+-0xa134 ran 252 times: 1.0 this percentage of the time
+-0xa134 runs an average of 252.0 times when it is run.
+---
+mr addr: -0xa16d total: 1
+19: 1.0
+10: 1.0
+-0xa16d ran 468 times: 1.0 this percentage of the time
+-0xa16d runs an average of 468.0 times when it is run.
+---
+mr addr: -0xa14c total: 1
+9: 1.0
+-0xa14c ran 324 times: 1.0 this percentage of the time
+-0xa14c runs an average of 324.0 times when it is run.
+---
+mr addr: -0xa14f total: 1
+0: 1.0
+-0xa14f ran 36 times: 1.0 this percentage of the time
+-0xa14f runs an average of 36.0 times when it is run.
+---
+mr addr: -0x9f3c total: 1
+20: 1.0
+-0x9f3c ran 138 times: 1.0 this percentage of the time
+-0x9f3c runs an average of 138.0 times when it is run.
+---
+mr addr: -0x9f03 total: 1
+13: 1.0
+-0x9f03 ran 138 times: 1.0 this percentage of the time
+-0x9f03 runs an average of 138.0 times when it is run.
+---
+mr addr: -0x9edc total: 1
+31: 1.0
+-0x9edc ran 138 times: 1.0 this percentage of the time
+-0x9edc runs an average of 138.0 times when it is run.
+---
+mr addr: -0x9e7f total: 1
+3: 1.0
+-0x9e7f ran 138 times: 1.0 this percentage of the time
+-0x9e7f runs an average of 138.0 times when it is run.
+---
+mr addr: -0x9e72 total: 1
+41: 1.0
+27: 1.0
+-0x9e72 ran 138 times: 1.0 this percentage of the time
+-0x9e72 runs an average of 138.0 times when it is run.
+---
+mr addr: -0x9de4 total: 1
+19: 1.0
+-0x9de4 ran 90 times: 1.0 this percentage of the time
+-0x9de4 runs an average of 90.0 times when it is run.
+---
+mr addr: -0x9dae total: 1
+17: 1.0
+-0x9dae ran 90 times: 1.0 this percentage of the time
+-0x9dae runs an average of 90.0 times when it is run.
+---
+mw addr: -0xa0c6 total: 1
+0: 1.0
+-0xa0c6 ran 6 times: 1.0 this percentage of the time
+-0xa0c6 runs an average of 6.0 times when it is run.
+---
+mr addr: -0x9e14 total: 1
+51: 1.0
+-0x9e14 ran 48 times: 1.0 this percentage of the time
+-0x9e14 runs an average of 48.0 times when it is run.
+---
+mw addr: 0x1a38f total: 1
+2: 1.0
+0x1a38f ran 2 times: 1.0 this percentage of the time
+0x1a38f runs an average of 2.0 times when it is run.
+---
+mw addr: 0x1a3a5 total: 1
+0: 1.0
+1: 1.0
+0x1a3a5 ran 4 times: 1.0 this percentage of the time
+0x1a3a5 runs an average of 4.0 times when it is run.
+---
+mw addr: 0x178b6 total: 1
+1: 1.0
+0x178b6 ran 2 times: 1.0 this percentage of the time
+0x178b6 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x178ca total: 1
+0: 1.0
+0x178ca ran 2 times: 1.0 this percentage of the time
+0x178ca runs an average of 2.0 times when it is run.
+---
+mr addr: 0x179ff total: 1
+1: 1.0
+0x179ff ran 2 times: 1.0 this percentage of the time
+0x179ff runs an average of 2.0 times when it is run.
+---
+mr addr: 0x16054 total: 1
+7: 1.0
+0x16054 ran 2880 times: 1.0 this percentage of the time
+0x16054 runs an average of 2880.0 times when it is run.
+---
+mw addr: 0x19cde total: 1
+1: 1.0
+0x19cde ran 1 times: 1.0 this percentage of the time
+0x19cde runs an average of 1.0 times when it is run.
+---
+mw addr: 0x19ce9 total: 1
+2: 1.0
+0x19ce9 ran 1 times: 1.0 this percentage of the time
+0x19ce9 runs an average of 1.0 times when it is run.
+---
+mw addr: 0x19cf1 total: 1
+3: 1.0
+0x19cf1 ran 1 times: 1.0 this percentage of the time
+0x19cf1 runs an average of 1.0 times when it is run.
+---
+mw addr: -0xb0f8 total: 1
+1: 1.0
+-0xb0f8 ran 2 times: 1.0 this percentage of the time
+-0xb0f8 runs an average of 2.0 times when it is run.
+---
+mw addr: -0x9b9e total: 1
+3: 1.0
+-0x9b9e ran 4 times: 1.0 this percentage of the time
+-0x9b9e runs an average of 4.0 times when it is run.
+---
+mr addr: -0xae8b total: 1
+1: 1.0
+-0xae8b ran 2 times: 1.0 this percentage of the time
+-0xae8b runs an average of 2.0 times when it is run.
+---
+mw addr: 0x1b46e total: 1
+1: 1.0
+0x1b46e ran 2 times: 1.0 this percentage of the time
+0x1b46e runs an average of 2.0 times when it is run.
+---
+mw addr: 0x1b479 total: 1
+2: 1.0
+0x1b479 ran 2 times: 1.0 this percentage of the time
+0x1b479 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x1b481 total: 1
+3: 1.0
+0x1b481 ran 2 times: 1.0 this percentage of the time
+0x1b481 runs an average of 2.0 times when it is run.
+---
+mw addr: 0x157af total: 1
+0: 1.0
+0x157af ran 192 times: 1.0 this percentage of the time
+0x157af runs an average of 192.0 times when it is run.
+---
+mw addr: 0x165d4 total: 1
+3: 1.0
+0x165d4 ran 385 times: 1.0 this percentage of the time
+0x165d4 runs an average of 385.0 times when it is run.
+---
+mw addr: 0x165e9 total: 1
+3: 1.0
+0x165e9 ran 385 times: 1.0 this percentage of the time
+0x165e9 runs an average of 385.0 times when it is run.
+---
+mr addr: 0x160d8 total: 1
+1: 1.0
+0x160d8 ran 192 times: 1.0 this percentage of the time
+0x160d8 runs an average of 192.0 times when it is run.
+---
+mw addr: 0x188fd total: 1
+0: 1.0
+0x188fd ran 2 times: 1.0 this percentage of the time
+0x188fd runs an average of 2.0 times when it is run.
+---

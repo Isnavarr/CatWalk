@@ -1,8 +1,12 @@
 from BranchObject import BranchObject
 
 addrs = {} # {addrs: <type, dict{ins count: [input]}, totalCount>}
+testcaseLoop = {} # {testcase, loops}
+i = 1
+a_file = open("Wolfssl_New_dsa_10.txt", "w")
+b_file = open("important.txt", "w")
 
-startFile = 3
+startFile = 32
 numFiles = 2
 for testNum in range(startFile, startFile + numFiles):
     filename = 'trace' + str(testNum) + '.txt'
@@ -18,6 +22,8 @@ for testNum in range(startFile, startFile + numFiles):
         trace = line.strip().split(':')
         
         if trace[0][0] == 't':
+            for addr in addrs:
+                addrs[addr].update2(testNum)
             break
             # this is the end of our trace file
 
@@ -30,24 +36,35 @@ for testNum in range(startFile, startFile + numFiles):
 
         inscount = int(trace_file.readline().strip()[2:])    # read inscount after this address
 
-        if hex(addr) not in addrs:
-            addrs[hex(addr)] = BranchObject(hex(addr), addrtype)
         
-        addrs[hex(addr)].update(inscount, testNum)
+        if hex(addr) not in addrs: # but now we want to make it so its writing to our temp dictionary 
+            addrs[hex(addr)] = BranchObject(hex(addr), addrtype)
+            addrs[hex(addr)].updateVisitTotal()
+        else: 
+            addrs[hex(addr)].updateVisitTotal()
+
+        addrs[hex(addr)].update(inscount, testNum) # update our temp but not the final ver yet
 
     trace_file.close()
-  
+
+print("start address : " + str(hex(start)), file=a_file)
+print('---', file=a_file)
+print("start address : " + str(hex(start)), file=b_file)
+print('---', file=b_file)
 # print(addrs)
+totalBranches = 0
+nonConstantBranches = 0
 for addr in addrs:
-    addrs[addr].printProportions()
-    print('---')
-
-
-
-
-
-
-
+    #addrs[addr].update2() #new 
+    if len(addrs[addr].visitTotal) == 1:
+        addrs[addr].printProportions(a_file)
+        print('---', file=a_file)
+    else:
+        addrs[addr].printProportionsImp(b_file, start)
+        print('---', file=b_file)
+        nonConstantBranches += 1
+    totalBranches += 1
+    
 
 
 
