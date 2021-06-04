@@ -54,13 +54,13 @@ bool _useFixedRandomNumber = false;
 UINT64 _fixedRandomNumber = 0;
 
 /* TESTCASE BOOLS */
-bool isTest = false;
-bool isStart = true;
+bool isTest = false;        // we only want to collect traces when we're in a testcase
+bool isStart = true;        // for us to know if this is the start of the testcase
 
 /* TRACE VARIABLES */
-UINT64 count = 0;
-bool memAccessed = false;
-char prevMemPg;
+UINT64 count = 0;           // count of instructions
+bool memAccessed = false;   // if the last instruction accessed memory
+char prevMemPg;             // stores the previous physical page num
 
 /* CALLBACK PROTOTYPES */
 
@@ -77,17 +77,33 @@ void ChangeRandomNumber(ADDRINT* outputReg);
 void ChangeCpuId(UINT32 inputEax, UINT32 inputEcx, UINT32* outputEax, UINT32* outputEbx, UINT32* outputEcx, UINT32* outputEdx);
 
 /* TRACER FUNCTIONS */
+
+/**
+ * doCount takes in the instruction's Address (for debug purposes)
+ *  and increments the count of instructions between branches/mem access
+ * Only instrumented when the ins is non-branch or non-new mem access
+ */
 void doCount(ADDRINT insAddr) {
     if (!isTest)
 	    return;
     count++;
+    // debug info, this line prints out the address of every non branch
+    //  or non-new memory access (helpful for comparing results to disassembly
+    //std::cout << StringFromAddrint(insAddr) << std::endl;
 }
 
+/**
+ * writeCount prints the instruction count and resets it to 0
+ */
 void writeCount() {
     std::cout << "i:" << count << std::endl;
     count = 0;
 }
 
+/**
+ * insertBranchEntry calls writeCount and then prints b:branchAddr
+ *  it also gets the target address (where it jumps to) for debugging purposes
+ */
 void InsertBranchEntry(ADDRINT sourceAddress, ADDRINT targetAddress)
 {
     if (!isTest)
@@ -100,6 +116,10 @@ void InsertBranchEntry(ADDRINT sourceAddress, ADDRINT targetAddress)
     //PIN_UnlockClient();
 }
 
+/**
+ * insertRetBranchEntry calls writeCount and then prints r:retAddr
+ *  it also gets the context after ret for debugging purposes
+ */
 void InsertRetBranchEntry(ADDRINT sourceAddress, CONTEXT* contextAfterRet)
 {
     if (!isTest)
@@ -109,6 +129,14 @@ void InsertRetBranchEntry(ADDRINT sourceAddress, CONTEXT* contextAfterRet)
     memAccessed = false;
 }
 
+/**
+ * insertMemoryReadEntry first gets the physical page num (4th digit from the right)
+ *  and then checks if memory has not been accessed recently or if it has but it
+ *  was accessed on a different physical page (i.e. if this is a new mem page access)
+ *      then it writes count, prints the ins address:mem address
+ *      and sets the necessary values
+ *  otherwise, it will just call doCount and treat it like a normal ins
+ */
 void InsertMemoryReadEntry(ADDRINT instructionAddress, ADDRINT memoryAddress)
 {
     if (!isTest)
@@ -133,6 +161,9 @@ void InsertMemoryReadEntry(ADDRINT instructionAddress, ADDRINT memoryAddress)
     }
 }
 
+/**
+ * insertMemoryWriteEntry works exactly like how insertMemoryReadEntry works
+ */
 void InsertMemoryWriteEntry(ADDRINT instructionAddress, ADDRINT memoryAddress)
 {
     if (!isTest)
@@ -317,13 +348,17 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
                 continue;
             }
 
+            /** ADDED INSTRUMENTATION: START**/
             // If this is not the interesting img we want, continue
             
-            //if(IMG_Name(IMG_FindByAddress(INS_Address(ins))).find("libwolfssl.so") == std::string::npos)
-           if(IMG_Name(IMG_FindByAddress(INS_Address(ins))).find("libshared.so") == std::string::npos)
+            if(IMG_Name(IMG_FindByAddress(INS_Address(ins))).find("libwolfssl.so") == std::string::npos) {
+            // if(IMG_Name(IMG_FindByAddress(INS_Address(ins))).find("libshared.so") == std::string::npos)
                 continue;
+            }
             
+            // debug info, helpful for printing the library this ins is in
             //std::cout << IMG_Name(IMG_FindByAddress(INS_Address(ins))) << std::endl;
+
             // If we're at the beginning of an interesting img, print start
             if(isStart)
             {
@@ -332,7 +367,8 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
                 continue;
             }
 
-            //std::cout << StringFromAddrint(INS_Address(ins)) << std::endl;
+            // these next if statements check what type the instruction is
+            //  and then directs the parameters to the appropriate helper function
 
             // Trace branch instructions (conditional and unconditional)
             if(INS_IsCall(ins) && INS_IsControlFlow(ins))
@@ -395,12 +431,14 @@ VOID InstrumentTrace(TRACE trace, VOID* v)
                 continue;
             }
 
-	    INS_InsertCall(ins, IPOINT_BEFORE, AFUNPTR(doCount),
-		    IARG_INST_PTR,
-		    IARG_END);
+	        INS_InsertCall(ins, IPOINT_BEFORE, AFUNPTR(doCount),
+		        IARG_INST_PTR,
+		        IARG_END);
 
-            //TraceWriter::doCount();
+            /** ADDED INSTRUMENTATION: END **/
         }
+
+
     }
 }
 
@@ -741,9 +779,8 @@ TraceEntry* TestcaseStart(ADDRINT newTestcaseId, THREADID tid, TraceEntry* nextE
 TraceEntry* TestcaseEnd(TraceEntry* nextEntry, THREADID tid)
 {
     // tells us to stop logging
-    isTest = false;
     writeCount();
-    // TraceWriter::writeCount();
+    isTest = false;
 
     // Get trace logger object and set the new testcase ID
     TraceWriter* traceWriter = static_cast<TraceWriter*>(PIN_GetThreadData(_traceWriterTlsKey, tid));
